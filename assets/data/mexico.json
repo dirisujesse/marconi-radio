@@ -1,0 +1,262 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "SalsaMexico",
+        "id": "1720415",
+        "genre": "Salsa",
+        "logo": "http://i.radionomy.com/document/radios/6/6f69/6f698ce8-1fcd-45d4-9b16-22bd4c232e1b.png"},
+      {
+        "name": "RADIO EXTREMO - TRANSMITIENDO DESDE GUADALAJARA JALISCO MEXICO RADIO EXTREMO 24/7 AMERICA LATINA",
+        "id": "784173",
+        "genre": "Pop"},
+      {
+        "name": "Euro Music Radio Mexico FM",
+        "id": "1732811",
+        "genre": "Disco",
+        "logo": "http://i.radionomy.com/document/radios/2/2a2f/2a2f3d32-4988-48d6-860d-f89bcf966be0.png"},
+      {
+        "name": "CSW Radio Networks Mexico",
+        "id": "99450572",
+        "genre": "Oldies"},
+      {
+        "name": "Radio Mexico es",
+        "id": "613889",
+        "genre": "Salsa",
+        "logo": "http://i.radionomy.com/documents/radio/3507bb89-f237-46f1-9b06-82e4bebc1591.s165.jpg"},
+      {
+        "name": "VidMexico",
+        "id": "99306501",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/1/1a83/1a830b9c-0b67-4c76-a1d9-fbdbec7c5a65.jpg"},
+      {
+        "name": "Top Mexico",
+        "id": "99314182",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/a/a7d9/a7d98a5d-2ef6-48be-8282-0578f617f747.jpg"},
+      {
+        "name": "WTF Radio Mexico",
+        "id": "1054473",
+        "genre": "Classic Rock",
+        "logo": "http://i.radionomy.com/documents/radio/5d16dc75-8c7f-4fc1-b932-5fd3623559d5.s165.jpg"},
+      {
+        "name": "Diversa Radio Mexico",
+        "id": "99232777",
+        "genre": "Rockabilly",
+        "logo": "http://i.radionomy.com/document/radios/9/9cd0/9cd05232-f29c-480a-8ab1-1559ac0358f0.jpg"},
+      {
+        "name": "Caldero Radio Mexico",
+        "id": "99394570",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/6/6ca3/6ca33260-4cad-4bd1-a8a4-9d8ce99fe97b.jpg"},
+      {
+        "name": "Oldies Mexico",
+        "id": "99180054",
+        "genre": "Latin Rock",
+        "logo": "http://i.radionomy.com/documents/radio/20110706225926-images.s125.jpg"},
+      {
+        "name": "radio fusion mexico",
+        "id": "99213092",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/6/6f99/6f998470-0b5e-4408-883c-ca9323fc21fc.jpg"},
+      {
+        "name": "POPFMMX MEXICO",
+        "id": "649765",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/documents/radio/4b4af2a4-58e9-4336-8075-e56d7f210fc7.s165.png"},
+      {
+        "name": "Oldies Hits Mexico",
+        "id": "1476650",
+        "genre": "Latin Rock",
+        "logo": "http://i.radionomy.com/documents/radio/cd36f9f0-17a8-4ddb-ae14-73e16c499020.s165.png"},
+      {
+        "name": "MEXICO CLASICO",
+        "id": "687154",
+        "genre": "Classical",
+        "logo": "http://i.radionomy.com/documents/radio/4e1e4951-807a-4e22-bc6c-f8864a04645c.s165.jpg"},
+      {
+        "name": "RADIO CARNAVAL MEXICO",
+        "id": "1686066",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/documents/radio/2ab38201-2398-46d1-9c9c-a20ece6cfa8b.s165.png"},
+      {
+        "name": "BebetoMx-mexico",
+        "id": "631860",
+        "genre": "Ambient",
+        "logo": "http://i.radionomy.com/documents/radio/0ada598b-a2d3-4e5c-9163-472bba303ef0.s165.jpg"},
+      {
+        "name": "New Media New Mexico",
+        "id": "99316022",
+        "genre": "Indie Rock",
+        "logo": "http://i.radionomy.com/document/radios/3/3208/320826fd-a0c6-4698-b42f-a3650f01d6ca.png"},
+      {
+        "name": "MEXICO POP DIGITAL",
+        "id": "740159",
+        "genre": "Soft Rock",
+        "logo": "http://i.radionomy.com/documents/radio/a6dee6fc-8636-46a8-9b97-3e2620c5b0bf.s165.jpg"},
+      {
+        "name": "RADIO NET MEXICO",
+        "id": "99309639",
+        "genre": "Chill",
+        "logo": "http://i.radionomy.com/document/radios/4/4150/4150d885-3ecf-4bcb-b75b-1ead8f84b6c4.jpg"},
+      {
+        "name": "RADIO EMPRENDE MEXICO",
+        "id": "99358286",
+        "genre": "Latin Pop",
+        "logo": "http://i.radionomy.com/document/radios/3/389a/389aa5b6-a709-4c37-bd89-aba3746309f8.png"},
+      {
+        "name": "sbg sounds radio mexico",
+        "id": "614480",
+        "genre": "Electro",
+        "logo": "http://i.radionomy.com/documents/radio/489ad922-07b5-4a37-a44f-920112392428.s165.png"},
+      {
+        "name": "Estamos Cumbiando El Mundo Mexico",
+        "id": "99226207",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/a/ad47/ad47cde6-b88d-4bb1-b87f-a3c25ac698d3.jpg"},
+      {
+        "name": "- Rock Radio Online Mexico -",
+        "id": "868448",
+        "genre": "Hard Rock",
+        "logo": "http://i.radionomy.com/documents/radio/93b868cb-03fc-42dc-ad5a-d4a496524993.s165.jpg"},
+      {
+        "name": "radiouniversalmexicoo",
+        "id": "848747",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/documents/radio/ef81568a-692f-4d68-9317-0aa05d034417.s165.png"},
+      {
+        "name": "citymexico",
+        "id": "99378542",
+        "genre": "Chill",
+        "logo": "http://i.radionomy.com/document/radios/f/f422/f4223a05-d9b7-4c66-9054-0d0fac7cf61c.jpg"},
+      {
+        "name": "Radio Idea Mexico",
+        "id": "99389554",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/6/61a7/61a7f9a1-e8dc-4dfd-b4d8-5a3c00bc446e.jpg"},
+      {
+        "name": "Digital Mexico Radio",
+        "id": "99230071",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/f/f623/f623ed35-d5a7-4cca-8171-f3d79761a1ad.jpg"},
+      {
+        "name": "90s MEXICO POP TORUS",
+        "id": "99337850",
+        "genre": "Latin Dance",
+        "logo": "http://i.radionomy.com/document/radios/7/70e3/70e35974-4a3d-45fc-bcf3-12b8d9f7f7cd.jpg"},
+      {
+        "name": "Que Viva Mexico",
+        "id": "99179643",
+        "genre": "Cumbia",
+        "logo": "http://i.radionomy.com/documents/radio/7c075522ce7748c9ad5ebe51f339618a_635195844818440271.s125.jpg"},
+      {
+        "name": "New Mexico Music",
+        "id": "99279227",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/c/c9f3/c9f306e5-2b58-4e66-b55e-ad2f46be7829.jpg"},
+      {
+        "name": "New Mexico Music",
+        "id": "99279230",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/c/c9f3/c9f306e5-2b58-4e66-b55e-ad2f46be7829.jpg"},
+      {
+        "name": "No Way Back: Mexico City",
+        "id": "99253888",
+        "genre": "House",
+        "logo": "http://i.radionomy.com/document/radios/9/9356/93564819-a5bd-40bc-b2e9-681080ef5d31.jpg"},
+      {
+        "name": "kpop is Mexico",
+        "id": "99389572",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/document/radios/f/fe18/fe18d102-8b55-4470-8f41-997c68d6cab7.jpg"},
+      {
+        "name": "GreatEventsMexico",
+        "id": "99286151",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/d/d15a/d15acfb9-a6b6-426a-8e2c-c9726c723501.png"},
+      {
+        "name": "LaRadioCristianaMexico",
+        "id": "99184008",
+        "genre": "Christian Rock",
+        "logo": "http://i.radionomy.com/documents/radio/f5af671ccb1e435b810e7f37c9929d1c_635354715560202094.s125.jpg"},
+      {
+        "name": "identidad radio online mexico",
+        "id": "99211406",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/8/8377/8377bb3d-513c-4bd9-b5b0-fc76ab6922a4.jpg"},
+      {
+        "name": "Yo Mexico 1",
+        "id": "99367580",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/3/3252/3252c96d-d8d0-4abb-9cb8-999e7990b931.jpg"},
+      {
+        "name": "england to mexico",
+        "id": "99273641",
+        "genre": "Dubstep",
+        "logo": "http://i.radionomy.com/document/radios/9/91c3/91c3e858-9127-476e-ac47-8c04324d32a0.jpg"},
+      {
+        "name": "radioebenezermexico",
+        "id": "99379890",
+        "genre": "Christian",
+        "logo": "http://i.radionomy.com/document/radios/1/1ff6/1ff66f9a-7bfc-4096-8e4f-a67a591343ff.png"},
+      {
+        "name": "Dj Prowler Live from Newmexico",
+        "id": "99245239",
+        "genre": "Praise and Worship",
+        "logo": "http://i.radionomy.com/document/radios/5/5716/57168a75-9899-4954-a2a0-5430ccec09d6.jpg"},
+      {
+        "name": "despapaye desde mexico",
+        "id": "99244216",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/0/0e63/0e6305eb-fafc-4988-890c-ae39bc961c29.jpg"},
+      {
+        "name": "CEPRATMEXICO",
+        "id": "99394756",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/0/0061/00618b11-1924-490d-8c1b-d45a40bed50b.png"},
+      {
+        "name": "myradiomexico",
+        "id": "261586",
+        "genre": "Latin Pop",
+        "logo": "http://i.radionomy.com/documents/radio/fbd4b3af-c348-440c-b4e3-e0b52a6e7834.s165.gif"},
+      {
+        "name": "Radio Internacional Mexico",
+        "id": "99285974",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/1/1545/15452622-3aa0-48b6-a8f0-2c725170114d.png"},
+      {
+        "name": "internautas de mexico",
+        "id": "99398107",
+        "genre": "Symphony",
+        "logo": "http://i.radionomy.com/document/radios/6/61a6/61a675ba-c9a7-4563-8b14-169f20b1f288.jpg"},
+      {
+        "name": "LA EXITOSA DE RADIANTV MEXICO",
+        "id": "435934",
+        "genre": "Electro",
+        "logo": "http://i.radionomy.com/documents/radio/b0547cd4-1cc7-471d-bf48-8ecd2b614a1f.s165.jpg"},
+      {
+        "name": "Radio Mexico Internacional",
+        "id": "99343088",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/3/30fb/30fbd5ac-d25a-47cf-9ff7-d560a65125fe.png"},
+      {
+        "name": "New Mexico Artists",
+        "id": "99333629",
+        "genre": "Experimental",
+        "logo": "http://i.radionomy.com/document/radios/7/7563/7563d615-f2d9-4574-af76-431c079656eb.jpg"},
+      {
+        "name": "Dieters Schlager Radio 2 - Testsendung",
+        "id": "1435923",
+        "genre": "Oldies"},
+      {
+        "name": "Dieters Schlager Radio 1 - Testsendung",
+        "id": "1466532",
+        "genre": "Oldies"}
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "ACCRA24 Ghana Radio",
+        "id": "1759475",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/b/bc28/bc28fa9c-8c71-4b2d-8194-e2c84bb49bb6.png"
+      },
+      {
+        "name": "DFW Ghanaian SDA Church Radio",
+        "id": "99446162",
+        "genre": "Gospel"
+      },
+      {
+        "name": "Adom FM Ghana",
+        "id": "1802065",
+        "genre": "International",
+        "logo": "http://i.radionomy.com/document/radios/c/c792/c7925bb7-332b-4dd4-87ae-d41e6dbd98cb.png"
+      },
+      {
+        "name": "Ghanawish Radio (MB RECASTER)",
+        "id": "1677052",
+        "genre": "African"
+      },
+      {
+        "name": "GEMC Radio (Ghana Ebenezer Methodist Church Radio)",
+        "id": "1815283",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/2/2d71/2d717d9e-b633-410c-94c1-697233445ffa.png"
+      },
+      {
+        "name": "Ghana Sky.com",
+        "id": "1629697",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/c/ce55/ce55f021-66a5-44e3-8039-21eab7447336.png"
+      },
+      {
+        "name": "Adikanfo Radio - Ghana Hits",
+        "id": "99459056",
+        "genre": "Inspirational"
+      },
+      {
+        "name": "Ghana Gospel Radio - GGR",
+        "id": "1752055",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/4/4ee3/4ee34beb-2827-454d-9f51-ab7836fca0b6.png"
+      },
+      {
+        "name": "GHANABARadio",
+        "id": "99436387",
+        "genre": "Misc"
+      },
+      {
+        "name": "DownUnder Radio",
+        "id": "1317747",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/8/8b28/8b28777a-711a-4c30-bcfe-557987f13b1c.jpg"
+      },
+      {
+        "name": "discoveryGhanaRADIO",
+        "id": "99338243",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/5/5f1f/5f1fed17-95be-494c-8498-9f569c7d2688.png"
+      },
+      {
+        "name": "Adom FM Ghana",
+        "id": "99248389",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/2/2089/20899428-3b8b-40d0-821c-f50f3636f7b5.jpg"
+      },
+      {
+        "name": "Ghana Motion Radio",
+        "id": "99313162",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/b/b2d6/b2d6d044-19db-4073-a140-911779406f6e.jpg"
+      },
+      {
+        "name": "Radio Ghana Online",
+        "id": "99317258",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/c/c490/c490efb4-c86f-4007-a504-7365d1d9147a.jpg"
+      },
+      {
+        "name": "Ghana Hits Online Radio",
+        "id": "99305238",
+        "genre": "Reggae",
+        "logo": "http://i.radionomy.com/document/radios/d/dd38/dd38b497-ccef-4334-afd3-5d40601c2ca2.jpg"
+      },
+      {
+        "name": "Radio Ghana",
+        "id": "99232033",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/0/052f/052fe01c-bb74-45eb-9920-2b66a9707a5c.png"
+      },
+      {
+        "name": "Ghana Gospel Radio online",
+        "id": "99253813",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/e/e157/e157799c-ef50-4553-903d-5577af050727.jpg"
+      },
+      {
+        "name": "FAVORED RADIO GHANA LIVE",
+        "id": "99369528",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/5/5a33/5a335321-c78a-4717-80df-449c6cee70fa.jpg"
+      },
+      {
+        "name": "Jersey Ghana Radio The Voice Of Africa",
+        "id": "99220798",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/6/648a/648a9778-43b6-47f9-9645-8849fef42b5e.jpg"
+      },
+      {
+        "name": "Radio Webster Ghana",
+        "id": "99362639",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/6/63e9/63e97e63-5ebf-4505-9181-4e38ac6009b5.jpg"
+      },
+      {
+        "name": "Solid FM Ghana",
+        "id": "99260512",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/5/5942/5942eae7-0c8a-40f5-a3d9-0342e56d2f27.jpg"
+      },
+      {
+        "name": "7Fm Ghana",
+        "id": "99209570",
+        "genre": "Reggae",
+        "logo": "http://i.radionomy.com/document/radios/3/3875/38757b09-8e83-4376-9a1e-2c4952c562aa.jpg"
+      },
+      {
+        "name": "Radio Hope Ghana",
+        "id": "99359852",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/8/8cd5/8cd54f27-2f8e-45a1-9e7e-90a91a5d345b.jpg"
+      },
+      {
+        "name": "Ghana community Radio china",
+        "id": "99319160",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/8/8fc0/8fc05aa0-b225-4176-a863-0e34395d89d8.jpg"
+      },
+      {
+        "name": "Ghana Connect",
+        "id": "99351929",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/b/b8d8/b8d8eda2-4d2a-4c58-8171-087ff9ac1b68.jpg"
+      },
+      {
+        "name": "GHANA MELODY",
+        "id": "99338618",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/d/de3c/de3cdb9b-2672-4332-b8dd-5edaf58d50ac.jpg"
+      },
+      {
+        "name": "3 FM Ghana",
+        "id": "99312763",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/b/bf33/bf33ccc8-515c-4692-a0d4-e0f75d06e175.jpg"
+      },
+      {
+        "name": "Peace FM Ghana",
+        "id": "99248764",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/c/c3d0/c3d09f2a-3a95-4ea0-8590-408fb798f4a1.png"
+      },
+      {
+        "name": "Ghana Waves Radio",
+        "id": "492419",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/a/a89e/a89eedf2-51e7-4745-b02e-fa533bbed34c.png"
+      },
+      {
+        "name": "GHANARADIO ITALY",
+        "id": "1702281",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/documents/radio/B5DDA176-DE83-4A95-89B9-BE0FB904E65D.s165.png"
+      },
+      {
+        "name": "Kofi Ghana Radio",
+        "id": "99238282",
+        "genre": "Country Blues",
+        "logo": "http://i.radionomy.com/document/radios/5/586a/586ae5f8-4257-4db1-be09-4e4ac99f4c75.png"
+      },
+      {
+        "name": "Ghanabiradio",
+        "id": "99392914",
+        "genre": "Rock & Roll",
+        "logo": "http://i.radionomy.com/document/radios/8/8654/8654a6f2-213f-4152-90e3-bb3642556a5c.png"
+      },
+      {
+        "name": "Dam Radio Ghana",
+        "id": "99235222",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/a/a7e5/a7e5fa74-eb70-494a-87f2-f6da7bf602af.jpg"
+      },
+      {
+        "name": "US-Ghana Online",
+        "id": "99234217",
+        "genre": "Worldbeat",
+        "logo": "http://i.radionomy.com/document/radios/6/64ab/64ab25e7-afe0-4462-b5aa-42fc1fa264e5.jpg"
+      },
+      {
+        "name": "Ghana Radio New York",
+        "id": "99309993",
+        "genre": "Classical",
+        "logo": "http://i.radionomy.com/document/radios/2/21fa/21fa572e-3574-4d39-8930-7c94eaf45fa2.jpg"
+      },
+      {
+        "name": "abeku ghana",
+        "id": "99215551",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/9/9905/99058e03-a5e0-4a70-8059-d6c7e77615a8.jpg"
+      },
+      {
+        "name": "Ghana ebenezer Methodist Church Radio",
+        "id": "99309507",
+        "genre": "Christian",
+        "logo": "http://i.radionomy.com/document/radios/d/d708/d708ee32-3b4c-4d1b-b0bc-8eede82dd897.jpg"
+      },
+      {
+        "name": "HotGhanaRadio",
+        "id": "99341255",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/b/b355/b3553b1a-44f0-41e3-8ef0-b24ba7b5f54c.png"
+      },
+      {
+        "name": "Ghanansem FM",
+        "id": "1115351",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/5/5e00/5e0013ae-5cf0-4198-bf80-0bbe23dd93ee.jpg"
+      },
+      {
+        "name": "Adikanfo Radio - Ghana Hits",
+        "id": "114400",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/8/8c37/8c37c70c-c5aa-40e6-a753-7c5436ed217c.png"
+      },
+      {
+        "name": "H Radio Ghana",
+        "id": "99224044",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/8/8598/8598f967-6e7f-4241-b92b-f78279c3080b.jpg"
+      },
+      {
+        "name": "salem ghana radio",
+        "id": "99299322",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/5/5871/58713890-e9c7-42e7-b71d-8afe1a35deb7.png"
+      }
+    ]
+  }
+}

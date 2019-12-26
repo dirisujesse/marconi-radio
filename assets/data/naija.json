@@ -1,0 +1,76 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "Test RadNaija",
+        "id": "99377154",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/6/6fd2/6fd25eab-e639-49fa-944e-c9a899873522.png"
+      },
+      {
+        "name": "Naija Gospel World Radio",
+        "id": "1303316",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/documents/radio/e2472ae1-34f9-49ce-a72b-20a1f0d5d691.s165.jpg"
+      },
+      {
+        "name": "Naijafm SA",
+        "id": "99299142",
+        "genre": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/0/06ad/06ad6cad-b52d-49fd-96ce-85ef1f70bca7.jpg"
+      },
+      {
+        "name": "NaijaRecordsFM",
+        "id": "99243598",
+        "genre": "Hardcore",
+        "logo": "http://i.radionomy.com/document/radios/f/ff04/ff0472b0-b4f5-4627-bfd5-2c0278c30314.jpg"
+      },
+      {
+        "name": "Buynaija",
+        "id": "99335762",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/5/5190/51902a34-1f0c-44eb-b1d1-7695c09aed14.png"
+      },
+      {
+        "name": "NaijaBeat Radio",
+        "id": "99306105",
+        "genre": "Dancehall",
+        "logo": "http://i.radionomy.com/document/radios/5/5a69/5a69830f-2d9a-436d-91c5-6dfb4d200a61.jpg"
+      },
+      {
+        "name": "RnB Hits Radio - Afro Beats Naija 1",
+        "id": "1452672",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/documents/radio/a4b1c5df-a8d5-4763-b2f3-34fb7aef80ec.s165.jpg"
+      },
+      {
+        "name": "Gospel City Naija Radio",
+        "id": "99344318",
+        "genre": "Country",
+        "logo": "http://i.radionomy.com/document/radios/e\\e123\\e1236cd4-c476-40d3-af41-c0e403039d37.png"
+      },
+      {
+        "name": "RnB Hits Radio - Naija1",
+        "id": "1253106",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/d19307a9-39ba-4ba5-9347-8da19a0d7e2d.s165.jpg"
+      },
+      {
+        "name": "Naija Gospo Radio",
+        "id": "99319538",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/a/a253/a253e960-cd09-45ae-a03c-003600938ccf.jpg"
+      },
+      {
+        "name": "BlastFM Indie Radio Station",
+        "id": "99413413",
+        "genre": "Indie Pop"
+      }
+    ]
+  }
+}

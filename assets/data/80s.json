@@ -1,0 +1,1122 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "MagicRadio by PulsRadio",
+        "id": "1409252",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/8/8043/80437784-7572-4f8c-aa23-177fa2645d90.png"
+      },
+      {
+        "name": "The Big 80s Station",
+        "id": "1681319",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/5/569b/569b2f6b-6457-4402-8670-10b53fcfea5a.jpg"
+      },
+      {
+        "name": ".113FM Awesome 80s",
+        "id": "1816910",
+        "genre": "80s"
+      },
+      {
+        "name": "1000 HITS 80s",
+        "id": "1714900",
+        "genre": "80s"
+      },
+      {
+        "name": "1.FM - A List 80's (www.1.fm)",
+        "id": "1666375",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/6/621b/621b800f-a442-4cbd-8e70-92ec8221e726.png"
+      },
+      {
+        "name": ".113FM Hits 1980",
+        "id": "1739211",
+        "genre": "80s"
+      },
+      {
+        "name": "MagicRadio by PulsRadio",
+        "id": "1295895",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/8/8043/80437784-7572-4f8c-aa23-177fa2645d90.png"
+      },
+      {
+        "name": "1.FM - All Euro 80's (www.1.fm)",
+        "id": "1563110",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/7/7279/727953b0-11e8-428a-a8fa-ced90c3b8a69.jpg"
+      },
+      {
+        "name": "All80s",
+        "id": "1807836",
+        "genre": "80s"
+      },
+      {
+        "name": "80S FOREVER RADIO",
+        "id": "99450089",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Italo4you",
+        "id": "157531",
+        "genre": "80s"
+      },
+      {
+        "name": "RADIO CENTER 80s",
+        "id": "1487754",
+        "genre": "80s"
+      },
+      {
+        "name": "The Mix Radio 80s",
+        "id": "99455705",
+        "genre": "80s"
+      },
+      {
+        "name": "RetroHitMix (Retro Hit Mix)",
+        "id": "769891",
+        "genre": "80s"
+      },
+      {
+        "name": "Maxi 80 Webradio France",
+        "id": "426124",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/2191/21916d71-53e8-43da-bc28-a8ff36fd27fb.jpg"
+      },
+      {
+        "name": "Radio Skipper - The 80s Channel from Italy - Italia",
+        "id": "1811901",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/e/e9c2/e9c2898b-715f-4def-ade9-7ddff6f3fba5.png"
+      },
+      {
+        "name": "Yearradio_NL",
+        "id": "99458831",
+        "genre": "80s"
+      },
+      {
+        "name": "The Big 80s Station",
+        "id": "1630271",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/5/569b/569b2f6b-6457-4402-8670-10b53fcfea5a.jpg"
+      },
+      {
+        "name": "Radio Studio Souto - Saudade 80s",
+        "id": "1666738",
+        "genre": "80s"
+      },
+      {
+        "name": "POWERHITZ.COM - Ultimate 80's",
+        "id": "1582536",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/2660/26604edc-cbb8-4f6e-9595-8b40a8a6e67f.png"
+      },
+      {
+        "name": "RetroHitMix (Retro Hit Mix)",
+        "id": "1417378",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Studio Souto - Love Songs",
+        "id": "1677139",
+        "genre": "80s"
+      },
+      {
+        "name": "Made in 80",
+        "id": "1441476",
+        "genre": "80s"
+      },
+      {
+        "name": "LA GUARIDA RADIO",
+        "id": "1875156",
+        "genre": "80s"
+      },
+      {
+        "name": "Kiss Fm 91.1 Ioannina | 80s | 90s | Todays | Greek | Greece | Hellas",
+        "id": "1354009",
+        "genre": "80s"
+      },
+      {
+        "name": "Top 80 radio",
+        "id": "99450530",
+        "genre": "80s"
+      },
+      {
+        "name": "RAM FM Eighties Hit Radio",
+        "id": "1613669",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/5/5737/57372f3c-2921-4c07-9e5b-de15fa90f5ba.png"
+      },
+      {
+        "name": "TOP 80 - TODOS OS EXITOS DE 80 A 2000",
+        "id": "1369606",
+        "genre": "80s"
+      },
+      {
+        "name": "All80s",
+        "id": "1720151",
+        "genre": "80s"
+      },
+      {
+        "name": "80s  Super Dance floor",
+        "id": "1366399",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/4/4d8e/4d8e3fa3-ee90-4b7c-9253-e924c66e7a2a.png"
+      },
+      {
+        "name": "Hit Music Network 80s",
+        "id": "1664782",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/0/03ec/03ec3358-fb60-4387-939d-a9237cd124ea.jpg"
+      },
+      {
+        "name": "All Hit Radio - The Hot Fm",
+        "id": "1707102",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/b/b5ab/b5ab9919-40b4-4154-befd-aa58666a37b7.jpg"
+      },
+      {
+        "name": "RAM FM Eighties Hit Radio",
+        "id": "1592775",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/5/5737/57372f3c-2921-4c07-9e5b-de15fa90f5ba.png"
+      },
+      {
+        "name": "RMI - GoldMusic",
+        "id": "1657901",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/6/668e/668e97d2-90a8-4f8d-8551-eeec82e381db.png"
+      },
+      {
+        "name": "Kickradio",
+        "id": "1601644",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/8/86ea/86eadba7-0761-4395-bad6-583735d8efdb.png"
+      },
+      {
+        "name": "Retro Show Radio",
+        "id": "1825947",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/1/1eef/1eef82c0-9cb2-462a-8713-37bc4c520d24.jpg"
+      },
+      {
+        "name": "Hot Hitz 80's",
+        "id": "1132806",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/a/ade9/ade9ced5-dbc8-4bdc-bac6-4dca7b5f8da8.png"
+      },
+      {
+        "name": ".113FM Flashback",
+        "id": "1723926",
+        "genre": "80s"
+      },
+      {
+        "name": "Tropicalisima Baladas",
+        "id": "99442382",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Fusion Italia",
+        "id": "99447605",
+        "genre": "80s"
+      },
+      {
+        "name": "Hot FM UK (hotfmuk)",
+        "id": "1759095",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/b/b18a/b18ae554-7568-4760-a3de-17de09ffbc02.jpg"
+      },
+      {
+        "name": "1.FM - Magic 80's (www.1.fm)",
+        "id": "1669911",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/5/5c83/5c833074-1b9a-4806-ac86-2992cceeab8f.jpg"
+      },
+      {
+        "name": "waterlu tou",
+        "id": "99468221",
+        "genre": "80s"
+      },
+      {
+        "name": "A-Z 80s",
+        "id": "99415207",
+        "genre": "80s"
+      },
+      {
+        "name": "Kool Rock Radio Flashback",
+        "id": "99452039",
+        "genre": "80s"
+      },
+      {
+        "name": "DI Radio Digital Impulse - Disco Hits 80s",
+        "id": "671421",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Sochaczew 94,9FM",
+        "id": "1806568",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/8/86e3/86e3b06a-21ee-41f8-bd7a-cd3f4edf25ba.png"
+      },
+      {
+        "name": "Wave 80 - wave80hits.com",
+        "id": "1267046",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Liberty Oldies Romania - www.RadioLiberty.Ro",
+        "id": "1194408",
+        "genre": "80s"
+      },
+      {
+        "name": "80s Hitradio Amsterdam",
+        "id": "1451838",
+        "genre": "80s"
+      },
+      {
+        "name": "Round and Sound radio",
+        "id": "99424120",
+        "genre": "80s"
+      },
+      {
+        "name": "Variety 80s Music",
+        "id": "1713077",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/1/1057/1057fcee-8959-42bf-8574-f3d07ad5d75a.jpg"
+      },
+      {
+        "name": "RAM FM Eighties Hit Radio",
+        "id": "1553367",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/5/5737/57372f3c-2921-4c07-9e5b-de15fa90f5ba.png"
+      },
+      {
+        "name": "A_A 80s vs 90s",
+        "id": "1188326",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio - Infinity",
+        "id": "1693158",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/c/c3bc/c3bc7867-3b59-4471-9881-760bb1934865.gif"
+      },
+      {
+        "name": "Voksenradio DK",
+        "id": "99467255",
+        "genre": "80s"
+      },
+      {
+        "name": "ABC 80's Eighties",
+        "id": "1748073",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/2df8/2df892f1-b535-44c3-9345-caba43b9bd5a.png"
+      },
+      {
+        "name": "RadioezOrit",
+        "id": "99453548",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Lado B Classic Dance",
+        "id": "1862023",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/4/42c4/42c4e7a9-d747-4614-851c-780501aa3774.png"
+      },
+      {
+        "name": "True 80s Music Radio",
+        "id": "1428202",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/3/31b0/31b0bd76-d1dc-4edf-99c0-bbf5f22579a8.jpg"
+      },
+      {
+        "name": "Somos Radioscura | Éxitos 80/90 las 24 hrs",
+        "id": "99458120",
+        "genre": "80s"
+      },
+      {
+        "name": "80sPlanet Radio",
+        "id": "1704279",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/b/bb2c/bb2ca668-ffc7-473d-8516-e9635829bc36.jpg"
+      },
+      {
+        "name": "MY80s",
+        "id": "1557368",
+        "genre": "80s"
+      },
+      {
+        "name": "NEON Radio",
+        "id": "99449000",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Mela",
+        "id": "99447035",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Kemonia",
+        "id": "1786161",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/0/0e07/0e0728f8-ca2e-485a-8a3e-58802f837572.jpg"
+      },
+      {
+        "name": "Magic FM Club 80s - Your Source For All Things Club 80s!",
+        "id": "1483091",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/7/73cb/73cb72c4-dba9-4aa5-a2fa-6e8c643f034e.jpg"
+      },
+      {
+        "name": "Actual Radio",
+        "id": "1656153",
+        "genre": "80s"
+      },
+      {
+        "name": "RadioTwist Canada",
+        "id": "1468892",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/6/6eef/6eef1c77-4563-4989-b989-106d0b3bc257.png"
+      },
+      {
+        "name": "80s And More",
+        "id": "1690682",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/6/6cd1/6cd1a6f2-183f-4b69-908a-507ae4c83459.png"
+      },
+      {
+        "name": "Classic Hits * C100",
+        "id": "1670150",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/c/c651/c651a34e-5b06-40ce-ac49-3c4077a767b8.gif"
+      },
+      {
+        "name": ".113FM Hits 1988",
+        "id": "1735952",
+        "genre": "80s"
+      },
+      {
+        "name": "ThreeTen Radio  Only the 80s",
+        "id": "1538595",
+        "genre": "80s"
+      },
+      {
+        "name": "XS80s",
+        "id": "1416578",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/6/6cec/6cecd0bf-cf6d-4d64-a447-bb20d2d851ed.jpg"
+      },
+      {
+        "name": "Swinoujscie Radio",
+        "id": "1779619",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/8/8347/834755a2-6e4c-4c8c-9f75-37e0ce24cdff.png"
+      },
+      {
+        "name": "80sRadio (MRG.fm)",
+        "id": "257970",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/3/3a9f/3a9f6eb4-b153-4f9e-979e-afef94dc36b1.jpg"
+      },
+      {
+        "name": ".113FM Hits 1989",
+        "id": "1803467",
+        "genre": "80s"
+      },
+      {
+        "name": "HITMIX Radio 80",
+        "id": "1729258",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/5/52ab/52ab76a5-4739-4805-acea-107c79b0e9a3.png"
+      },
+      {
+        "name": "1Radio.mk - Classic Rock",
+        "id": "1738667",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Oldies Romania",
+        "id": "1716004",
+        "genre": "80s"
+      },
+      {
+        "name": "CALM RADIO - I LOVE 80'S - Sampler",
+        "id": "1118521",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/c/cebe/cebef462-fc1e-4870-a3e1-f70ef258481c.jpg"
+      },
+      {
+        "name": "I.R.O.",
+        "id": "1412666",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/9/9e52/9e52a5b6-7679-4b77-ac9b-7ff48b212091.png"
+      },
+      {
+        "name": "Auckland 80s",
+        "id": "1745754",
+        "genre": "80s"
+      },
+      {
+        "name": ".113FM Hits 1984",
+        "id": "1739131",
+        "genre": "80s"
+      },
+      {
+        "name": "Mágica 87.7",
+        "id": "1783193",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/6/6066/60663fa5-c612-4211-899d-d0180193ae77.png"
+      },
+      {
+        "name": "Campeones Radio",
+        "id": "1401487",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/6/6a1d/6a1d53ed-fa01-449f-9a8c-0a69f1b0799d.png"
+      },
+      {
+        "name": "Limerick City Community Radio (LCCR)",
+        "id": "1286436",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/227a/227a7e11-aff2-4d52-b4c6-a1416bed8789.jpg"
+      },
+      {
+        "name": "Radio1 GOLDEN 80s",
+        "id": "1394746",
+        "genre": "80s"
+      },
+      {
+        "name": ".113FM Synthetic",
+        "id": "1699913",
+        "genre": "80s"
+      },
+      {
+        "name": "RARE NETRADIO",
+        "id": "99409243",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio GMusic Retro",
+        "id": "1436652",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/5/5ff6/5ff636e2-58b9-40c4-9582-fc94a5d2ec85.jpg"
+      },
+      {
+        "name": "Good-Sound.de",
+        "id": "1662968",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/1/1845/18453bcc-7215-466e-8711-5d64856a31c9.jpg"
+      },
+      {
+        "name": "1Radio.mk - At Work",
+        "id": "1769483",
+        "genre": "80s"
+      },
+      {
+        "name": "1Radio.mk - Comedy",
+        "id": "1736983",
+        "genre": "80s"
+      },
+      {
+        "name": "FM91 - 80's Music",
+        "id": "1531661",
+        "genre": "80s"
+      },
+      {
+        "name": ".113FM Hits 1981",
+        "id": "1750578",
+        "genre": "80s"
+      },
+      {
+        "name": "WebRadio-Waasland",
+        "id": "1786982",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/7/71be/71beea59-ed77-475b-8e64-7ab2188cf4af.jpg"
+      },
+      {
+        "name": "MixTime Radio",
+        "id": "1599895",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/f/f325/f325d7cf-1897-463b-948c-fd5211b1505f.jpg"
+      },
+      {
+        "name": "Made in 80s",
+        "id": "99415483",
+        "genre": "80s"
+      },
+      {
+        "name": "DI Radio Digital Impulse - New Wave '80s",
+        "id": "588285",
+        "genre": "80s"
+      },
+      {
+        "name": ":: De Culto Radio - El Vicio de la Musica | Valdivia, Chile --- Powered by [DenialHost.com] ::",
+        "id": "814091",
+        "genre": "80s"
+      },
+      {
+        "name": "93.7 Spin FM",
+        "id": "1258768",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/3/3f72/3f7266b9-cb88-4fa7-92a1-39bb87b452df.png"
+      },
+      {
+        "name": ".113FM Hits 1983",
+        "id": "1724226",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Sunstream",
+        "id": "99468131",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Atlantis Rotterdam",
+        "id": "1710770",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/3/3419/34197cd7-265c-4bd3-aaa3-a8c10343ff92.jpg"
+      },
+      {
+        "name": ".113FM Awesome 80???s",
+        "id": "1587655",
+        "genre": "80s"
+      },
+      {
+        "name": "Twistfm",
+        "id": "1591286",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/6/60f2/60f207ad-43bd-41f5-89c2-62d5436a533f.png"
+      },
+      {
+        "name": "Radio_plus",
+        "id": "99284267",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/c/c174/c17401ce-7143-42a4-80a5-30597ab7dedd.png"
+      },
+      {
+        "name": "1Radio.mk - Classic Rock",
+        "id": "1618029",
+        "genre": "80s"
+      },
+      {
+        "name": "X1 Radio 80´s",
+        "id": "1693504",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/8/83f7/83f785ea-6faf-4564-b96e-8082d2f82b55.png"
+      },
+      {
+        "name": "Radio Studio Souto - Megamix",
+        "id": "1668335",
+        "genre": "80s"
+      },
+      {
+        "name": "Magic 80s Florida HD",
+        "id": "1650723",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/9/915e/915e8f4e-d175-47ef-93e2-ff5dabfda001.png"
+      },
+      {
+        "name": ".113FM Hits 1985",
+        "id": "1621545",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio KGBrazil",
+        "id": "1826418",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/3/3d39/3d397e9c-9db8-4b16-83f0-801bf9a39c1b.jpg"
+      },
+      {
+        "name": "Dance and Fox Radio",
+        "id": "1634189",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/9/9503/9503ff28-22c5-4b14-bda5-cc1a542f0e16.png"
+      },
+      {
+        "name": ".113FM Hits 1986",
+        "id": "1793438",
+        "genre": "80s"
+      },
+      {
+        "name": ".113FM Hits 1982",
+        "id": "1642401",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Stand By The Vintage Style",
+        "id": "1415596",
+        "genre": "80s"
+      },
+      {
+        "name": "#80s DigitalMix by djSpinnerCee NYCbx [v2] #dance #house #rap #mixtape #vinyl #latin",
+        "id": "92124",
+        "genre": "80s"
+      },
+      {
+        "name": "80s Soundtracks Radio",
+        "id": "715743",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio-80",
+        "id": "387808",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Voces Campi",
+        "id": "1675752",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/0/0e44/0e44c0c4-aab0-42ed-97ad-d9907140631f.png"
+      },
+      {
+        "name": "Plug - Webstation",
+        "id": "1664301",
+        "genre": "80s"
+      },
+      {
+        "name": "80sRadio (MRG.fm)",
+        "id": "1590079",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/3/3a9f/3a9f6eb4-b153-4f9e-979e-afef94dc36b1.jpg"
+      },
+      {
+        "name": "Good-Sound.de",
+        "id": "1649396",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/1/1845/18453bcc-7215-466e-8711-5d64856a31c9.jpg"
+      },
+      {
+        "name": "#80s DigitalMix by djSpinnerCee NYC v2 - Sound of Vinyl #house #rap #mixtape #latin",
+        "id": "295937",
+        "genre": "80s"
+      },
+      {
+        "name": "VKNET Radio Station 1",
+        "id": "1507358",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/a/a378/a378369c-3dad-44be-9bde-3d9237084044.jpg"
+      },
+      {
+        "name": ".113FM Hits 1987",
+        "id": "1749333",
+        "genre": "80s"
+      },
+      {
+        "name": "Game and a Curry",
+        "id": "1764972",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/5/5c8c/5c8c91a3-224b-4fa1-8ded-138c4a25f5ca.jpg"
+      },
+      {
+        "name": "This is 107.4 Bfm",
+        "id": "1525118",
+        "genre": "80s"
+      },
+      {
+        "name": "Zoe 80's",
+        "id": "1710249",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/c/c354/c3544eb0-5994-40a7-b7b7-5a67b8b60310.png"
+      },
+      {
+        "name": "Hot Hitz 80's",
+        "id": "610994",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio La Buona Musica",
+        "id": "1554899",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/b/b02c/b02c9349-080f-454b-ac8f-622bd6daa7fc.jpg"
+      },
+      {
+        "name": "Renegade Retro",
+        "id": "853468",
+        "genre": "80s"
+      },
+      {
+        "name": "A1Radio (High)",
+        "id": "1618156",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/7/7cb1/7cb12242-e47a-4d46-aed1-1450f33efd07.png"
+      },
+      {
+        "name": "Manquehue Online",
+        "id": "1784328",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/7/700c/700c85fc-9d70-4684-840a-158273b6e507.jpg"
+      },
+      {
+        "name": "Maxi 80 Webradio France",
+        "id": "1389072",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/2191/21916d71-53e8-43da-bc28-a8ff36fd27fb.jpg"
+      },
+      {
+        "name": "WSHP-DB",
+        "id": "1626052",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/6/63be/63be0feb-ed62-4be4-ba46-680c307407d2.png"
+      },
+      {
+        "name": "#80s DigitalMix  by djSpinnerCee NYCbx [v2] @48kbps #dance #house #mixtape #12inch #vinyl #latin",
+        "id": "1005824",
+        "genre": "80s"
+      },
+      {
+        "name": "Resonance Radio",
+        "id": "1808909",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/0/00bc/00bc0215-5a1c-4f0a-b6f5-cf6ca075f6e3.png"
+      },
+      {
+        "name": "Seriousfunjamz.com",
+        "id": "1696024",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/f/f9d8/f9d8ceb2-b615-4d1e-a410-f6e792248604.png"
+      },
+      {
+        "name": "HITMIX Radio 80",
+        "id": "1788203",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/5/52ab/52ab76a5-4739-4805-acea-107c79b0e9a3.png"
+      },
+      {
+        "name": "#80s DigitalMix by djSpinnerCee NYC v2 48k - Sound of Vinyl #house #rap #mixtape #latin",
+        "id": "877642",
+        "genre": "80s"
+      },
+      {
+        "name": "Only1",
+        "id": "99446864",
+        "genre": "80s"
+      },
+      {
+        "name": "Zoe 80's",
+        "id": "1723484",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/c/c354/c3544eb0-5994-40a7-b7b7-5a67b8b60310.png"
+      },
+      {
+        "name": "Radio NoRo Zalau",
+        "id": "1106810",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/5/5a3e/5a3e487d-e035-4d3e-b28f-7da1b4b06d7b.png"
+      },
+      {
+        "name": "Round and Sound 128",
+        "id": "99424135",
+        "genre": "80s"
+      },
+      {
+        "name": "The Beat Sweden",
+        "id": "1373075",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/d/dee8/dee801c5-c82c-4892-a972-5e9f5065cc32.png"
+      },
+      {
+        "name": "The Vibe FM",
+        "id": "1818779",
+        "genre": "80s"
+      },
+      {
+        "name": "Ntefi",
+        "id": "99427759",
+        "genre": "80s"
+      },
+      {
+        "name": "radio Cumbernauld",
+        "id": "1859012",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/1/1764/17649e18-695e-40bc-bc5f-51db42123f3a.png"
+      },
+      {
+        "name": "Party Town Radio",
+        "id": "1745144",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/2a07/2a072e49-aa4f-41d3-b5cf-994a3f6b6196.png"
+      },
+      {
+        "name": "The Wicked MIXX",
+        "id": "987447",
+        "genre": "80s"
+      },
+      {
+        "name": "WDONs M-FM - @ wdon.org 64kbit",
+        "id": "269121",
+        "genre": "80s"
+      },
+      {
+        "name": "1Radio.mk - At Work",
+        "id": "1746894",
+        "genre": "80s"
+      },
+      {
+        "name": "A1Radio (Low)",
+        "id": "1786893",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/a/a06c/a06c1395-218e-4ee1-ab15-9d4c51741ce2.png"
+      },
+      {
+        "name": "Radio Kemonia",
+        "id": "1855787",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/0/0e07/0e0728f8-ca2e-485a-8a3e-58802f837572.jpg"
+      },
+      {
+        "name": "Zoe 80's",
+        "id": "1487186",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/c/c354/c3544eb0-5994-40a7-b7b7-5a67b8b60310.png"
+      },
+      {
+        "name": "I.R.O.",
+        "id": "1523031",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/9/9e52/9e52a5b6-7679-4b77-ac9b-7ff48b212091.png"
+      },
+      {
+        "name": "Good-Sound.de",
+        "id": "1376152",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/1/1845/18453bcc-7215-466e-8711-5d64856a31c9.jpg"
+      },
+      {
+        "name": "Maxi 80 Webradio France",
+        "id": "1421212",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/2191/21916d71-53e8-43da-bc28-a8ff36fd27fb.jpg"
+      },
+      {
+        "name": "I.R.O.",
+        "id": "1529758",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/9/9e52/9e52a5b6-7679-4b77-ac9b-7ff48b212091.png"
+      },
+      {
+        "name": "Radio - Infinity",
+        "id": "1732567",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/c/c3bc/c3bc7867-3b59-4471-9881-760bb1934865.gif"
+      },
+      {
+        "name": "Radio Pirata Online HN",
+        "id": "1463033",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/5/58cb/58cb1ad6-9ed6-425b-b249-a68ae4912bf2.jpg"
+      },
+      {
+        "name": "Mas Radio Szekelyudvarhely",
+        "id": "1740805",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/c/c088/c088c9a7-a63b-4cbf-bd83-5512d060e2f9.png"
+      },
+      {
+        "name": "Magic 80s Florida",
+        "id": "1566495",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/242f/242f793a-84e3-4c6d-a7ab-03fc0d127103.png"
+      },
+      {
+        "name": "Radio Limoeiro",
+        "id": "1699881",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/5/5bb1/5bb12b3a-5cc2-4878-a51d-8019db6bfbd8.jpg"
+      },
+      {
+        "name": "ZFM Your Super Big Radio Channel",
+        "id": "99440939",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/5/551d/551d72dc-2008-49a4-8388-2da36261678d.jpg"
+      },
+      {
+        "name": "Clear Skies Radio",
+        "id": "1393206",
+        "genre": "80s"
+      },
+      {
+        "name": "*Awesome 80s*",
+        "id": "1763392",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/a/acbe/acbe6a38-c67c-4c22-9cc1-4e51b736ffbd.jpg"
+      },
+      {
+        "name": "GFM Awesome 80s - 80s Rock, 80s Pop, 80s Hip-Hop",
+        "id": "365905",
+        "genre": "80s"
+      },
+      {
+        "name": "Radio Scala",
+        "id": "1571426",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/1/1e7e/1e7ec3ca-e4b0-49b2-ba26-d67ca16666c5.jpg"
+      },
+      {
+        "name": "De Muziekavond",
+        "id": "1839213",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/d/d404/d404dc02-0387-485e-ad29-8b64286297ce.png"
+      },
+      {
+        "name": "Radio Sotenäs",
+        "id": "1715822",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/2ac8/2ac8a309-1f3c-4d4a-be58-795f306b1196.jpg"
+      },
+      {
+        "name": "AllsortsHitsRadio",
+        "id": "1733751",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/d/dcfa/dcfaa94f-d605-429b-a621-3ffde31b1d38.jpg"
+      },
+      {
+        "name": "Maxi 80 Webradio France",
+        "id": "1608834",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/2191/21916d71-53e8-43da-bc28-a8ff36fd27fb.jpg"
+      },
+      {
+        "name": "thefox947",
+        "id": "1491592",
+        "genre": "80s"
+      },
+      {
+        "name": "All 80s Radio",
+        "id": "99462794",
+        "genre": "80s"
+      },
+      {
+        "name": "Awesome 80s - Magic Oldies",
+        "id": "1226382",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/a/a1bf/a1bf64fb-3527-4c8b-81aa-2631f1f9a236.jpg"
+      },
+      {
+        "name": "Radio CORSAIRE",
+        "id": "1758368",
+        "genre": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/8/8552/8552c2a9-1e08-4fb8-9c20-4d1b0a1e474d.png"
+      },
+      {
+        "name": "maxifrance-web",
+        "id": "99467972",
+        "genre": "80s"
+      },
+      {
+        "name": "CyberBeats",
+        "id": "1752011",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/c/cae4/cae4d5e2-9b01-4375-8183-bb66869d3dc4.jpg"
+      },
+      {
+        "name": "Power-FM-Breda",
+        "id": "1626342",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/1/1440/144071e0-b2c9-41c8-ab2c-b4e92696ae70.jpg"
+      },
+      {
+        "name": "GFM Awesome 80s - 80s Rock, 80s Pop, 80s Hip-Hop",
+        "id": "388074",
+        "genre": "80s"
+      },
+      {
+        "name": "The WoW Hitradio",
+        "id": "99440636",
+        "genre": "80s"
+      },
+      {
+        "name": "Good-Sound.de",
+        "id": "1718781",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/1/1845/18453bcc-7215-466e-8711-5d64856a31c9.jpg"
+      },
+      {
+        "name": "WIFI WEB RADIO",
+        "id": "99289856",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/2/27bf/27bf0c0d-11d3-4f10-b5ab-df51ecc8b23d.jpg"
+      },
+      {
+        "name": "RADIO AUDIOVISUAL .COM",
+        "id": "99325184",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/5/5fb4/5fb456be-452a-43c9-bfd1-6bce9524856a.png"
+      },
+      {
+        "name": "TCG Entertainment",
+        "id": "99282176",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/3/3482/3482ffc0-cf75-40c4-9fa4-3c90097ac3d0.jpg"
+      },
+      {
+        "name": "Radio Minis",
+        "id": "99286016",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/9/912a/912a2432-02e8-4a3f-a593-0b5455ff7ae0.jpg"
+      },
+      {
+        "name": "I love Music!",
+        "id": "99294978",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/8/8a17/8a17ddcf-fc7a-452e-809c-a1e6ed58ae8d.jpg"
+      },
+      {
+        "name": "Chatis kmcho",
+        "id": "99378434",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/8/8690/8690c847-734e-40a1-a9ff-7942d57515af.jpg"
+      },
+      {
+        "name": "Kusken Radio",
+        "id": "99267330",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/7/70a6/70a6e0f5-56d4-4302-aa38-e43ecf6d52e7.jpg"
+      },
+      {
+        "name": "Xairo Radio",
+        "id": "99280898",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/0/026e/026ed00f-5ddf-4d0c-9c9c-0c86c39afaba.jpg"
+      },
+      {
+        "name": "Radio AMIGOS DE LA MUSICA",
+        "id": "99289859",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/6/66df/66df006b-7f0f-44e6-87df-3fd9e3efba2d.jpg"
+      },
+      {
+        "name": "Radio Matrix",
+        "id": "99245059",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/7/7e4f/7e4fab1e-db6d-4fcf-856b-de21f7605e6a.jpg"
+      },
+      {
+        "name": "Radio-Senec",
+        "id": "99326723",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/6/637b/637b9470-8cd2-425b-8099-2110dbf1a269.jpg"
+      },
+      {
+        "name": "maxmorra",
+        "id": "99343619",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/b/b9a5/b9a5a6a0-b3ae-4883-8790-eae6cdc62962.jpg"
+      },
+      {
+        "name": "SpoopyEllaTS",
+        "id": "99355652",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/"
+      },
+      {
+        "name": "FrigoNero",
+        "id": "99315716",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/3/30af/30afd003-6e95-4ca0-8073-ff6e34b950ea.jpg"
+      }
+    ]
+  }
+}

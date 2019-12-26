@@ -1,0 +1,189 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "Radio Northsea International Germany",
+        "id": "1746647",
+        "genre": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/0/0e40/0e403b4c-3ace-467e-ada4-732f18295813.png"
+      },
+      {
+        "name": "PRIDE1 LGBT Radio Germany",
+        "id": "913382",
+        "genre": "LGBT"
+      },
+      {
+        "name": "Next-Radio-Germany",
+        "id": "1209406",
+        "genre": "Dance Pop"
+      },
+      {
+        "name": "Veedelsradio Koeln -Wir spielendie Top 100 -Wir lieben Musik- Deutschland/Germany",
+        "id": "1779953",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/b/bb5e/bb5e9756-b35d-40fc-9505-1742b4514d49.jpg"
+      },
+      {
+        "name": "FemoGaming-Germany",
+        "id": "99311371",
+        "genre": "Dance",
+        "logo": "http://i.radionomy.com/document/radios/d/da7d/da7df9d5-e746-48d9-8f62-84f44f1f2289.png"
+      },
+      {
+        "name": "PEIRASMOS FM GERMANY",
+        "id": "99337742",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/3/3dc6/3dc68100-bb8a-483c-9b34-2313762d1451.png"
+      },
+      {
+        "name": "RadioNissma Germany Oriental",
+        "id": "99266094",
+        "genre": "Arabic",
+        "logo": "http://i.radionomy.com/document/radios/1/1d56/1d561c35-b895-4b62-b121-7b6d28ccd33a.jpg"
+      },
+      {
+        "name": "Radio Jazz Germany",
+        "id": "99352121",
+        "genre": "Chill",
+        "logo": "http://i.radionomy.com/document/radios/7/7311/73110fb5-91bb-49fb-9c62-3378de4bef4f.jpg"
+      },
+      {
+        "name": "EasyMixRadio Germany",
+        "id": "1435454",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/documents/radio/d948de99-2339-4cd7-b1c9-5bd1d06f93ae.s165.jpg"
+      },
+      {
+        "name": "first tamil radio germany",
+        "id": "99348296",
+        "genre": "Bluegrass",
+        "logo": "http://i.radionomy.com/document/radios/1/112a/112ae002-51c0-48e7-8e16-7b252572c240.jpg"
+      },
+      {
+        "name": "FM4 Germany",
+        "id": "1407561",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/documents/radio/6d34bf06-f219-4434-b686-8e3bfd65f6e1.s165.jpg"
+      },
+      {
+        "name": "Made in Germany Radio",
+        "id": "587869",
+        "genre": "Hard Rock",
+        "logo": "http://i.radionomy.com/documents/radio/6e29794e-7bd4-4693-a60b-62a3b0827ee4.s165.png"
+      },
+      {
+        "name": "Germany Host-billig.ru",
+        "id": "99221614",
+        "genre": "Dance",
+        "logo": "http://i.radionomy.com/document/radios/6/6234/62347391-b923-42a7-bc3c-0ba1ce56f2f0.png"
+      },
+      {
+        "name": "J.Wolf  Germany >>the one and only!<<",
+        "id": "99254140",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/1/163d/163d864b-40e7-41e1-bba4-dc7c6a505ab8.png"
+      },
+      {
+        "name": "Top100 Germany",
+        "id": "99181203",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/documents/radio/0cfb41ee3b47437f97049a1cdccb5506_635328068707798739.s125.jpg"
+      },
+      {
+        "name": "Static: Germany",
+        "id": "1707416",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/53a72e1f-d6a0-47ea-9dfd-11345fa203f6.s165.jpg"
+      },
+      {
+        "name": "Hit-Fox-Music-Germany",
+        "id": "99372192",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/document/radios/b/bd35/bd35e80c-85b3-4815-b532-7eaeea796a35.png"
+      },
+      {
+        "name": "EME Radio Germany",
+        "id": "99236257",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/b/b529/b529e556-6ffc-4b2c-80dc-718b38b40d45.jpg"
+      },
+      {
+        "name": ".113FM Hitz Germany",
+        "id": "99259561",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/a/a6de/a6de3f2c-d7c1-40ae-a8da-616360bbcfa4.jpg"
+      },
+      {
+        "name": "Veedelsradio Koeln - Das Beste aus den Top 100 in Deutschland/Germany",
+        "id": "99339179",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/5/5967/59679243-7ae1-4e39-b930-41bcfc127f4d.jpg"
+      },
+      {
+        "name": "Turboradio Germany",
+        "id": "99226570",
+        "genre": "Praise and Worship",
+        "logo": "http://i.radionomy.com/document/radios/e/e0ad/e0adfa5d-6501-4a52-81a5-7b712c59f752.jpg"
+      },
+      {
+        "name": "Hitradio-Germany",
+        "id": "99228628",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/d/d4f4/d4f4b261-b067-40b7-b870-d5c23260d3a7.png"
+      },
+      {
+        "name": "Charts Germany",
+        "id": "99243478",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/e/ec17/ec17ea8f-7ee6-4444-84f5-982dd9ad2044.png"
+      },
+      {
+        "name": "TheRusherClanGermanyFM",
+        "id": "99214295",
+        "genre": "Praise and Worship",
+        "logo": "http://i.radionomy.com/document/radios/1/1752/175258b5-6fe9-42de-8858-d895c27500b6.jpg"
+      },
+      {
+        "name": "Top 100 Germany - by 001FM.com",
+        "id": "327142",
+        "genre": "Soft Rock",
+        "logo": "http://i.radionomy.com/documents/radio/f/fb4c/fb4cd3aa-493f-447d-90b3-3f6821c577b9.s125.jpg"
+      },
+      {
+        "name": "peirasmosfmgermany",
+        "id": "99362804",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/0/0a9b/0a9b6aae-190a-4268-acd2-c7587ae6c032.jpg"
+      },
+      {
+        "name": "Mashup-Radio Germany",
+        "id": "99369460",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/1/1b16/1b1641d9-74b3-4f58-8c96-98a4839aed66.png"
+      },
+      {
+        "name": "heaven to hell radio | techno | germany",
+        "id": "99221239",
+        "genre": "Techno",
+        "logo": "http://i.radionomy.com/document/radios/e/ed01/ed01f084-c789-4377-ab23-baf00d8a0bde.jpg"
+      },
+      {
+        "name": "AFFO RADIO 189 :: finest electronic music | underground techno sounds live from Karlsruhe, Germany",
+        "id": "99221755",
+        "genre": "Electro",
+        "logo": "http://i.radionomy.com/document/radios/a/a837/a837003a-1425-4445-9c41-5336f20799fb.jpg"
+      },
+      {
+        "name": "Radio Northsea International Germany AAC",
+        "id": "1666043",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/0/00a8/00a886a9-6050-41c8-bf8f-1a38600e8e54.png"
+      }
+    ]
+  }
+}

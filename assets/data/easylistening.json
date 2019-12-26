@@ -1,0 +1,1112 @@
+﻿{
+  "stationlist": {
+    "station": [
+      {
+        "name": "COOLfahrenheit 93 -- (6)",
+        "id": "1774742",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/7/7c48/7c48c133-a1ee-42e6-97fa-6420420e8cad.jpg"
+      },
+      {
+        "name": "COOLfahrenheit 93 - (7)",
+        "id": "1737930",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/a/a265/a2654f5f-669e-4b9e-ac13-962971886ad2.jpg"
+      },
+      {
+        "name": "COOLfahrenheit 93 - (4)",
+        "id": "1576895",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/f/f6d5/f6d5d27f-397e-4b67-8564-8f043b2b5336.png"
+      },
+      {
+        "name": "COOLfahrenheit 93 - (2)",
+        "id": "1480557",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/6/69c6/69c62733-33af-4834-9cf9-89b291de8d9c.png"
+      },
+      {
+        "name": "1.FM - Chillout Lounge (www.1.fm)",
+        "id": "1778139",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/4/4bfa/4bfa5a33-ef4d-4caa-b0cd-99be7cb93aee.jpg"
+      },
+      {
+        "name": "Radio Laguna 93,7 - 100% Radio, Beograd - Srbija, Belgrade Serbia",
+        "id": "1267299",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/0/00d3/00d34a22-0eb1-4142-98ec-001389e174a9.png"
+      },
+      {
+        "name": "1.FM - America's Best Ballads (www.1.fm)",
+        "id": "1760430",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/4/4c88/4c882f74-8b4e-4b15-97fe-b83f8185ea21.jpg"
+      },
+      {
+        "name": "COOLfahrenheit 93 - (1)",
+        "id": "1832404",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/3/32d2/32d25a06-b423-4d16-9541-7980a2669da3.png"
+      },
+      {
+        "name": "COOLfahrenheit 93 - (3)",
+        "id": "1314285",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/6/65b8/65b8b003-54e0-4338-a215-050dafc0362c.png"
+      },
+      {
+        "name": "Sweet Melodies",
+        "id": "99407134",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "PulsRadio LOUNGE",
+        "id": "1323717",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/c/c780/c78013fe-b210-4024-af68-24f26712a6fa.png"
+      },
+      {
+        "name": "Radio Scalla - Musica Instrumental Grandes Orquestras - Sao Paulo - Brasil",
+        "id": "1654302",
+        "genre": "Orchestral Pop"
+      },
+      {
+        "name": "1.FM - Cafe Radio (www.1.fm)",
+        "id": "1677115",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/0/0ac5/0ac584d4-b509-4852-bffd-bf8f19036440.jpg"
+      },
+      {
+        "name": "ZenFM (MP3)",
+        "id": "1688899",
+        "genre": "Lounge"
+      },
+      {
+        "name": "KLUX 89.5HD - Good Company",
+        "id": "1482287",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/5/51ae/51aed3ca-c634-4c56-8ed6-90d266d4eb70.png"
+      },
+      {
+        "name": "1.FM - Bossa Nova Hits (www.1.fm)",
+        "id": "1692022",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/a/a0f1/a0f15881-c571-41d7-8adb-1d8133039989.jpg"
+      },
+      {
+        "name": "Crystal Radio Canada | Beautiful Music All Day All Night",
+        "id": "1696229",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/b/bfc5/bfc57079-a1c0-4b6a-8daf-70bf8b0c23e4.png"
+      },
+      {
+        "name": "Cool Music Lounge & Deep Radio",
+        "id": "1372943",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/6/6c5c/6c5ce0fc-b570-438d-89d2-edf1781a9b6b.jpg"
+      },
+      {
+        "name": "Heartbeat FM",
+        "id": "1828764",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/4/4306/4306b4f1-d5d9-46ca-9dd3-9ec7591c808d.png"
+      },
+      {
+        "name": "CAFÉ - Soulside Radio",
+        "id": "1402129",
+        "genre": "Lounge"
+      },
+      {
+        "name": "NETH FM",
+        "id": "1799109",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/4/4018/401849b1-cf65-4967-bb69-11c203d89a7c.png"
+      },
+      {
+        "name": "Chillout Zone",
+        "id": "99415387",
+        "genre": "Lounge"
+      },
+      {
+        "name": "RADIO ESTILO LEBLON",
+        "id": "1754831",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/5/5964/5964300e-bdcd-4bb1-997e-b8b30cc71dd8.jpg"
+      },
+      {
+        "name": "PulsRadio LOUNGE",
+        "id": "1192358",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/c/c780/c78013fe-b210-4024-af68-24f26712a6fa.png"
+      },
+      {
+        "name": "Frank Sinatra Radio",
+        "id": "1568954",
+        "genre": "Lounge",
+        "logo": "https://i3.radionomy.com/radios/200/c/c9e0/c9e09ddb-1047-43a5-b314-6870d8bd2157.jpg"
+      },
+      {
+        "name": "COOLfahrenheit 93 - (5)",
+        "id": "1584348",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/f/f9a7/f9a74fd5-f1d4-41c1-9f8a-fcc62470bb31.png"
+      },
+      {
+        "name": "Seeburg 1000 Background Music",
+        "id": "1544080",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/a/a8bd/a8bd1d6c-c52b-408a-a388-4d38e6ba56e2.jpg"
+      },
+      {
+        "name": "WRJQ Goodtime Radio",
+        "id": "1224659",
+        "genre": "Polka"
+      },
+      {
+        "name": "DI Radio Digital Impulse - Christmas Channel",
+        "id": "623748",
+        "genre": "Orchestral Pop"
+      },
+      {
+        "name": "90 FM Blumenau Mobile",
+        "id": "1878709",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "ZenFM (AACv2)",
+        "id": "210030",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Clubbing Station radio",
+        "id": "1672806",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/7/7692/76924cae-27f9-4ef8-b3a7-120870b27a1e.png"
+      },
+      {
+        "name": "Astros Lounge Radio HD",
+        "id": "1357952",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Radio Jaska",
+        "id": "1114726",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "lounge CROOZE - Get the vibe with an uptempo mix of the best lounge, chill, club and EDM music",
+        "id": "783293",
+        "genre": "Lounge"
+      },
+      {
+        "name": "SKY RADIO FM ONE",
+        "id": "1625044",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/7/7d40/7d401a29-26a8-48cd-af53-0c207adf09f1.png"
+      },
+      {
+        "name": "Mazhai Fm",
+        "id": "1776326",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/b/bae7/bae7ec92-4827-47a3-aaeb-071117c3f3a8.png"
+      },
+      {
+        "name": "Instrumental Radio",
+        "id": "1642107",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/3/3766/3766ba05-595b-4efc-bf96-4b10bdc0dcb1.jpg"
+      },
+      {
+        "name": "Easy 80s",
+        "id": "1703042",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/8/8909/8909aa0f-5160-4c42-8df0-1d289c285d48.png"
+      },
+      {
+        "name": "PlayFm.Gr",
+        "id": "1791928",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/f/f9b8/f9b811e1-92dd-40a3-aef6-b04325d9bd0a.jpg"
+      },
+      {
+        "name": "dinner CROOZE - an easily digestable mix of smoothly spiced easy going and jazzy tunes",
+        "id": "1746992",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Lovetunes | Romantic Hits | Love Songs | Easy Listening",
+        "id": "1574738",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "1! Radio Onda 1 - Hitradio Italia",
+        "id": "51705",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/6/6c21/6c219312-8e10-4029-aab1-fb16c5a7d41c.png"
+      },
+      {
+        "name": "Clubbing Station radio",
+        "id": "1581628",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/7/7692/76924cae-27f9-4ef8-b3a7-120870b27a1e.png"
+      },
+      {
+        "name": "NIO FM",
+        "id": "1822627",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/a/a64a/a64a15fd-32a0-4f6d-9a4a-9cf2f374230a.jpg"
+      },
+      {
+        "name": "GrooveWave - Lounge",
+        "id": "1650387",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/f/f543/f5432d10-968f-45d1-825c-e8a1f8c2f7f5.gif"
+      },
+      {
+        "name": "Radio Retro (Brazil)",
+        "id": "1716334",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/3/3ce3/3ce3e06a-ec9e-4877-8a2f-ef5f9fb214ad.jpg"
+      },
+      {
+        "name": "Clubbing Station America",
+        "id": "62920",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/6/6e20/6e200093-47b3-4b29-960b-7ac5774de648.jpg"
+      },
+      {
+        "name": "1.FM - Radio Gaia (www.1.fm)",
+        "id": "1783418",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/1/1d3c/1d3c3061-3f21-4f0e-beb6-9646f8025893.jpg"
+      },
+      {
+        "name": "Radio City - Smaran",
+        "id": "1878437",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/1/16c0/16c0b147-510a-4dbb-8a75-b44fd67ec2bd.jpg"
+      },
+      {
+        "name": "Radio Sun Lounge Romania",
+        "id": "1524713",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/f/f514/f5140fbd-a20c-4db7-8b7a-97c524a47f83.png"
+      },
+      {
+        "name": "Play Radio Hit 90S",
+        "id": "1792784",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/9/95cf/95cfd393-d44d-458f-aa2d-5ff6b11e18f7.jpg"
+      },
+      {
+        "name": "delicious.beach - balearic radio stream - 24/7 on air",
+        "id": "1659585",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/9/9354/93541678-d89a-40d5-9d31-2a5a9fadeaa7.jpg"
+      },
+      {
+        "name": "Sierockie Radio 1",
+        "id": "99413548",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "The Green Room [RadioAvenue.com]",
+        "id": "1355908",
+        "genre": "Lounge"
+      },
+      {
+        "name": "CALM RADIO - DISNEY - Sampler",
+        "id": "1203803",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/d/dc05/dc059362-37c4-4731-83b8-4b58351cf488.jpg"
+      },
+      {
+        "name": "24-7 Serene",
+        "id": "1605487",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "STR - Space Travel Radio [spacetravelradio.de]",
+        "id": "99421060",
+        "genre": "Space Age Pop"
+      },
+      {
+        "name": "Nuevo Radio  | Find Us on Socials @nuevowebradio |",
+        "id": "1697292",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "nonstopmusic",
+        "id": "99459350",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Radioalchemy Live Radio | Mousikes alximeies sto diadiktyo | Jazz | Rock | Greek",
+        "id": "1542744",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Radio 94,3",
+        "id": "1076338",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/3/33c6/33c60583-ccb6-42fb-bfe8-818616ef26ef.jpg"
+      },
+      {
+        "name": "RADIO CLASIC STRAUSS",
+        "id": "1768804",
+        "genre": "Polka"
+      },
+      {
+        "name": ".113FM Lover's Lane",
+        "id": "1474832",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Cove FM",
+        "id": "1541282",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "Radio1 LOUNGE",
+        "id": "1228753",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Coast FM963",
+        "id": "1005081",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "1611 Oldgold",
+        "id": "1725692",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "VIBEdaPLANET",
+        "id": "1607182",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Eazyradio Dublin",
+        "id": "1783311",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Radio Easy&Italy",
+        "id": "1513488",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Muzyka non-stop",
+        "id": "99459215",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Schlagerradio Florida",
+        "id": "1673077",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/3/3edb/3edbf966-39dd-4801-aab8-40d567c384bf.jpg"
+      },
+      {
+        "name": "Radio STIL - Manele l www.radiostil.info",
+        "id": "1810827",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/a/a269/a2697179-1bd1-4530-981b-4b5ed33289c8.png"
+      },
+      {
+        "name": "Lounge Radio Deluxe (VIP)",
+        "id": "700099",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/b/b773/b773e982-91f8-4ffe-b344-d268ddec7f44.jpg"
+      },
+      {
+        "name": "RSG - Relax",
+        "id": "99434470",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Cool Music Lounge & Deep Radio",
+        "id": "1424893",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/6/6c5c/6c5ce0fc-b570-438d-89d2-edf1781a9b6b.jpg"
+      },
+      {
+        "name": "DivaFm 91.6",
+        "id": "1313565",
+        "genre": "Space Age Pop"
+      },
+      {
+        "name": "Vintage Radio 128",
+        "id": "1502537",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Eartunes Radio",
+        "id": "1411439",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/b/b52c/b52c10ff-3419-45ed-995b-b8d9e819a423.png"
+      },
+      {
+        "name": "1611 Easy Listening",
+        "id": "1767037",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Cotton FM",
+        "id": "1819313",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/0/0780/0780e289-1d81-4092-a8c8-5d9f762e0819.png"
+      },
+      {
+        "name": "K107 FM",
+        "id": "1760450",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": ".113FM The Coast",
+        "id": "1688575",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "WUCF-HD2",
+        "id": "1783225",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "Dublin's ABC (Canada)",
+        "id": "1601417",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "LoungeRadio (MRG.fm)",
+        "id": "536028",
+        "genre": "Lounge",
+        "logo": "https://i3.radionomy.com/radios/200/9/9b3a/9b3a4f58-b7b3-4cfe-ac27-233bd669c63b.jpg"
+      },
+      {
+        "name": "The Jonathan Station",
+        "id": "1716453",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/8/8386/8386249f-1034-4c34-995d-59ec6c6d908a.jpg"
+      },
+      {
+        "name": "Merseyland Alternative Radio",
+        "id": "1790203",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "WUCF-HD2_QL",
+        "id": "1759545",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "FOX 91.4 FM",
+        "id": "1831186",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/9/996d/996dea27-9ca0-44e2-a1b2-81f29f9d4a9f.png"
+      },
+      {
+        "name": "LTD Radio - Music And The Power Of Positive",
+        "id": "27925",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "Swisssh",
+        "id": "1330970",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/b/bd44/bd447324-a58b-4031-83f8-82840bd20ab1.jpg"
+      },
+      {
+        "name": "Rádio Mais Forró",
+        "id": "1168188",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/b/b202/b202c885-1891-4437-917b-ce5da633f54d.png"
+      },
+      {
+        "name": "Deep Lounge BG",
+        "id": "1564345",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/9/995b/995b4000-de06-4e07-9049-2d8ef859a44c.png"
+      },
+      {
+        "name": "Metro Mjøsbyene",
+        "id": "118990",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "X FM Naga City, Philippines | IMJ Interactive Radio",
+        "id": "1543005",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/6/694f/694fe8a9-fb18-46bc-aa97-8459418d7848.jpg"
+      },
+      {
+        "name": "4RFM",
+        "id": "1720181",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/2/2064/2064e4ee-3a01-4da4-b137-c63641ac5f73.png"
+      },
+      {
+        "name": "TEN FM Tenterfield and Stanthorpe www.tenfm.org.au - AAC+ Stream",
+        "id": "1823883",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Clubbing Station America",
+        "id": "181954",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/6/6e20/6e200093-47b3-4b29-960b-7ac5774de648.jpg"
+      },
+      {
+        "name": "WeUpOnItRadio2",
+        "id": "1762306",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/f/feb6/feb6b5b8-58e3-408b-b051-6f33cefd543f.jpg"
+      },
+      {
+        "name": "Radio Brugs Ommeland",
+        "id": "1849606",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "RDMIX CHILLOUT PASSION",
+        "id": "99466517",
+        "genre": "Lounge"
+      },
+      {
+        "name": "eglisededieumontdesion",
+        "id": "1741942",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "ATOMIC CITY with Skip Bombwell",
+        "id": "1778115",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/6/6d3d/6d3d8b5a-e8bb-4e18-983b-b905761ade18.jpg"
+      },
+      {
+        "name": "2DRY FM",
+        "id": "1379332",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "LoungeRadio (MRG.fm)",
+        "id": "1572900",
+        "genre": "Lounge",
+        "logo": "https://i3.radionomy.com/radios/200/9/9b3a/9b3a4f58-b7b3-4cfe-ac27-233bd669c63b.jpg"
+      },
+      {
+        "name": "KISS Love (Canada)",
+        "id": "711686",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "WakkerRadio  - Daar blijf je voor wakker!",
+        "id": "1754207",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/6/614f/614f6d27-b140-4106-ae62-5a42ab936170.jpg"
+      },
+      {
+        "name": "Radio Broadgreen",
+        "id": "1866889",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/6/6950/695008a4-b7f1-4458-9c30-5df4b69fa9d7.png"
+      },
+      {
+        "name": "PEP Xmas Radio",
+        "id": "1747358",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "104.5 Omarama",
+        "id": "1319072",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "Lite",
+        "id": "99449006",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Heat Wave Radio Pacific",
+        "id": "1772473",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/1/1b49/1b4942bb-8d8d-4b46-a389-5d1311cf4dae.jpg"
+      },
+      {
+        "name": "Musical Venture Radio",
+        "id": "1783750",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/3/32f7/32f78897-51df-489a-ba59-8d67832e6f3c.jpg"
+      },
+      {
+        "name": "wkdteam",
+        "id": "1746643",
+        "genre": "Polka",
+        "logo": "https://i3.radionomy.com/radios/200/b/b900/b9003f94-7c81-4bbd-8c09-fcd14bc78ba9.jpg"
+      },
+      {
+        "name": "Radio GMusic Soft",
+        "id": "1412565",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/9/9a7e/9a7ed92b-0ffe-46bb-8832-68f80a9cdd8d.jpg"
+      },
+      {
+        "name": "Studionathalsteam.nl",
+        "id": "1825791",
+        "genre": "Polka",
+        "logo": "http://i.radionomy.com/document/radios/d/ddd6/ddd627fc-e14d-453f-8d00-4cf30d0f8207.jpg"
+      },
+      {
+        "name": "Rede Cidade Web",
+        "id": "1486393",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/7/7a71/7a713cc3-630e-44c7-9d4f-8b70d20a6402.png"
+      },
+      {
+        "name": "Harmony Beautiful Music",
+        "id": "1730668",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/e/ebc3/ebc39005-537a-4f80-9b02-789d1e5d807a.png"
+      },
+      {
+        "name": "Radio Light Music (GLWiZ) Persian Farsi Iranian",
+        "id": "189451",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Webcom Auto DJ",
+        "id": "1849229",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Romantica 1",
+        "id": "1849300",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "RADIO CLASIC RELAX",
+        "id": "1808835",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Radio Kashmir Lounge Amsterdam",
+        "id": "1507095",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/d/db71/db71f996-63d3-4093-935a-bf5752393133.jpg"
+      },
+      {
+        "name": "COOL MED RADIO",
+        "id": "1767998",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Clevedon Radio",
+        "id": "99450959",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Radio All News by Radio L'Olgiata",
+        "id": "1783643",
+        "genre": "Space Age Pop"
+      },
+      {
+        "name": "CharityRadio Ireland",
+        "id": "423012",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "PMC Xmas Radio",
+        "id": "1880983",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "MADFmWorldwide",
+        "id": "1718949",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/7/74b4/74b45e5e-940d-4bd2-9210-b2c8061473cf.png"
+      },
+      {
+        "name": "AcrosstheFader.ORG",
+        "id": "1395899",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "CALM RADIO - KIDZ - Sampler",
+        "id": "1205448",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/f/f4d3/f4d3606a-3389-443a-b2e3-6778cc5af1c6.jpg"
+      },
+      {
+        "name": "Radio Multysom",
+        "id": "1870147",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Studio Denakker",
+        "id": "1764477",
+        "genre": "Polka",
+        "logo": "http://i.radionomy.com/document/radios/4/4c5b/4c5b2b8e-de63-451e-a679-b6ec9adaab46.png"
+      },
+      {
+        "name": "X1 POP Radio",
+        "id": "1594247",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "CharityRadio Ireland 64k stream",
+        "id": "1801929",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Astros Lounge Radio",
+        "id": "179202",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Sugar Free Radio",
+        "id": "1367324",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/6/6518/6518d11f-a38a-46a6-a1de-f4ef539bd84b.jpg"
+      },
+      {
+        "name": "Hurley's Market Radio - Get Fresh At Hurley's",
+        "id": "1868839",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "A1Radio (Super HD)",
+        "id": "1606440",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/9/95b6/95b69d2b-76a1-4378-8ca9-dcc31ff58311.png"
+      },
+      {
+        "name": "Ozarks Work Mix Radio - Branson Missouri - Work Mix - Soft Rock -",
+        "id": "1810495",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "RADIODESTINY",
+        "id": "1460557",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Rainbow Sound UK",
+        "id": "1768820",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/2/2cae/2cae1416-4e2b-435e-838f-91ab20663ef4.jpg"
+      },
+      {
+        "name": "PositiveFM",
+        "id": "1294491",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Radio Cornwall 247",
+        "id": "1654175",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/9/93d3/93d33405-8d52-44a4-8235-adfbd9d57b42.png"
+      },
+      {
+        "name": "BeachRock Radio - Marbella",
+        "id": "1530530",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/b/b330/b330479b-9dde-423d-ae10-034fc7c39550.png"
+      },
+      {
+        "name": "lasensacional.com",
+        "id": "1838526",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/b/b430/b4301570-d620-4b17-b32f-6efa21f445aa.jpg"
+      },
+      {
+        "name": "Cheap Music--pop music from 1920s to 50s",
+        "id": "1787838",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "BIG 103 Orlando",
+        "id": "1735645",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Productions JB Webradio",
+        "id": "1771765",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/5/500f/500f7eae-848b-4c56-b077-ffcc318f4fe7.jpg"
+      },
+      {
+        "name": "Vibes 97.3 FM",
+        "id": "1779445",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "RADIO TEAM KATZENOPA",
+        "id": "1804021",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/1/1d87/1d87f721-f3d6-4fa7-bc31-a6fece5fee1c.jpg"
+      },
+      {
+        "name": "MUSICOVER.ME",
+        "id": "755449",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Höganäs Närradio",
+        "id": "1805307",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/7/72a5/72a5c5f6-e626-4af5-a5bc-f6fcc53d0f4f.png"
+      },
+      {
+        "name": "Radio Compromís Girona",
+        "id": "99282965",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/2/29fe/29fe78ad-c45c-44e5-9db0-390623529005.png"
+      },
+      {
+        "name": "Fun 92.1",
+        "id": "1674462",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "Rádio Mais Forró",
+        "id": "1848586",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/b/b202/b202c885-1891-4437-917b-ce5da633f54d.png"
+      },
+      {
+        "name": "Radio Easy&Italy",
+        "id": "1755402",
+        "genre": "Lounge"
+      },
+      {
+        "name": "dinner CROOZE - an easily digestable mix of smoothly spiced easy going and jazzy tunes",
+        "id": "1715011",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "lounge CROOZE - Get the vibe with an uptempo mix of the best lounge, chill, club and EDM music",
+        "id": "1781316",
+        "genre": "Lounge"
+      },
+      {
+        "name": "REGIONAL RADIO",
+        "id": "1686340",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "RADIO CLASIC STRAUSS",
+        "id": "321646",
+        "genre": "Polka"
+      },
+      {
+        "name": "Lake Macquarie FM",
+        "id": "1430908",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "AZ RADIO LATINA",
+        "id": "1682076",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/d/d995/d9958400-88ed-4758-af1c-43d955fe3882.png"
+      },
+      {
+        "name": "Clubbing Station America",
+        "id": "1029297",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/6/6e20/6e200093-47b3-4b29-960b-7ac5774de648.jpg"
+      },
+      {
+        "name": "RadioIDL",
+        "id": "1695936",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/c/c46d/c46dd332-f5de-4da9-8198-de662985707f.png"
+      },
+      {
+        "name": "Gammagioiosa Lovesongs",
+        "id": "1773524",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/0/0f7a/0f7ae746-bbb6-46a8-bee2-d4f2a1bf569b.jpg"
+      },
+      {
+        "name": "Public Radio  Chernivtsi",
+        "id": "1879539",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/f/f27a/f27ad791-9fbf-4077-90c0-d93f725eee8f.jpg"
+      },
+      {
+        "name": "Mix 96.5 FM",
+        "id": "590114",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "WRJQ Goodtime Radio",
+        "id": "1786658",
+        "genre": "Polka"
+      },
+      {
+        "name": "EZMax",
+        "id": "1758770",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/1/1969/1969eca1-13de-4778-9c5e-a0177b81138c.png"
+      },
+      {
+        "name": "Goudenpiratenhits.nl",
+        "id": "1730876",
+        "genre": "Polka",
+        "logo": "http://i.radionomy.com/document/radios/d/dfe1/dfe1aca2-74f0-4d1d-838a-77f4a1a633f0.jpg"
+      },
+      {
+        "name": "WCST-FM Adult Hits",
+        "id": "855366",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Panradio - Panfloete 24/7 Panflute - Panpipes",
+        "id": "839753",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Sleepytime",
+        "id": "1464411",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Raids Streaming  Jams",
+        "id": "1242730",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/5/543b/543b986d-7b13-4c67-93cd-590195812ed5.gif"
+      },
+      {
+        "name": "RadioCalm",
+        "id": "1583763",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "SHOUTCASTNET 10000",
+        "id": "1827234",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Franciscus Radio",
+        "id": "1631142",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/0/0508/05081c5f-5688-474e-859c-bfc5953e505c.jpg"
+      },
+      {
+        "name": "EZ 97.5 FM",
+        "id": "822696",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "WBAC FM",
+        "id": "815282",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Electraland Radio",
+        "id": "1703118",
+        "genre": "Easy Listening",
+        "logo": "https://i3.radionomy.com/radios/200/b/bf13/bf13b570-1ac8-46dd-9870-8d0cb1136634.gif"
+      },
+      {
+        "name": "KSNY Sunny 91",
+        "id": "790995",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Pioneer PolkaCast",
+        "id": "853211",
+        "genre": "Polka"
+      },
+      {
+        "name": "SONGCAST RADIO - Variety Mix 5",
+        "id": "1814491",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/9/9168/9168463d-b0ad-43a4-9807-0de0cd7dbad6.png"
+      },
+      {
+        "name": "age of aquarius music mix",
+        "id": "1685742",
+        "genre": "Light Rock"
+      },
+      {
+        "name": "Classic Hits 109 - Yacht Rock",
+        "id": "1754359",
+        "genre": "Easy Listening"
+      },
+      {
+        "name": "Soft'N Easy (64k)",
+        "id": "191063",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/documents/radio/2/20b4/20b42318-cf44-42d0-b01b-7dcb4ec6e039.s125.jpg"
+      },
+      {
+        "name": "AAcustica Radio",
+        "id": "401920",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/documents/radio/61b338a4-43ee-43c1-a52c-d9193b973e16.s165.gif"
+      },
+      {
+        "name": "Relaxation",
+        "id": "616960",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/documents/radio/9ca7418b-6296-42aa-bbfb-774d16997fcc.s165.jpg"
+      },
+      {
+        "name": "Perfectune FM",
+        "id": "1403904",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/documents/radio/160e546c-c6fb-4651-8657-dd7fa7b18017.s165.jpg"
+      },
+      {
+        "name": "Sim's Songs",
+        "id": "99380992",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/f\\fb9d\\fb9d8aba-16e3-4251-b289-807e4876d8fd.jpg"
+      },
+      {
+        "name": "Greymouth Highschool BEATS",
+        "id": "99319040",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/f/f734/f734895c-3788-4d11-b5fc-a1e9510d76a6.png"
+      },
+      {
+        "name": "ZXMRadio",
+        "id": "99258880",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/f/f83d/f83d2c07-0611-495e-ac6c-7f99d2208ac7.jpg"
+      },
+      {
+        "name": "K-Lite Online",
+        "id": "1107712",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/documents/radio/7872961b-9641-4451-a8af-12b6fdf7d1ff.s165.jpg"
+      },
+      {
+        "name": "The Dusun Station",
+        "id": "99215872",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/5/52b0/52b08d53-0b74-4c8d-ba40-23450cf5aff7.jpg"
+      },
+      {
+        "name": "Jogjagamers - San Andreas Radio",
+        "id": "99221248",
+        "genre": "Lounge",
+        "logo": "http://i.radionomy.com/document/radios/0/0656/0656e3fb-2327-4b40-b28f-34c58268aeea.png"
+      },
+      {
+        "name": "Yunnie's Room",
+        "id": "99353345",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/9/95a8/95a8b5c8-8830-4ebc-b4a2-41d1ff9ab81f.png"
+      },
+      {
+        "name": "RVG Group WebRadio",
+        "id": "99364097",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/0\\0fbf\\0fbf63f1-85d2-43a2-b3da-8aa5989a08e4.jpg"
+      }
+    ]
+  }
+}

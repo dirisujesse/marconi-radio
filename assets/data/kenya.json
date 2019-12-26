@@ -1,0 +1,130 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "My Radio Kenya!",
+        "id": "1802282",
+        "genre": "Top 40"},
+      {
+        "name": "BSI Kenya FM",
+        "id": "99333635",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/f/f654/f65449c1-c8e0-4ae8-95da-3365e6b81e16.jpg"},
+      {
+        "name": "FuseRadioKenya",
+        "id": "99297315",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/d/d86e/d86eb3f0-c5b1-40d4-835d-3825a8be0a95.png"},
+      {
+        "name": "Muuga FM Kenya",
+        "id": "99284276",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/6/659a/659ae73a-6a91-4165-b977-b66e7c1575dc.jpg"},
+      {
+        "name": "Kenya Progressive Radio",
+        "id": "99313207",
+        "genre": "Worldbeat",
+        "logo": "http://i.radionomy.com/document/radios/c/c610/c610a21b-0b69-4afe-9c9e-6ce085439a02.png"},
+      {
+        "name": "Muuga FM Kenya",
+        "id": "99284279",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/6/659a/659ae73a-6a91-4165-b977-b66e7c1575dc.jpg"},
+      {
+        "name": "Radio Citizen Kenya",
+        "id": "99281222",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/c/c056/c056e1f5-c73c-4840-89fd-8721f7770caf.jpg"},
+      {
+        "name": "Radio Citizen Kenya",
+        "id": "99281225",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/c/c056/c056e1f5-c73c-4840-89fd-8721f7770caf.jpg"},
+      {
+        "name": "Lulufm Kenya",
+        "id": "99322187",
+        "genre": "Ambient",
+        "logo": "http://i.radionomy.com/document/radios/a/a067/a067e7bd-afa6-456d-a646-7afb7addcc92.png"},
+      {
+        "name": "Planet Movement Kenya Collective",
+        "id": "99276365",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/c/c916/c916a2af-4dbf-48b9-85a1-b833bd0c9f9d.jpg"},
+      {
+        "name": "Planet Movement Kenya Collective",
+        "id": "99276368",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/c/c916/c916a2af-4dbf-48b9-85a1-b833bd0c9f9d.jpg"},
+      {
+        "name": "PlanetMovementKenya",
+        "id": "99276371",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/c\\c916\\c916a2af-4dbf-48b9-85a1-b833bd0c9f9d.jpg"},
+      {
+        "name": "PlanetMovementKenya",
+        "id": "99276374",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/cc916c916a2af-4dbf-48b9-85a1-b833bd0c9f9d.jpg"},
+      {
+        "name": "Hot96 FM Kenya",
+        "id": "99274076",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/7/771b/771b12ed-4815-4484-af16-d5e59c406854.jpg"},
+      {
+        "name": "Hero Radio1kenya",
+        "id": "99322985",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/e/e332/e33207e4-a318-420d-89ac-e160c9d8e195.jpg"},
+      {
+        "name": "One Stop Kenya Radio",
+        "id": "99226759",
+        "genre": "Urban Contemporary",
+        "logo": "http://i.radionomy.com/document/radios/c/c753/c75318e9-bdbe-43a5-95c0-474ddbbbbe5c.png"},
+      {
+        "name": "HERO RADIO KENYA",
+        "id": "99298452",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/d/dac5/dac534ea-adbd-4e7c-a416-00b26fbf10bc.jpg"},
+      {
+        "name": "Campus Radio Kenya",
+        "id": "1521557",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/d10623d4-a8c4-4ed4-bb05-669ff45f13f6.s165.jpg"},
+      {
+        "name": "kenyanusvibe",
+        "id": "99307158",
+        "genre": "International",
+        "logo": "http://i.radionomy.com/document/radios/2/20c0/20c0ca3d-938f-40b9-91a5-401468a3254e.jpg"},
+      {
+        "name": "Lulufm97.1Kenya",
+        "id": "99399574",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/8/8e7a/8e7a11b0-6cf1-4107-9d47-9ae93f1b0fde.jpg"},
+      {
+        "name": "DancehallKenya FM",
+        "id": "99309465",
+        "genre": "Reggae",
+        "logo": "http://i.radionomy.com/document/radios/4/4279/42793e83-7fe0-4c18-8a32-2dfeb6b25e87.jpg"},
+      {
+        "name": "MixFmKenya",
+        "id": "99368369",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/4/4db9/4db9f5a4-85e6-40fb-93f2-400edc8841ab.png"},
+      {
+        "name": "KENYANUSAVIBERADIO",
+        "id": "99302628",
+        "genre": "International",
+        "logo": "http://i.radionomy.com/document/radios/2/2ba2/2ba2e1dc-74f0-48de-899a-1836b7223075.jpg"},
+      {
+        "name": "Radio 47 Kenya",
+        "id": "99373540",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/8/840b/840b80a5-2e1f-42a6-99a9-fc3ef1911226.jpg"}
+    ]
+  }
+}

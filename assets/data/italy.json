@@ -1,0 +1,379 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "Italian Graffiati - Musica anni 60 e 70 - Italy Italia",
+        "id": "672747",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/ae91/ae91890e-a33d-4373-9d4c-cce04540ea8b.gif"
+      },
+      {
+        "name": "Radio Skipper - The 80s Channel from Italy - Italia",
+        "id": "1811901",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/e/e9c2/e9c2898b-715f-4def-ade9-7ddff6f3fba5.png"
+      },
+      {
+        "name": "Italy Classical Radio",
+        "id": "1800728",
+        "genre": "Classical",
+        "logo": "http://i.radionomy.com/document/radios/3/3a17/3a176a8b-8b63-429a-ab86-8cc83741e24e.jpg"
+      },
+      {
+        "name": "Radio Ascolta Italy 60s 70s  Italia Venice Milan Rome Naples",
+        "id": "1788361",
+        "genre": "International",
+        "logo": "http://i.radionomy.com/document/radios/a/a404/a404d7bf-f49d-489c-ae0d-9a5c9464895e.jpg"
+      },
+      {
+        "name": "FreeTime Radio - Musica Italiana Pop Top 100 - Best Italian Songs - Music from Italy Milano",
+        "id": "1323633",
+        "genre": "Top 40"
+      },
+      {
+        "name": "C4Y - CITY 4 YOU - Only Hits - ITALIAN TALK - Italy Italia",
+        "id": "1707588",
+        "genre": "Top 40"
+      },
+      {
+        "name": "Radio Easy&Italy",
+        "id": "1513488",
+        "genre": "Lounge"
+      },
+      {
+        "name": "FreeTime Radio - Musica Italiana Pop Top  40 - Best Italian Songs - Music from Italy Milano",
+        "id": "1707860",
+        "genre": "Adult Contemporary"
+      },
+      {
+        "name": "Bru Zane Classical Radio Italy - Rediscovering French Romantic Music",
+        "id": "1799996",
+        "genre": "Classical",
+        "logo": "https://i3.radionomy.com/radios/200/f/f404/f4045e46-c0b7-40c2-8026-c8071957f461.png"
+      },
+      {
+        "name": "Minimal, Techno, Electro Sets @ radio.lclhst.net",
+        "id": "144601",
+        "genre": "Electronic"
+      },
+      {
+        "name": "Radio Easy&Italy",
+        "id": "1755402",
+        "genre": "Lounge"
+      },
+      {
+        "name": "Bru Zane Classical Radio Italy - Rediscovering French Romantic Music",
+        "id": "1644781",
+        "genre": "Classical",
+        "logo": "https://i3.radionomy.com/radios/200/f/f404/f4045e46-c0b7-40c2-8026-c8071957f461.png"
+      },
+      {
+        "name": "Italyeah-radio",
+        "id": "99398149",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/e/ee8f/ee8f882f-3e89-430e-adcf-b9f4408336e5.jpg"
+      },
+      {
+        "name": "Radio Random Music Italy",
+        "id": "99344906",
+        "genre": "Heavy Metal",
+        "logo": "http://i.radionomy.com/document/radios/2/20e5/20e54b4a-e68b-4451-91b6-95f63e32d5d0.png"
+      },
+      {
+        "name": "UnaRadio Italy",
+        "id": "1832467",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/BEC9769C-B486-4A9E-BB93-D33966FC3ADF.s165.png"
+      },
+      {
+        "name": "Mau-italy",
+        "id": "99341858",
+        "genre": "Ambient",
+        "logo": "http://i.radionomy.com/document/radios/0/091b/091b35da-4d2e-4335-8313-87f28bf50fc8.jpg"
+      },
+      {
+        "name": "Radio People Italy",
+        "id": "1816613",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/6fb8d45c-2edc-4887-94c9-e40169318c6e.s165.png"
+      },
+      {
+        "name": "Radio Sound Music Italy",
+        "id": "443179",
+        "genre": "Freestyle",
+        "logo": "http://i.radionomy.com/documents/radio/4d37d83f-c41b-4552-b43e-bb0652f02a00.s165.png"
+      },
+      {
+        "name": "radio punjab italy",
+        "id": "99218220",
+        "genre": "Electric Blues",
+        "logo": "http://i.radionomy.com/document/radios/f/f692/f692481c-6abe-48fd-bb42-af478518fe10.png"
+      },
+      {
+        "name": "Radio Night Italy Socila 2.0",
+        "id": "606519",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/7cbed1a8-fdba-4e7e-b0b4-b11a51be7bb5.s165.jpg"
+      },
+      {
+        "name": "Radio Riminitaly",
+        "id": "49473",
+        "genre": "Soul",
+        "logo": "http://i.radionomy.com/documents/radio/56c045f9181d4581bb17d106bff4519c_635327171655050364.s125.png"
+      },
+      {
+        "name": "Italy-RVRmusic",
+        "id": "593218",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/documents/radio/9c6986df-d8ac-4ae9-83f4-730e63362e25.s165.png"
+      },
+      {
+        "name": "RadioItalyFromstation",
+        "id": "1436227",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/documents/radio/78e217f2-fbb7-42cb-b253-f81807590094.s165.jpg"
+      },
+      {
+        "name": "Techno italy",
+        "id": "99327047",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/9/950f/950f94ba-ffa4-4a02-a071-3ccc84dda06e.jpg"
+      },
+      {
+        "name": "Ghradioitaly",
+        "id": "99421522",
+        "genre": "African"
+      },
+      {
+        "name": "Tekno Underground Italy",
+        "id": "99293778",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/a/a192/a192166f-00ab-48a5-939c-90f98bda9662.jpg"
+      },
+      {
+        "name": "HRN ITALY",
+        "id": "99340631",
+        "genre": "Electro",
+        "logo": "http://i.radionomy.com/document/radios/0/0b97/0b977234-10f0-4c49-a8fa-d83f8136713c.jpg"
+      },
+      {
+        "name": "Ham Radio Italy",
+        "id": "1535321",
+        "genre": "Ambient",
+        "logo": "http://i.radionomy.com/documents/radio/1a83ec29-985a-4e39-9d54-254be32a6982.s165.jpg"
+      },
+      {
+        "name": "#RadioItaly",
+        "id": "1374041",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/0d5e4bd2-4275-4b02-9ad4-6bdcef74fd8e.s165.png"
+      },
+      {
+        "name": "Hit Radio Network Italy",
+        "id": "99340634",
+        "genre": "Electro",
+        "logo": "http://i.radionomy.com/document/radios/7/7439/74391aae-2aae-4a85-9b2f-36e8c5a35ee2.jpg"
+      },
+      {
+        "name": "One_Radio_Italy",
+        "id": "673891",
+        "genre": "Dance",
+        "logo": "http://i.radionomy.com/documents/radio/4d635be0-ec9a-4ae4-bf25-74e95a49de75.s165.png"
+      },
+      {
+        "name": "radio night italy",
+        "id": "649829",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/documents/radio/58ee21f129124005bb248f0b73d32edd_635470840973640208.s125.jpg"
+      },
+      {
+        "name": "BIG 80 POPROCKITALY",
+        "id": "1521510",
+        "genre": "Soft Rock",
+        "logo": "http://i.radionomy.com/documents/radio/9454f97f-5e12-4bd9-9555-13fc341846dc.s165.jpg"
+      },
+      {
+        "name": "ITALY HAPPY",
+        "id": "99415153",
+        "genre": "60s"
+      },
+      {
+        "name": "radiotestitaly",
+        "id": "1716851",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/d92bad94-4e9e-4a84-94fd-7991d9cd9833.s165.jpg"
+      },
+      {
+        "name": "Italy RVRmusic2",
+        "id": "1381748",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/d46ca8b9-d0ae-487a-9cbb-5dd5d4579b25.s165.png"
+      },
+      {
+        "name": "ITALY RVRmusic",
+        "id": "1749369",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/9f8dfd74-3b31-4a75-acc7-79637fcd1bbf.s165.png"
+      },
+      {
+        "name": "Alpha Radio Italy",
+        "id": "1535100",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/7841dc82-8101-4c78-80f9-75ccf0cb6105.s165.png"
+      },
+      {
+        "name": "Station Italy",
+        "id": "385669",
+        "genre": "Dance",
+        "logo": "http://i.radionomy.com/documents/radio/5882eff8-d50f-4a3e-9117-a7b54558b8c8.s165.jpg"
+      },
+      {
+        "name": "GHANARADIO ITALY",
+        "id": "1702281",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/documents/radio/B5DDA176-DE83-4A95-89B9-BE0FB904E65D.s165.png"
+      },
+      {
+        "name": "Radio People Italy Official",
+        "id": "1763467",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/d778ee50-56b1-4f59-8973-15f160b104de.s165.jpg"
+      },
+      {
+        "name": "Station Italy 2",
+        "id": "1155746",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/b9c0ec07-64b5-4d91-9a89-9978499a3d5e.s165.jpg"
+      },
+      {
+        "name": "RadioItaly.Asia",
+        "id": "548260",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/ffa9f5ff-1bcd-4202-9938-3b7b4303a7af.s165.png"
+      },
+      {
+        "name": "ITALY RVRmusic",
+        "id": "1126315",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/documents/radio/6922634b-7c03-4cd8-a2b2-3277afd3eb47.s165.png"
+      },
+      {
+        "name": "Italy RVRmusic3",
+        "id": "1782706",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/9368a08b-893b-437c-8afd-b22776bd5e39.s165.png"
+      },
+      {
+        "name": "Radio-Italy",
+        "id": "1118650",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/21b9686f-ff26-491d-b554-94a46795343f.s165.png"
+      },
+      {
+        "name": "Radio Night Italy Social",
+        "id": "627654",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/documents/radio/b00cf2ad-3122-441a-b123-211accef8b2f.s165.jpg"
+      },
+      {
+        "name": "COSMO RADIO WEB made in Italy",
+        "id": "589255",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/06f1bdf6-7b36-4e37-8ce6-7f220b65c8d9.s165.jpg"
+      },
+      {
+        "name": "WebRadio On Air Italy",
+        "id": "252616",
+        "genre": "Industrial",
+        "logo": "http://i.radionomy.com/documents/radio/b7a2d19e-92d9-4f0d-9e9d-68275568ad90.s165.jpg"
+      },
+      {
+        "name": "Poprockitaly",
+        "id": "1783753",
+        "genre": "Soft Rock",
+        "logo": "http://i.radionomy.com/documents/radio/c2ccb463-aa5f-4934-818d-cb02b13a18c5.s165.jpg"
+      },
+      {
+        "name": "Royal Radio Italy",
+        "id": "99236563",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/a/a293/a2935e91-d5ae-4863-82e0-c153e3ac3f3f.png"
+      },
+      {
+        "name": "BSS Radio Italy",
+        "id": "1401811",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/1628d970-fa3c-4153-8bf4-ee77c837a876.s165.png"
+      },
+      {
+        "name": "ITALY IN MUSIC",
+        "id": "99375832",
+        "genre": "Dance",
+        "logo": "http://i.radionomy.com/document/radios/6/6146/6146ad5d-de81-47e2-9687-8e47c5615832.jpg"
+      },
+      {
+        "name": "Pop-Rock-Italy",
+        "id": "1686496",
+        "genre": "Soft Rock",
+        "logo": "http://i.radionomy.com/documents/radio/c7f9c1bc-3fa7-410b-b2b1-8ba925ddc7ee.s165.jpg"
+      },
+      {
+        "name": "Tweet Italy",
+        "id": "201442",
+        "genre": "Electro",
+        "logo": "http://i.radionomy.com/documents/radio/6743c680-09f8-4ebf-aebb-b45d14d513ca.s165.png"
+      },
+      {
+        "name": "Club X - DJ Vitaly",
+        "id": "99235042",
+        "genre": "Bluegrass",
+        "logo": "http://i.radionomy.com/document/radios/0/097e/097e4201-1a8d-4172-ae99-632d3c196db8.jpg"
+      },
+      {
+        "name": "Radio Night Italy 80s",
+        "id": "1404391",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/8d12aa08-6db0-4423-8fa8-d2bbc77d5c67.s165.jpg"
+      },
+      {
+        "name": "Big Poprockitaly",
+        "id": "852459",
+        "genre": "International",
+        "logo": "http://i.radionomy.com/documents/radio/50258f12-c3b0-4da0-8145-b16d37aebdb0.s165.jpg"
+      },
+      {
+        "name": "Radio Night Italy Los Angeles",
+        "id": "1451501",
+        "genre": "Ambient",
+        "logo": "http://i.radionomy.com/documents/radio/ba62fb89-5a92-4f44-957c-32968bc21903.s165.jpg"
+      },
+      {
+        "name": "Radio Happy Italy",
+        "id": "1773045",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/94798B8C-C272-400B-8989-A15753A21FFF.s165.png"
+      },
+      {
+        "name": "Radio Ascolta Italy 60s 70s Italia Venice Milan Rome Naples",
+        "id": "1720111",
+        "genre": "International"
+      },
+      {
+        "name": "1 104 1 JAZZY PARTY PeterFlowers Radio Italy Italia",
+        "id": "1038015",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Musica Anni 60 Italy",
+        "id": "1775568",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/7/7d79/7d7931ae-8d71-494f-ab36-4473a49d66f7.jpg"
+      }
+    ]
+  }
+}

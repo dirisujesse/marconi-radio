@@ -1,0 +1,1171 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "Dance Wave Retro!",
+        "id": "1750548",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/dfc7/dfc78f3b-3106-48b0-8a4a-915fa8f59bc9.png"
+      },
+      {
+        "name": "MarcusFM.de",
+        "id": "99435169",
+        "genre": "90s"
+      },
+      {
+        "name": "PulsRadio 90",
+        "id": "1148410",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9b82/9b82dadd-b814-4fe8-9a38-8d4bd069a69c.jpg"
+      },
+      {
+        "name": ".113FM Star",
+        "id": "943475",
+        "genre": "90s"
+      },
+      {
+        "name": "Ok Plus",
+        "id": "1233145",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9ecc/9ecc4269-ac9d-4ae2-af97-3e6120a717a9.png"
+      },
+      {
+        "name": "1.FM - Absolute 90s Party Zone (www.1.fm)",
+        "id": "1813954",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/4/411d/411dee1b-8896-43c4-a8f3-b8e74310102d.jpg"
+      },
+      {
+        "name": "Radio Sun Romania www.radiosun.ro",
+        "id": "1607852",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/0/039d/039ddddb-28ba-4928-9e32-92d118c2daa5.jpg"
+      },
+      {
+        "name": "1.FM - Absolute 90's",
+        "id": "1693199",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/2/2874/28743cdf-9d40-4dca-b3cc-ddfd7e0c1e79.jpg"
+      },
+      {
+        "name": "Play 90's [Mobile]",
+        "id": "1570505",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/c/c2a5/c2a5ab59-9c6c-427f-911b-682c7872592a.png"
+      },
+      {
+        "name": ".113FM Hits 1992",
+        "id": "1575288",
+        "genre": "90s"
+      },
+      {
+        "name": "Free Radio - Athens #1 - 80s and 90s Dance Hit Radio",
+        "id": "1676773",
+        "genre": "90s"
+      },
+      {
+        "name": "América Dance 90's",
+        "id": "1727219",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/3/39de/39de47f6-f359-42f7-8d2a-a9bc549cb02c.png"
+      },
+      {
+        "name": "Dance Wave Retro!",
+        "id": "1697270",
+        "genre": "90s"
+      },
+      {
+        "name": "Radio Studio Souto - Eurodance 90s",
+        "id": "1339135",
+        "genre": "90s"
+      },
+      {
+        "name": "PulsRadio 90",
+        "id": "1352784",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9b82/9b82dadd-b814-4fe8-9a38-8d4bd069a69c.jpg"
+      },
+      {
+        "name": "Radio Copilu Mik - Romania",
+        "id": "1701495",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9dc6/9dc6b090-b35e-4e25-a461-d0221d63126f.png"
+      },
+      {
+        "name": "A-Z 90s",
+        "id": "99423163",
+        "genre": "90s"
+      },
+      {
+        "name": "POWERHITZ.COM - 90's Area",
+        "id": "1616203",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9f82/9f820a66-ef6f-4620-b78a-6a335369efa3.png"
+      },
+      {
+        "name": "Pure 90s Radio",
+        "id": "99450002",
+        "genre": "90s"
+      },
+      {
+        "name": "RadioHerzblut.de",
+        "id": "1537037",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/1af9/1af9f815-3e0e-4f65-a4fe-ac5a42ea02a4.jpg"
+      },
+      {
+        "name": "A_A 90s",
+        "id": "1555540",
+        "genre": "90s"
+      },
+      {
+        "name": ".113FM Hits 1990",
+        "id": "1700352",
+        "genre": "90s"
+      },
+      {
+        "name": "Love 90s",
+        "id": "99456101",
+        "genre": "90s"
+      },
+      {
+        "name": "SKIF",
+        "id": "1441949",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/c/c118/c118572e-32dc-4389-9def-faa82706b0f8.jpg"
+      },
+      {
+        "name": ".113FM Hits 1991",
+        "id": "1645464",
+        "genre": "90s"
+      },
+      {
+        "name": "Radio TOTAL Romania",
+        "id": "1736561",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0/0153/01531086-c056-4648-891d-31eb3fde3fca.jpg"
+      },
+      {
+        "name": "CALM RADIO - 90'S HITS - Sampler",
+        "id": "1172742",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/1636/16361ef2-739a-4923-a167-765141e26143.jpg"
+      },
+      {
+        "name": "Radio Star International",
+        "id": "1878456",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/2/20f3/20f3a91f-e922-42ea-bc37-b92f6f06a8b6.jpg"
+      },
+      {
+        "name": ".113FM Hits 1994",
+        "id": "1775386",
+        "genre": "90s"
+      },
+      {
+        "name": ".113FM Hits 1998",
+        "id": "1402731",
+        "genre": "90s"
+      },
+      {
+        "name": ".113FM Hits 1999",
+        "id": "1777611",
+        "genre": "90s"
+      },
+      {
+        "name": "Z-1029",
+        "id": "1484756",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/8/811c/811c1bc0-9683-4f4e-8188-58d10a26d8ef.png"
+      },
+      {
+        "name": "FORM radio UK",
+        "id": "1757769",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/f/f0b5/f0b585af-966f-43e5-8600-52e2e220c606.jpg"
+      },
+      {
+        "name": "90sRadio (MRG.fm)",
+        "id": "1501583",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/3/3eec/3eeca5dc-7c59-46d5-9ca8-41820629dea7.png"
+      },
+      {
+        "name": ".113FM Hits 1997",
+        "id": "1779723",
+        "genre": "90s"
+      },
+      {
+        "name": ".113FM Hits 1996",
+        "id": "1777206",
+        "genre": "90s"
+      },
+      {
+        "name": "Radio-Oldambtsterboy",
+        "id": "99458885",
+        "genre": "90s"
+      },
+      {
+        "name": "RMX 96.9 SLP",
+        "id": "1771147",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/8/807a/807a438a-38fa-4c0a-a6fa-bbdd3b557e81.jpg"
+      },
+      {
+        "name": "RadioHerzblut.de",
+        "id": "1427807",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/1af9/1af9f815-3e0e-4f65-a4fe-ac5a42ea02a4.jpg"
+      },
+      {
+        "name": "Radio Dancefloor - 90s [Low Bitrate]",
+        "id": "239754",
+        "genre": "90s"
+      },
+      {
+        "name": "Waterlu",
+        "id": "99467015",
+        "genre": "90s"
+      },
+      {
+        "name": "FM91 Pakistan - 90s Music",
+        "id": "1521051",
+        "genre": "90s"
+      },
+      {
+        "name": ".113FM Hits 1995",
+        "id": "1747882",
+        "genre": "90s"
+      },
+      {
+        "name": "TRU Radio Station Stream",
+        "id": "915660",
+        "genre": "90s"
+      },
+      {
+        "name": "Radio-Nordstern",
+        "id": "1400038",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/b/b734/b7340674-378e-4c31-9888-b3d169e04c05.png"
+      },
+      {
+        "name": ".113FM Hits 1993",
+        "id": "1748468",
+        "genre": "90s"
+      },
+      {
+        "name": "4-Reasons-Radio 90's",
+        "id": "1531131",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/c/ccfd/ccfd6009-cc1f-495b-87a8-f0baf044bcb6.jpg"
+      },
+      {
+        "name": "Dance Wave Retro!",
+        "id": "1864485",
+        "genre": "90s"
+      },
+      {
+        "name": "Dance Wave Retro!",
+        "id": "1879653",
+        "genre": "90s"
+      },
+      {
+        "name": "América Dance 90's",
+        "id": "1775105",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/3/39de/39de47f6-f359-42f7-8d2a-a9bc549cb02c.png"
+      },
+      {
+        "name": "Radio ROMANi ONLiNE | Marea Britanie",
+        "id": "969569",
+        "genre": "90s"
+      },
+      {
+        "name": "Radio Dreams Clasic",
+        "id": "1722517",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/4/430a/430a531b-c0c0-4e3b-90b5-133eecc58cfe.jpg"
+      },
+      {
+        "name": "BDEJamz Radio",
+        "id": "1128193",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0/01f0/01f0a05d-6c24-4fe6-ac53-91967b12221e.png"
+      },
+      {
+        "name": "Generation Hit - www.generation-hit.fr",
+        "id": "99426607",
+        "genre": "90s"
+      },
+      {
+        "name": "Magic 90's Florida",
+        "id": "1751636",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0/0602/06025557-be4a-4a3a-a97c-c01c4a0d8970.png"
+      },
+      {
+        "name": "Ràdio Sant Joan",
+        "id": "940669",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/b/b1fd/b1fd7f65-055b-448b-9864-c8a1f83b21df.png"
+      },
+      {
+        "name": "América Dance 90's",
+        "id": "1801875",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/3/39de/39de47f6-f359-42f7-8d2a-a9bc549cb02c.png"
+      },
+      {
+        "name": "REMEMBER | FORGOTTEN HITS",
+        "id": "99435199",
+        "genre": "90s"
+      },
+      {
+        "name": "90sRadio (MRG.fm)",
+        "id": "1422791",
+        "genre": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/3/3eec/3eeca5dc-7c59-46d5-9ca8-41820629dea7.png"
+      },
+      {
+        "name": "Radio Dancefloor - 90s",
+        "id": "1689593",
+        "genre": "90s"
+      },
+      {
+        "name": "Classic Fleet Radio",
+        "id": "1625085",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/4/41f4/41f4c8ba-f7a3-40ae-b878-f285b1868970.jpg"
+      },
+      {
+        "name": "PZC Music Radio",
+        "id": "99224065",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/2/2a19/2a197c38-27ab-4548-8570-98c1bca5bba1.png"
+      },
+      {
+        "name": "FMBeats",
+        "id": "99234049",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/31fe/31fed40f-d57b-4182-b086-1296f51116c8.png"
+      },
+      {
+        "name": "freefm_eurodance",
+        "id": "99267585",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e/e6de/e6ded45f-e180-4139-99f4-73fea5b20047.jpg"
+      },
+      {
+        "name": "CTU STUDENT RADIO",
+        "id": "99342593",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/b/bbbd/bbbd0f34-0b39-432f-ac24-316f9c8dddac.png"
+      },
+      {
+        "name": "NixxFM - NL",
+        "id": "99370754",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/6/67ad/67ad7600-cee8-4b9c-80f8-488247c61fe7.jpg"
+      },
+      {
+        "name": "Kaoz Radio",
+        "id": "99377666",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/35a8/35a8318f-a818-48aa-8239-0b6b2d4e0cfc.jpg"
+      },
+      {
+        "name": "RadioTotal - TotalFM",
+        "id": "99254530",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/db8f/db8f8fe8-51d6-4cb6-bd5a-3ddf30f54d98.jpg"
+      },
+      {
+        "name": "bambus",
+        "id": "99262467",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/33df/33df188b-fcbc-4494-a918-f4c0f32b2aa3.jpg"
+      },
+      {
+        "name": "Shaur Radio",
+        "id": "99377668",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/4/4c39/4c39cf4b-a077-42b6-9fd4-189e4c950dd1.png"
+      },
+      {
+        "name": "Dios cuida de mi",
+        "id": "99386116",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/f95d/f95d6147-2a64-4239-b725-277a03442262.gif"
+      },
+      {
+        "name": "New Age Radio",
+        "id": "99400708",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/16dd/16dda477-5a46-488a-9f95-25799492d6df.jpg"
+      },
+      {
+        "name": "VersionBeta2",
+        "id": "99310086",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/4/4d77/4d77ec4a-6aba-451a-8a7c-84ca4d3b31cd.jpg"
+      },
+      {
+        "name": "99.1 Filipino FM",
+        "id": "99393286",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9d1b/9d1b7f5d-1a49-4365-9dab-9897386598a5.jpg"
+      },
+      {
+        "name": "Radio fenix fm são gonçalo",
+        "id": "99213062",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/90e3/90e3d056-63fe-4655-9c1c-e400765eb7a9.jpg"
+      },
+      {
+        "name": "HelioX-Radio",
+        "id": "99334151",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e/ed61/ed618c8b-0585-4cb9-ab1b-d5aef5a16c22.jpg"
+      },
+      {
+        "name": "Radio Namkin- Ekdum Zabardast",
+        "id": "99370504",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0/0c53/0c530e9c-0f3c-42c4-85a7-81af99959677.png"
+      },
+      {
+        "name": "Static: The Best Of 1995",
+        "id": "99439112",
+        "genre": "90s"
+      },
+      {
+        "name": "FM Dachluke",
+        "id": "99416584",
+        "genre": "90s"
+      },
+      {
+        "name": "Bubble",
+        "id": "99230473",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0/0133/0133226e-e9d8-4cb7-9e91-9681fdd158e4.jpg"
+      },
+      {
+        "name": "V V Gold",
+        "id": "99366665",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9723/9723f3fc-6462-4b1a-867f-c463ad41c7c2.png"
+      },
+      {
+        "name": "Trialtrial",
+        "id": "99440393",
+        "genre": "90s"
+      },
+      {
+        "name": "Radio Fingus",
+        "id": "99213065",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/c/c1e7/c1e78529-0e60-42b8-8d97-d12c223cbb08.jpg"
+      },
+      {
+        "name": "Radio Fieri",
+        "id": "99372810",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/b/ba72/ba7202db-cf9d-498d-a968-915108b555c6.png"
+      },
+      {
+        "name": "POPJAMZRADIO-MAGOONRADIO",
+        "id": "99310347",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/fef0/fef08bce-8830-4917-89ed-c59a4e447390.jpg"
+      },
+      {
+        "name": "Aaron Shae Radio 90's & More",
+        "id": "99227404",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e/e335/e3357d38-b99c-4d80-9a83-17758cb45c3e.jpg"
+      },
+      {
+        "name": "Just Hits 4U",
+        "id": "99337484",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/2/2aea/2aea38f1-6a3e-4e28-9cb5-a7d24804deb7.jpg"
+      },
+      {
+        "name": "sethfm",
+        "id": "99421966",
+        "genre": "90s"
+      },
+      {
+        "name": "Aambiance 90",
+        "id": "99180558",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/documents/radio/660c43b63d9a4024bf3a07896f4e06fb_634949178549096237.s125.jpg"
+      },
+      {
+        "name": "Tuyú fm",
+        "id": "99247630",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/ffaf/ffaf3da3-42ec-48aa-a886-35bfc120fb7f.png"
+      },
+      {
+        "name": "music_1",
+        "id": "99266574",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/d8bd/d8bd61f2-5294-4225-89a0-4e0898589ce7.png"
+      },
+      {
+        "name": "New Jersey No Specific Format",
+        "id": "99352847",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e/ead5/ead594e7-a3f6-4978-afca-dbeff7a62826.jpg"
+      },
+      {
+        "name": "Static: The Best Of 1999",
+        "id": "99439631",
+        "genre": "90s"
+      },
+      {
+        "name": "WBGS Radio Ontario",
+        "id": "99214607",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0/03ef/03ef7c52-f9d8-4c44-ab17-b64709363871.jpg"
+      },
+      {
+        "name": "gmod personal music",
+        "id": "99376144",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/4/49ff/49ff7a54-6d96-4895-aed5-9de67f32e8fa.jpg"
+      },
+      {
+        "name": "More Kings & Queens Radio",
+        "id": "99446288",
+        "genre": "90s"
+      },
+      {
+        "name": "eMeR RADIO",
+        "id": "99272720",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/d5ec/d5ecad33-481d-4be4-a631-369738ad5537.jpg"
+      },
+      {
+        "name": "online radiofono",
+        "id": "99212561",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/7/7bb0/7bb013b5-0323-4ac4-8703-74a8c4cb0524.jpg"
+      },
+      {
+        "name": "shoutcast_sieci",
+        "id": "99287570",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/8/818d/818dc2f8-ba0e-49b5-8578-bd2ed85e6e4d.jpg"
+      },
+      {
+        "name": "Back to the 90's",
+        "id": "99181074",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/documents/radio/201203022105164144.s125.jpg"
+      },
+      {
+        "name": "Aaron Shae Radio 90's & More",
+        "id": "99393298",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/8/8895/8895fb90-ec94-44d0-b2f8-a8ac1260d247.png"
+      },
+      {
+        "name": "KanaalzichtFM",
+        "id": "99268626",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e/e4ad/e4ad4155-6e0e-4ed1-b3a0-f91b489a0417.jpg"
+      },
+      {
+        "name": "Radio fm fenix são gonçalo",
+        "id": "99213074",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9\\90e3\\90e3d056-63fe-4655-9c1c-e400765eb7a9.jpg"
+      },
+      {
+        "name": "Radio Franky",
+        "id": "99281684",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/5/5b9e/5b9e1b44-0c6c-4a28-a23a-b16d6cf7963e.png"
+      },
+      {
+        "name": "Pop Rock FM  192 K stream",
+        "id": "99219221",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/7/7d3f/7d3ff68d-b7ba-43e6-b970-9cace42c7adc.png"
+      },
+      {
+        "name": "Radio-its-fun",
+        "id": "99240214",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/d620/d62077fd-4b83-497f-b8bc-1912397afaa5.png"
+      },
+      {
+        "name": "louboyzradio",
+        "id": "99294231",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/c/cdb2/cdb288dc-9cde-4861-80f9-aa014b019fca.jpg"
+      },
+      {
+        "name": "Radio Franky",
+        "id": "99281687",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/5/5b9e/5b9e1b44-0c6c-4a28-a23a-b16d6cf7963e.png"
+      },
+      {
+        "name": "Prwtos 95",
+        "id": "99343385",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/8/8757/8757be28-cb41-4faa-a30a-fce6484f31c5.jpg"
+      },
+      {
+        "name": "AQA",
+        "id": "99224860",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/a/abf6/abf6adef-01c1-4887-998a-fbee9ad8fe49.jpg"
+      },
+      {
+        "name": "elo-radio",
+        "id": "99295773",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9f18/9f188eeb-1e4b-4c6d-b42e-33c7a5a0abbb.jpg"
+      },
+      {
+        "name": "badaim",
+        "id": "99304221",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/f7b5/f7b5e360-cc51-443a-b207-fc378e81064a.png"
+      },
+      {
+        "name": "RockRapRNBPop",
+        "id": "99251998",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/a/af05/af05f2a1-35ec-4103-a5f7-40052a5fbfe2.jpg"
+      },
+      {
+        "name": "ODOgoesRAD",
+        "id": "99400990",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/ddfd/ddfd9b14-69cc-4d7f-8ec4-c4a579f95712.png"
+      },
+      {
+        "name": "old school",
+        "id": "99336734",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e/e647/e647bc90-2e6b-465a-b196-9c4b855c7d49.jpg"
+      },
+      {
+        "name": "DJay Rainbow",
+        "id": "99363359",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/4/4e13/4e13298d-148e-406b-9d27-2e8a7accd98c.jpg"
+      },
+      {
+        "name": "radio taraane",
+        "id": "99286559",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/ff1b/ff1b7529-6bad-436c-89e5-37ba978c0b94.jpg"
+      },
+      {
+        "name": "Uncle Tito's Jam Shack",
+        "id": "99365408",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/4/4266/42667622-7aa2-43b2-918b-894c9e605ca0.jpg"
+      },
+      {
+        "name": "triplerrr2",
+        "id": "99372576",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/5\\55df\\55dfa885-5e56-4b3e-afda-f982901b90ef.gif"
+      },
+      {
+        "name": "Pantai Fm",
+        "id": "99401251",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/a/ae1d/ae1dbbc4-1819-43f5-a369-669f6c89579b.jpg"
+      },
+      {
+        "name": "old school 916",
+        "id": "99336740",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e\\e647\\e647bc90-2e6b-465a-b196-9c4b855c7d49.jpg"
+      },
+      {
+        "name": "HitsKingsSpins",
+        "id": "99314725",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/7/718c/718c9b85-e12a-47bc-aa55-1f1ddd828a76.jpg"
+      },
+      {
+        "name": "Big Smile Radio - Khushiyon Ki Chabbi",
+        "id": "99429670",
+        "genre": "90s"
+      },
+      {
+        "name": "Samden-Wedding",
+        "id": "99235366",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/c/cb7a/cb7a735e-c321-4734-bc34-45fc93c63873.jpg"
+      },
+      {
+        "name": "OldSchoolAlt",
+        "id": "99268134",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/1656/16568d6d-94d1-4d65-b33a-600a8642f8e6.png"
+      },
+      {
+        "name": "Game radio South Africa",
+        "id": "99353639",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/2/2d17/2d17f9ce-f36e-48bb-bb06-f509e7b90489.jpg"
+      },
+      {
+        "name": "Halchal",
+        "id": "99231271",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9f28/9f287630-531c-4626-a36d-f65f05f07445.png"
+      },
+      {
+        "name": "KNC Radio 90.3",
+        "id": "99325223",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/1478/1478d021-ac5d-407b-b4c9-ea3c7be191af.png"
+      },
+      {
+        "name": "DJ Xaviann",
+        "id": "99273767",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/2/29d1/29d1875a-e15a-4fab-9924-2addb1ded840.jpg"
+      },
+      {
+        "name": "franciscoradio",
+        "id": "99314728",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/6/65cc/65cc7ebb-55ca-4d29-b38d-e4ef6c2a9ab8.gif"
+      },
+      {
+        "name": "radiovoltfm",
+        "id": "99236137",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/d8f5/d8f59005-b473-420d-b530-57f17a4f0aab.png"
+      },
+      {
+        "name": "TOPFM 90s",
+        "id": "99251497",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/109e/109e62a2-a882-42f6-a666-653a2c1f3f0f.jpg"
+      },
+      {
+        "name": "streetschalor radio",
+        "id": "99322922",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/3a75/3a751760-dc0d-4ffa-b18c-8fe322f94b86.jpg"
+      },
+      {
+        "name": "eurodance90sbydaydee",
+        "id": "99402538",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/b/bbfb/bbfbea96-4d12-47c8-8369-40462c3f289c.jpg"
+      },
+      {
+        "name": "DixieBantonRadio",
+        "id": "99340586",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/3108/3108b569-4497-4290-9332-f874c99022c1.png"
+      },
+      {
+        "name": "TestRadioDanek",
+        "id": "99249964",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/370d/370df292-35e3-45c5-8ae2-ea79959d0f72.jpg"
+      },
+      {
+        "name": "jaamporadio",
+        "id": "99398188",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/2/25b9/25b91d83-4cad-46c5-aca7-f5aa98c013ab.jpg"
+      },
+      {
+        "name": "Radio Space 90's",
+        "id": "99277100",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/d63d/d63db3db-0782-4121-8171-253235bfc60f.jpg"
+      },
+      {
+        "name": "Dj FeestBeest",
+        "id": "99348524",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/9eaa/9eaa4be6-d3ce-469d-9851-014bd0299608.jpg"
+      },
+      {
+        "name": "1035 Klite",
+        "id": "99393070",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/12a4/12a4493e-4f75-42b0-9ce8-e1c21535c2c2.png"
+      },
+      {
+        "name": "Singapore Tamil",
+        "id": "99287087",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/6/634b/634b45df-34ad-4de2-a2e5-f662b7ba3af2.jpg"
+      },
+      {
+        "name": "UnderGround Surround Sound",
+        "id": "99363887",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/5/5015/5015ee22-15fb-47a4-bca4-39e9889b359a.png"
+      },
+      {
+        "name": "90's PARTY",
+        "id": "208943",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/documents/radio/01dd315c84ec465bb9b5fa86b5c9e77c_635380511557400421.s125.png"
+      },
+      {
+        "name": "A .RADIO 90s JUICE",
+        "id": "99180591",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/documents/radio/201205021525341597.s125.jpg"
+      },
+      {
+        "name": "Radio Space 90's",
+        "id": "99277103",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/d63d/d63db3db-0782-4121-8171-253235bfc60f.jpg"
+      },
+      {
+        "name": "shabazzboi radio",
+        "id": "99322928",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3\\3a75\\3a751760-dc0d-4ffa-b18c-8fe322f94b86.jpg"
+      },
+      {
+        "name": "PiratenTeamWierden",
+        "id": "99265584",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/f147/f14780e2-96d0-460e-a67f-eb9a0f423b2c.png"
+      },
+      {
+        "name": "V V Kannada",
+        "id": "99282992",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/5/53ee/53ee0291-f058-47aa-8f49-5374a686d4b1.png"
+      },
+      {
+        "name": "webradio2017",
+        "id": "99292722",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0/00b8/00b82506-d20a-438f-ba2b-df3fec5f59f0.png"
+      },
+      {
+        "name": "northvillazar",
+        "id": "99381554",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/97c0/97c0e09e-399b-4c37-91af-a1325735805d.png"
+      },
+      {
+        "name": "Cataventus - Web Rádio Canoa Quebrada",
+        "id": "99228211",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/2/2549/2549a14b-f25c-40e7-9670-797a3d75af77.jpg"
+      },
+      {
+        "name": "V V Kannada",
+        "id": "99282995",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/5/53ee/53ee0291-f058-47aa-8f49-5374a686d4b1.png"
+      },
+      {
+        "name": "u4radio",
+        "id": "99304500",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/b/b344/b3440d29-8fa2-4836-9e75-9a26dbfcb4e0.png"
+      },
+      {
+        "name": "Heat Radio",
+        "id": "1596212",
+        "genre": "90s"
+      },
+      {
+        "name": "RadiocastFM.com",
+        "id": "99266868",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/2/2c52/2c52952c-4b83-437f-b1a2-cb5cd4908773.jpg"
+      },
+      {
+        "name": "WoodBlueSat",
+        "id": "99342644",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/6/6d6c/6d6c9dff-47fd-424d-931e-b6c237bd8a6a.jpg"
+      },
+      {
+        "name": "PowerBass 97.7",
+        "id": "99373622",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/5/5645/56453b44-1f7b-4aab-880e-bb98f129205f.jpg"
+      },
+      {
+        "name": "Frechddachs2003",
+        "id": "99342902",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/a/acdd/acddf9e2-8957-4616-b857-636bd04a4091.jpg"
+      },
+      {
+        "name": "MIX125",
+        "id": "99360311",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/db17/db174db4-b21d-4e7c-8ebc-ba39c3016349.jpg"
+      },
+      {
+        "name": "Phonk.exe Radio 1994",
+        "id": "99369784",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/f52a/f52a130b-1f26-4b0c-80e7-8a2f98943829.jpg"
+      },
+      {
+        "name": "A Show Of Hands Radio",
+        "id": "99320633",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/5/55a7/55a7c35e-aa3c-453f-974c-4010a75cde96.jpg"
+      },
+      {
+        "name": "chillxm",
+        "id": "99379002",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/f27e/f27ed78c-eda3-4473-b1a0-05a6da53e201.png"
+      },
+      {
+        "name": "Radio Ahamagazine",
+        "id": "99379258",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/c/cc06/cc06ab6e-6345-43c8-b4cc-9d952d0f714b.jpg"
+      },
+      {
+        "name": "Radio 30kn",
+        "id": "99413050",
+        "genre": "90s"
+      },
+      {
+        "name": "Vombaf",
+        "id": "99341627",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/1bf3/1bf3c146-239b-49dc-b4b6-2946cd439750.jpg"
+      },
+      {
+        "name": "DjNumaRadio",
+        "id": "99359804",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/fa66/fa66cff4-c487-4bb0-bedb-0dd42f8d9ac7.jpg"
+      },
+      {
+        "name": "82S-Three",
+        "id": "99306300",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/d/d10f/d10f89e8-2559-4c7a-990c-3c59f3279796.jpg"
+      },
+      {
+        "name": "dein-gute-laune-radio.eu",
+        "id": "99264573",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/8/80e6/80e61c70-c9db-4059-b766-438aac1ad250.jpg"
+      },
+      {
+        "name": "Radio-Chelsey",
+        "id": "99376702",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/f6f0/f6f0fa40-0749-46fc-9d42-a62048eaabbc.jpg"
+      },
+      {
+        "name": "ZonaHispanaIRC Radio",
+        "id": "99280190",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e/ecfe/ecfeed57-c022-4159-a9c7-9a8e87949a31.jpg"
+      },
+      {
+        "name": "Radio Sunshine Nederland",
+        "id": "99298623",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/3138/31382565-c771-4d47-b5b2-a3a47171d790.jpg"
+      },
+      {
+        "name": "Disermex",
+        "id": "99273791",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/b/b999/b99909e7-6fcc-46c1-9522-8588de652e52.jpg"
+      },
+      {
+        "name": "GDLdjMX",
+        "id": "99340607",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/f68e/f68e9706-1366-4c71-942a-47dd1fdae574.jpg"
+      },
+      {
+        "name": "Inter_Gomel",
+        "id": "99221824",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0/0c88/0c881f4a-232e-427d-88ea-9fe2f5b34fc0.jpg"
+      },
+      {
+        "name": "viseualive web",
+        "id": "99235648",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/4/473c/473c9c9e-fb2d-443d-938b-e6841b28b860.jpg"
+      },
+      {
+        "name": "Radio Music Factory",
+        "id": "99368768",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/1926/19260b1a-3586-4645-bcc8-e5d3053a881d.jpg"
+      },
+      {
+        "name": "Virtual Terê",
+        "id": "99371840",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/6/663a/663a63b6-2b2a-448f-8941-0a8e0f3c6dcd.png"
+      },
+      {
+        "name": "FineArtradio",
+        "id": "99328064",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/a/a24e/a24e4d7f-9c1b-4d4d-8999-9d0be8b4e60f.jpg"
+      },
+      {
+        "name": "Radio Konoha",
+        "id": "99266880",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/3020/30207da0-4f5a-492c-ab36-f2884e584a43.jpg"
+      },
+      {
+        "name": "Kaitsun Ropaganda Radio",
+        "id": "99398464",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/6/6f64/6f6418cd-c029-4238-adc1-0381afb6ab5d.png"
+      },
+      {
+        "name": "CologneRock",
+        "id": "99264321",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/3cd3/3cd3af61-68e1-426e-9ec0-11131307b9e3.png"
+      },
+      {
+        "name": "CONALEP SUENA 230",
+        "id": "99265089",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/2/2ad1/2ad1899b-fb68-4a89-ac12-5226a98e15e9.jpg"
+      },
+      {
+        "name": "ZonaHispanaIRC Radio",
+        "id": "99280193",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e/ecfe/ecfeed57-c022-4159-a9c7-9a8e87949a31.jpg"
+      },
+      {
+        "name": "WVTC 90.7FM Williston",
+        "id": "99252802",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/949b/949b8ce7-4b87-4faa-9e40-c8f084ae8e70.png"
+      },
+      {
+        "name": "Ciggy Radio",
+        "id": "99394882",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0/0572/05724d7a-8f35-43a4-b67b-1b3f305fce6a.png"
+      },
+      {
+        "name": "Inter_Gomel_radio",
+        "id": "99221827",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/0\\0c88\\0c881f4a-232e-427d-88ea-9fe2f5b34fc0.jpg"
+      },
+      {
+        "name": "The Trey's Angel Show",
+        "id": "99246403",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/6/60a7/60a710cb-59dd-4e82-83d6-372add9da4d0.jpg"
+      },
+      {
+        "name": "Dj Rhom",
+        "id": "99258691",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/3/373b/373b1b77-5f8a-4962-9497-7fe65c592159.jpg"
+      },
+      {
+        "name": "1 HITS 90s",
+        "id": "800580",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/documents/radio/9a44d265-bd11-453c-a1be-1221b3faa6bb.s165.jpg"
+      },
+      {
+        "name": "The Aly Alliance",
+        "id": "99373892",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/18ca/18ca1634-63ab-4919-9c20-eae87be662e7.jpg"
+      },
+      {
+        "name": "AR Rahman LITE Radio",
+        "id": "99415108",
+        "genre": "90s"
+      },
+      {
+        "name": "Beauty Talks",
+        "id": "99355973",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/5/52ef/52effa49-1a3e-41a0-83cc-92d0d04cb452.jpg"
+      },
+      {
+        "name": "BOBS",
+        "id": "99357767",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/1/18d4/18d4de5b-b36f-468e-b42f-bf9750705719.jpg"
+      },
+      {
+        "name": "g-fm.be",
+        "id": "99297351",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/b/bc95/bc95a665-e9ca-4417-9f91-f11b137b1f25.png"
+      },
+      {
+        "name": "Disermex",
+        "id": "99337799",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/8/89ce/89ce6018-2a18-4160-b8a6-9b90055f2287.jpg"
+      },
+      {
+        "name": "unbreakable",
+        "id": "99373640",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/e/e1d1/e1d1362e-8abb-4884-a1d8-4ef9de894331.png"
+      },
+      {
+        "name": "357RdioJamz",
+        "id": "99250504",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/f/f9fb/f9fbca49-cbab-4aae-ab91-7196afc9b0a0.jpg"
+      },
+      {
+        "name": "Reivajcidem",
+        "id": "99390280",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/9/957b/957b4b66-79a9-44cf-af60-d200a62804e3.jpg"
+      },
+      {
+        "name": "TWIsM Online",
+        "id": "99295563",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/7/7526/752651c1-9681-4f84-b28a-7cb23c054987.png"
+      },
+      {
+        "name": "DJXJenny",
+        "id": "99305547",
+        "genre": "90s",
+        "logo": "http://i.radionomy.com/document/radios/8/8d2a/8d2a3d6c-0b69-4bf8-853a-90d2b088d41a.png"
+      }
+    ]
+  }
+}

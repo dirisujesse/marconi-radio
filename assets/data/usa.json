@@ -1,0 +1,1192 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "Punjabi Radio USA",
+        "id": "1614720",
+        "genre": "Talk"
+      },
+      {
+        "name": "RadioFilipinoUSA.com | Love Songs",
+        "id": "1431405",
+        "genre": "Love and Romance"
+      },
+      {
+        "name": ".113FM Hits USA",
+        "id": "1644585",
+        "genre": "Top 40"
+      },
+      {
+        "name": "Radio Musa",
+        "id": "192509",
+        "genre": "Adult Contemporary"
+      },
+      {
+        "name": "SUSPENSE Radio USA",
+        "id": "99450500",
+        "genre": "Old Time Radio"
+      },
+      {
+        "name": "Shanson USA",
+        "id": "339093",
+        "genre": "Russian"
+      },
+      {
+        "name": ".113FM Pop2K USA",
+        "id": "1650777",
+        "genre": "00s"
+      },
+      {
+        "name": "RADIO CLASIC OPERA",
+        "id": "1698636",
+        "genre": "Opera"
+      },
+      {
+        "name": "Crime Time Radio USA",
+        "id": "99450476",
+        "genre": "Old Time Radio"
+      },
+      {
+        "name": "KRPS-FM",
+        "id": "1631771",
+        "genre": "Public Radio"
+      },
+      {
+        "name": "Radio Tesoro",
+        "id": "198365",
+        "genre": "Public Radio"
+      },
+      {
+        "name": "WWW.RECORDSTORE.SkunkRadioLive.com",
+        "id": "1412173",
+        "genre": "Pop"
+      },
+      {
+        "name": "dj luicar fusagasuga colombia",
+        "id": "1808001",
+        "genre": "Country",
+        "logo": "http://i.radionomy.com/document/radios/1/1cf5/1cf56343-0961-420b-9f66-7a2515d9311f.jpg"
+      },
+      {
+        "name": "Bakus Radio, USA",
+        "id": "405113",
+        "genre": "African"
+      },
+      {
+        "name": "RadioVoieDuSalut",
+        "id": "1706420",
+        "genre": "Christian"
+      },
+      {
+        "name": "eargasmUSA",
+        "id": "1644243",
+        "genre": "Prog Rock"
+      },
+      {
+        "name": "RADIO EVANGELICA USA",
+        "id": "1764228",
+        "genre": "Christian",
+        "logo": "http://i.radionomy.com/document/radios/b/ba9d/ba9d187d-0063-4a5c-abfe-6c35dc12d4c6.png"
+      },
+      {
+        "name": "Susa Onda Radio",
+        "id": "1776876",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/0/03f2/03f25bef-9e89-430b-a323-9e85d44b045f.jpg"
+      },
+      {
+        "name": "radio online fusagasuga colombia",
+        "id": "1758103",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/8/8213/82136b00-a74a-43c3-932e-ceba59f4e468.jpg"
+      },
+      {
+        "name": "RadioSIracusaWeb",
+        "id": "1518445",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/5/5122/51226c0f-16cf-4e83-b86c-6b9b91ad207a.png"
+      },
+      {
+        "name": "Dazz Radio",
+        "id": "1725831",
+        "genre": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/e/eb19/eb19f957-4607-44da-994f-837bb6560072.png"
+      },
+      {
+        "name": "Classic Radio JAR101 (OT)",
+        "id": "1730523",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/d/db5b/db5bc895-9fd7-4e64-bf58-c739a8de3f5f.jpg"
+      },
+      {
+        "name": "SONGCAST RADIO - Christian & Gospel",
+        "id": "1779058",
+        "genre": "Christian",
+        "logo": "http://i.radionomy.com/document/radios/b/bb7f/bb7fabb6-05f6-4270-b111-8235049b6956.png"
+      },
+      {
+        "name": "TRD 3 SANAT / CLASSIC - Turk Radyo Dunyasi - Turkish World Radio (128k MP3)",
+        "id": "99435502",
+        "genre": "Turkish"
+      },
+      {
+        "name": "Cupido Stereo USA (((Musica Romantica)))",
+        "id": "1594351",
+        "genre": "Latin"
+      },
+      {
+        "name": "Habesha Radio USA",
+        "id": "99366914",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/a/aa9b/aa9b48fa-ecd5-4f64-a3d4-0c6d75be242b.jpg"
+      },
+      {
+        "name": "Rádio Sousa web",
+        "id": "99282434",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/8/8da0/8da00b4a-0001-4fab-b721-bc01514ecbc1.png"
+      },
+      {
+        "name": "chibiusa",
+        "id": "99394819",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/b/ba62/ba621d5b-3ff7-4a5b-9977-f037477b0906.png"
+      },
+      {
+        "name": "HUSARADIO",
+        "id": "1688836",
+        "genre": "Reggaeton",
+        "logo": "http://i.radionomy.com/documents/radio/ebe9e2e3-c0a6-4f79-b439-5df32de458aa.s165.jpg"
+      },
+      {
+        "name": "Rádio Sousa web",
+        "id": "99282437",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/8/8da0/8da00b4a-0001-4fab-b721-bc01514ecbc1.png"
+      },
+      {
+        "name": "chibiusa1",
+        "id": "99394822",
+        "genre": "Country Blues",
+        "logo": "http://i.radionomy.com/document/radios/5/54f3/54f37e81-9064-43d8-9e92-190df5f0ef31.png"
+      },
+      {
+        "name": "Radio Hayabusa",
+        "id": "570887",
+        "genre": "House",
+        "logo": "http://i.radionomy.com/documents/radio/56b60b1c-1a03-4000-8c2d-9599b7a59687.s165.gif"
+      },
+      {
+        "name": "Flusanix",
+        "id": "99229192",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/1/12be/12be2e77-9bea-441e-95f2-488f572dd484.jpg"
+      },
+      {
+        "name": "VinylNostalgiaUSA",
+        "id": "1750536",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/c063e70e-6b15-4eff-a073-1c6b100d2214.s165.jpg"
+      },
+      {
+        "name": "HitUSA-Radio",
+        "id": "99335432",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/a/a91a/a91a0f20-9698-4f02-9543-697eb16da3d8.jpg"
+      },
+      {
+        "name": "Lausana Music",
+        "id": "99399178",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/e/e8f5/e8f55650-d9ba-443b-b7b5-7d1a31f3b2da.jpg"
+      },
+      {
+        "name": "Guayusa Radio Corp. w87",
+        "id": "1561866",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/documents/radio/da61c05f-2ca7-439e-ba83-975f0e32517c.s165.jpg"
+      },
+      {
+        "name": "Sport Usa Station",
+        "id": "99373068",
+        "genre": "Sports",
+        "logo": "http://i.radionomy.com/document/radios/2/289a/289a8910-d80d-4e90-9516-c22b08695480.jpg"
+      },
+      {
+        "name": "Common Sense Radio USA",
+        "id": "99262476",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/b/b25c/b25c6fdc-c34a-4f3c-898e-80cc46eb9856.png"
+      },
+      {
+        "name": "USABMX",
+        "id": "99363341",
+        "genre": "Sports",
+        "logo": "http://i.radionomy.com/document/radios/1/1d43/1d437237-693a-4b79-82e6-f67dfbe53d9f.png"
+      },
+      {
+        "name": "TokusatsuFM",
+        "id": "1854735",
+        "genre": "Japanese",
+        "logo": "http://i.radionomy.com/documents/radio/fc8ac74e-74d8-4171-be7f-e02cbb497841.s165.png"
+      },
+      {
+        "name": "Club Dance USA",
+        "id": "307983",
+        "genre": "House",
+        "logo": "http://i.radionomy.com/documents/radio/e8301417-9722-43cf-b5d4-582e0293652e.s165.png"
+      },
+      {
+        "name": "JAPAN and USA",
+        "id": "99211535",
+        "genre": "Classical",
+        "logo": "http://i.radionomy.com/document/radios/5/5e87/5e879b83-0cf8-4520-b11d-bda031790e14.jpg"
+      },
+      {
+        "name": "usapuertoplataradio",
+        "id": "99349265",
+        "genre": "Latin Dance",
+        "logo": "http://i.radionomy.com/document/radios/c\\c1c5\\c1c59e7c-fda7-4090-bccc-25b1dbb19da8.png"
+      },
+      {
+        "name": "Radio Caribe Ragusa",
+        "id": "1115922",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/documents/radio/1886d1ef-1e9a-4aad-8871-ed22056413fe.s165.jpg"
+      },
+      {
+        "name": "moon usagui",
+        "id": "99379986",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/4/4c53/4c53c070-bc19-44a3-af69-d0be091727ac.jpg"
+      },
+      {
+        "name": "Nusantara FM",
+        "id": "99323411",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/8/8ac9/8ac909d7-837b-4b3d-a802-ac92c30fdc33.jpg"
+      },
+      {
+        "name": "JazzUSA Radio",
+        "id": "99429652",
+        "genre": "Jazz"
+      },
+      {
+        "name": "radio sousa",
+        "id": "99244309",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/e/e464/e464bf83-795f-40bd-b95d-cf6135f31fb6.jpg"
+      },
+      {
+        "name": "Life Talk Radio USA",
+        "id": "1157653",
+        "genre": "Other Talk",
+        "logo": "http://i.radionomy.com/document/radios/d1d199a3-611a-49bd-88fb-89dd561c1274.png"
+      },
+      {
+        "name": "X MusicLIVE USA",
+        "id": "1731351",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/29975385-7622-4732-8434-ea6030d0a1b9.s165.jpg"
+      },
+      {
+        "name": "Teusaradio Emisora",
+        "id": "635929",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/documents/radio/194bf278-0b55-4ad0-8230-21cfaf7d8f37.s165.png"
+      },
+      {
+        "name": "radio@mmocrusade.com",
+        "id": "99219227",
+        "genre": "Hardcore",
+        "logo": "http://i.radionomy.com/document/radios/5/5ae5/5ae53f0f-13cf-4641-be37-b23631491875.jpg"
+      },
+      {
+        "name": "Susara Fm",
+        "id": "99347486",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/4/4fc9/4fc9fb07-d9d5-4277-9c79-e6ca65e03493.png"
+      },
+      {
+        "name": "RadioTelenouvellejerusalem",
+        "id": "99362336",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/d/dabb/dabb9be9-0f7f-4181-bb4d-cdae76690424.jpg"
+      },
+      {
+        "name": "TantanakuyRadioUSA",
+        "id": "99214880",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/d/dbed/dbed9aef-b4f4-446d-a706-644539f65cce.png"
+      },
+      {
+        "name": "Hot Hits USA",
+        "id": "939297",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/341e47e9-fcc3-4b9d-a592-2faabb1a389e.s165.jpg"
+      },
+      {
+        "name": "BLACK TOWNS USA CALIFORNIA",
+        "id": "99402274",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/a/a985/a985dd78-0c7d-4a79-96c1-d75e59db0870.jpg"
+      },
+      {
+        "name": "eBox Radio USA",
+        "id": "99356963",
+        "genre": "Asian",
+        "logo": "http://i.radionomy.com/document/radios/c\\cb55\\cb5517de-a28d-40d1-91d8-836a7f785c5b.png"
+      },
+      {
+        "name": "Flusanix",
+        "id": "99352868",
+        "genre": "Breakbeat",
+        "logo": "http://i.radionomy.com/document/radios/e/ea25/ea25610f-16bd-4120-b531-45f7ceb8d324.jpg"
+      },
+      {
+        "name": "EDM City USA",
+        "id": "99210788",
+        "genre": "Dance",
+        "logo": "http://i.radionomy.com/document/radios/d/de65/de6512a3-b551-4774-8701-a731b84b85ee.png"
+      },
+      {
+        "name": "Susara Radio",
+        "id": "99238951",
+        "genre": "Classical",
+        "logo": "http://i.radionomy.com/document/radios/4/4cab/4cab47c9-f96a-4fb4-a6cd-6873733378df.jpg"
+      },
+      {
+        "name": "LA LLAJTA EN USA",
+        "id": "99377450",
+        "genre": "80s",
+        "logo": "http://i.radionomy.com/document/radios/b/b59e/b59e88e2-d6bb-4218-808f-1595c7f33c6b.jpg"
+      },
+      {
+        "name": "RADIO TUSA",
+        "id": "99320363",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/d/d003/d003daaa-7394-4f84-9770-36ef7048d677.jpg"
+      },
+      {
+        "name": "USA",
+        "id": "99340076",
+        "genre": "International",
+        "logo": "http://i.radionomy.com/document/radios/a/a149/a149d3f3-0d21-40d3-aeec-8a2216ae3edf.jpg"
+      },
+      {
+        "name": "Svetplusan",
+        "id": "99235630",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/f\\f57c\\f57c0be2-251c-40e3-a785-f5062e01c4b0.jpg"
+      },
+      {
+        "name": "DARK RADIO USA",
+        "id": "99368750",
+        "genre": "Heavy Metal",
+        "logo": "http://i.radionomy.com/document/radios/2/23b0/23b03729-8eac-4e8c-ab6d-e9040e09ace0.jpg"
+      },
+      {
+        "name": "Rousa",
+        "id": "99246382",
+        "genre": "Delta Blues",
+        "logo": "http://i.radionomy.com/document/radios/d/d289/d2899f8b-c122-45e2-a0f4-6d06327ea77a.jpg"
+      },
+      {
+        "name": "Sports Talk Radio USA",
+        "id": "1129776",
+        "genre": "Other Talk",
+        "logo": "http://i.radionomy.com/document/radios/bae3056b-994b-46cc-8855-eb978fef3bb2.png"
+      },
+      {
+        "name": "TUSA",
+        "id": "99320369",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/7/7ffc/7ffc7f5a-477d-476d-9ee2-5692bcb8dcdb.jpg"
+      },
+      {
+        "name": "Antena Lusa Kizomba",
+        "id": "569138",
+        "genre": "Reggaeton",
+        "logo": "http://i.radionomy.com/documents/radio/6af5191f-4788-4c64-8061-00dbed0170c1.s165.jpg"
+      },
+      {
+        "name": "cusatlive",
+        "id": "99360308",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/2/229c/229c92bc-85fd-4de8-b2ee-d9d5f9af414a.jpg"
+      },
+      {
+        "name": "Party VIbe Radio USA",
+        "id": "99429172",
+        "genre": "80s"
+      },
+      {
+        "name": "Hot Sausage",
+        "id": "99315764",
+        "genre": "Rap",
+        "logo": "http://i.radionomy.com/document/radios/2/2432/24325454-e40e-4ada-a5a1-ede4924b2409.gif"
+      },
+      {
+        "name": "2nd Lykeio Naousa 2016-17",
+        "id": "99270710",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/9/9ef0/9ef02e8b-3bfd-47f2-ad32-c968ed68505e.jpg"
+      },
+      {
+        "name": "Sabrosura USA",
+        "id": "99219254",
+        "genre": "Salsa",
+        "logo": "http://i.radionomy.com/document/radios/9\\998a\\998a5d71-d788-4db3-a924-e1e3a2d88364.png"
+      },
+      {
+        "name": "http://www.radiosousa channel.com",
+        "id": "99376184",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/8/847e/847ed98e-e497-4f05-9cdc-184a9b463596.jpg"
+      },
+      {
+        "name": "fusarshinlay",
+        "id": "99211064",
+        "genre": "Country Blues",
+        "logo": "http://i.radionomy.com/document/radios/c/c24b/c24b0b7c-0a2f-4c42-b103-53b9d4650f1e.jpg"
+      },
+      {
+        "name": "Abusados.com",
+        "id": "99393337",
+        "genre": "Garage",
+        "logo": "http://i.radionomy.com/document/radios/7/7fcf/7fcf7772-06c4-4fbc-b8d2-72828c0784c6.jpg"
+      },
+      {
+        "name": "Nova Jerusalém.web",
+        "id": "99308346",
+        "genre": "Chill",
+        "logo": "http://i.radionomy.com/document/radios/3/34e4/34e4f8e4-8f23-4827-822c-28cbfda5d0ce.jpg"
+      },
+      {
+        "name": "PARTY VIBE USA",
+        "id": "1860412",
+        "genre": "Dance",
+        "logo": "http://i.radionomy.com/documents/radio/46a133f2-74b3-4df0-bb49-a61216a202c9.s165.png"
+      },
+      {
+        "name": "WDRW 107.9FM Athens Georgia  USA ",
+        "id": "99254590",
+        "genre": "Talk",
+        "logo": "https://i.radionomy.com/document/radios/8/8016/8016d966-3395-4137-841d-b752d2be8ec7.png"
+      },
+      {
+        "name": "Jalsa USA 2018",
+        "id": "99391810",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/4/4b7d/4b7d9374-1986-42cf-9f85-43494e66c703.jpg"
+      },
+      {
+        "name": "puertoplataradiousa",
+        "id": "99349826",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/c/cace/caceba68-47c1-4391-b605-33c843bb6b46.png"
+      },
+      {
+        "name": "usakozlemfm",
+        "id": "99327812",
+        "genre": "Country",
+        "logo": "http://i.radionomy.com/document/radios/0/00fe/00feb261-d088-4ab9-a193-d8841e6833ce.png"
+      },
+      {
+        "name": "GloriaAlMetalUSA",
+        "id": "963652",
+        "genre": "Heavy Metal",
+        "logo": "http://i.radionomy.com/documents/radio/254bfa27-7485-434c-8032-701070657325.s165.jpg"
+      },
+      {
+        "name": "USAEBN-DB",
+        "id": "99251014",
+        "genre": "Vocal Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/24eb/24ebb241-0289-4d7b-83a4-a56d2a8ad6e5.jpg"
+      },
+      {
+        "name": "LA RADIO DES USAGERS",
+        "id": "1562695",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/d2f8ada5-4cb4-43e0-9101-af1b293ab047.s165.png"
+      },
+      {
+        "name": "http://www.radio@sousa channel.com",
+        "id": "99376456",
+        "genre": "African",
+        "logo": "http://i.radionomy.com/document/radios/9/9678/9678c667-6e59-4609-ae7b-229509023c50.jpg"
+      },
+      {
+        "name": "Soft Rock USA",
+        "id": "279625",
+        "genre": "Rock",
+        "logo": "http://i.radionomy.com/documents/radio/2/27fd/27fd3cdc-9109-4271-a335-0148e6429208.s125.jpg"
+      },
+      {
+        "name": "usa top40",
+        "id": "1853769",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/dcda6c7e-8100-4283-88ae-c84bb421d042.s165.jpg"
+      },
+      {
+        "name": "USAMGRADIO",
+        "id": "99241033",
+        "genre": "Hip Hop",
+        "logo": "http://i.radionomy.com/document/radios/9/948a/948a4ebc-52a8-43aa-8ea4-d20290da89b1.png"
+      },
+      {
+        "name": "VividUSA",
+        "id": "99316553",
+        "genre": "International",
+        "logo": "http://i.radionomy.com/document/radios/9/9498/9498e9dc-efdc-42fe-a29f-1d2cbbb639cd.jpg"
+      },
+      {
+        "name": "BLACK TOWN USA VIRGINIA",
+        "id": "99375692",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/9/976b/976b329b-8776-44b4-abcd-9192447cb1f3.jpg"
+      },
+      {
+        "name": "FM Nusantara",
+        "id": "99340877",
+        "genre": "Arabic",
+        "logo": "http://i.radionomy.com/document/radios/4/41af/41af09ca-8dfa-42e7-bd4f-c9843614730b.jpg"
+      },
+      {
+        "name": "BLACK TOWNS USA",
+        "id": "99364430",
+        "genre": "Educational",
+        "logo": "http://i.radionomy.com/document/radios/f/fbe0/fbe03cba-67f9-45ff-b379-a557f3061d46.jpg"
+      },
+      {
+        "name": "Clacolusa Avivada",
+        "id": "1425744",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/documents/radio/db24ef3d-467b-4ccf-a409-742bfb075a34.s165.jpg"
+      },
+      {
+        "name": "Dj Dusan",
+        "id": "99375698",
+        "genre": "Hardcore",
+        "logo": "http://i.radionomy.com/document/radios/a/ae10/ae107204-aaf2-41e5-8f07-701365a98e6c.jpg"
+      },
+      {
+        "name": "fusarshinlay",
+        "id": "99396946",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/3/3a7e/3a7ee762-1996-4332-a1a6-6b2e4c2b0ac4.png"
+      },
+      {
+        "name": "ZXM Radio USA",
+        "id": "99263571",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/5/55ab/55abed3e-cf19-44fe-9a3b-f0b02980b4a5.png"
+      },
+      {
+        "name": "Lite Hits USA",
+        "id": "422230",
+        "genre": "Soft Rock",
+        "logo": "http://i.radionomy.com/documents/radio/97c3f9ef-106a-4e80-bf97-fb2aba58f38c.s165.jpg"
+      },
+      {
+        "name": "Radio Palabra Viva-USA",
+        "id": "99234391",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/8/8b54/8b5413fa-84b3-4039-98a8-43a939558188.png"
+      },
+      {
+        "name": "Jalsa USA",
+        "id": "99310167",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/b/b576/b576033f-8e8a-4b62-824f-63afe4f59940.jpg"
+      },
+      {
+        "name": "Radio Sausalito (mobile listening)",
+        "id": "631385",
+        "genre": "Bop",
+        "logo": "http://i.radionomy.com/documents/radio/13566bdac4e54884adcd0e417d979c51_635307641778158294.s165.jpg"
+      },
+      {
+        "name": "Lajnausajalsa2018",
+        "id": "99399001",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/4/48ce/48cea9f2-2dea-4cb6-a505-c9bc71fe8fdb.jpg"
+      },
+      {
+        "name": "CountryRadioUSA.com",
+        "id": "99183963",
+        "genre": "Classic Country",
+        "logo": "http://i.radionomy.com/documents/radio/96ef66b071d642088d8e576d7132d1cb_634942225601625801.s125.jpg"
+      },
+      {
+        "name": "radio ankori jarusalem",
+        "id": "99270492",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/1/1f65/1f652717-a72a-415b-88c9-96eec5fec88d.png"
+      },
+      {
+        "name": "Muusa Radio",
+        "id": "99336029",
+        "genre": "Electronic",
+        "logo": "http://i.radionomy.com/document/radios/8/8386/83869533-a638-4e8f-a2f1-887c9669a878.png"
+      },
+      {
+        "name": "FINE-RADIO-USA",
+        "id": "99286109",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/b/b15a/b15a34a4-df54-4eca-9cd7-e78cf5660e61.jpg"
+      },
+      {
+        "name": "FreeRockRadio USA",
+        "id": "1704288",
+        "genre": "Rock",
+        "logo": "http://i.radionomy.com/documents/radio/35677f56-07f3-4036-921a-8dcfaf2087d2.s165.jpg"
+      },
+      {
+        "name": "Radio EUSA Sevilla",
+        "id": "1052256",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/documents/radio/53f9b89d-cc98-42e3-943e-33b1340ab8ef.s165.jpg"
+      },
+      {
+        "name": "Heart Radio USA Praise & Worship",
+        "id": "757090",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/documents/radio/6bdfa9d6-c7ea-4de8-aa6e-62a6d5b6cec0.s165.jpg"
+      },
+      {
+        "name": "smanusaFm",
+        "id": "99259492",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/8/870d/870d9b5c-f047-416c-a93e-7fbf15ce42e8.jpg"
+      },
+      {
+        "name": "WZIG FM Palm Harbor FL USA",
+        "id": "99314791",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/6/6f9a/6f9a705c-eb09-4d0d-b81c-ade21460bd69.jpg"
+      },
+      {
+        "name": "Teusaradio EC",
+        "id": "99278183",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/a/ada3/ada32859-a291-4b06-83f1-0f82dd6cff6c.jpg"
+      },
+      {
+        "name": "Lite Jams USA",
+        "id": "99258217",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/9/9fa1/9fa1ca45-977d-4f9a-9ae9-a94181bc360a.jpg"
+      },
+      {
+        "name": "Radio La Musa",
+        "id": "99268713",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/1/1923/192311a1-1e7e-42a8-bada-bf095c59513a.jpg"
+      },
+      {
+        "name": "HITS USA",
+        "id": "1635177",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/e3c058a3-6e9f-484c-97c2-60546230a2e0.s165.jpg"
+      },
+      {
+        "name": "Teusaradio EC",
+        "id": "99278186",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/a/ada3/ada32859-a291-4b06-83f1-0f82dd6cff6c.jpg"
+      },
+      {
+        "name": "Edaville USA",
+        "id": "99251563",
+        "genre": "Seasonal and Holiday",
+        "logo": "http://i.radionomy.com/document/radios/a/aac2/aac2b111-13ea-40f7-b0c0-252cfbfa40aa.png"
+      },
+      {
+        "name": "M21 Radio USA",
+        "id": "1032302",
+        "genre": "Rock",
+        "logo": "http://i.radionomy.com/documents/radio/564f158b-84c7-4cc9-b68d-8344c1c6dac2.s165.png"
+      },
+      {
+        "name": "radiosousacom.radio12345.com",
+        "id": "99249265",
+        "genre": "Christian Rock",
+        "logo": "http://i.radionomy.com/document/radios/1/18b5/18b5c1be-13ce-424c-9739-117586be8ea3.jpg"
+      },
+      {
+        "name": "Radio Sausalito",
+        "id": "863859",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/documents/radio/6bfe94d2c87b4ef9a3bc164a4ccb3136_635071888925213159.s165.jpg"
+      },
+      {
+        "name": "Radio Jerusal?n",
+        "id": "1150324",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/documents/radio/9af50696-581e-43bc-bfcf-d4f7db7e1253.s165.gif"
+      },
+      {
+        "name": "Jerusalem 102.7",
+        "id": "99398260",
+        "genre": "Gospel",
+        "logo": "http://i.radionomy.com/document/radios/0/0ef9/0ef95714-aa33-486d-ba73-a3a43d03b062.jpg"
+      },
+      {
+        "name": "Lousa Radio",
+        "id": "1506420",
+        "genre": "Folk",
+        "logo": "http://i.radionomy.com/documents/radio/7dfbc129-c29a-40fd-8fed-f0177cabd889.s165.png"
+      },
+      {
+        "name": "USA-TOP40",
+        "id": "1448571",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/82100eca-0d91-4f23-88b9-9a93e2e2f2d1.s165.png"
+      },
+      {
+        "name": "Sunny Radio USA",
+        "id": "99265659",
+        "genre": "Romantic",
+        "logo": "http://i.radionomy.com/document/radios/6/62a5/62a58270-c5a2-4808-89b4-025d92b8991b.png"
+      },
+      {
+        "name": "Miyurusara",
+        "id": "99275387",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/0/0f12/0f12c3a4-6642-4563-ba9e-f508d72faf36.jpg"
+      },
+      {
+        "name": "Tokusatsu Radio 5.0",
+        "id": "1582461",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/e5e4a372-d1a9-48d6-8ccc-3d768cb6d60b.s165.png"
+      },
+      {
+        "name": "radiojerusalemretrans",
+        "id": "99337085",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/e/e9a8/e9a89ae5-17c3-442b-ba69-09a2e89e2416.png"
+      },
+      {
+        "name": "Rock Radio USA",
+        "id": "447102",
+        "genre": "Classic Rock",
+        "logo": "http://i.radionomy.com/documents/radio/fbf4506a-3f6c-4cb1-9007-c90942822d64.s165.png"
+      },
+      {
+        "name": "Miyurusara",
+        "id": "99275390",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/0/0f12/0f12c3a4-6642-4563-ba9e-f508d72faf36.jpg"
+      },
+      {
+        "name": "70's USA",
+        "id": "1751681",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/7a81edd9-bd14-43ab-9748-abef6759641c.s165.png"
+      },
+      {
+        "name": "USA 1-ROCK",
+        "id": "612227",
+        "genre": "Classic Rock",
+        "logo": "http://i.radionomy.com/documents/radio/63995479-65fd-4c4a-8f26-d8569b4218b6.s165.jpg"
+      },
+      {
+        "name": "Jalsa Salana USA 2017",
+        "id": "99310212",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/7/7902/7902bcbe-c34f-4e47-96b3-07541def0f6b.png"
+      },
+      {
+        "name": "Galaxia Boston USA",
+        "id": "99396997",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/7\\7610\\7610e8d8-4551-481c-ba3d-fd28baab2c2a.jpg"
+      },
+      {
+        "name": "USA Sunny Florida Radio",
+        "id": "99296646",
+        "genre": "Romantic",
+        "logo": "http://i.radionomy.com/document/radios/9/9f0a/9f0a66bd-46c9-4fbc-9380-b829fcfa3407.jpg"
+      },
+      {
+        "name": "GANGUSA",
+        "id": "99251590",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/d/db73/db73d461-0cfb-4013-8b31-51b658b6355c.png"
+      },
+      {
+        "name": "KarleusaRadio",
+        "id": "1347974",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/5fa78fcc-2a0c-4865-a7f2-23c27ccac9f3.s165.jpg"
+      },
+      {
+        "name": "TexianRadioUSA",
+        "id": "99321224",
+        "genre": "Metal",
+        "logo": "http://i.radionomy.com/document/radios/c/c7a6/c7a6a1ac-d8ed-4328-87ea-d889c3a0f0fe.jpg"
+      },
+      {
+        "name": "Sunny Florida Radio USA",
+        "id": "99296649",
+        "genre": "Country",
+        "logo": "http://i.radionomy.com/document/radios/1/1677/16778f5e-3702-4fc4-8232-be39f9179e33.jpg"
+      },
+      {
+        "name": "Galaxia USA",
+        "id": "99397003",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/5/5b67/5b6799b2-cbc3-4516-9eb8-f7b208f5e5c5.jpg"
+      },
+      {
+        "name": "Libertas Ragusa",
+        "id": "99310476",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/3/3068/3068502f-87b6-4d6b-9de8-ad35e18988fc.png"
+      },
+      {
+        "name": "Heart Radio USA Main",
+        "id": "738189",
+        "genre": "Christian Rock",
+        "logo": "http://i.radionomy.com/documents/radio/a145df94-d484-498a-bbcd-3d6a326abbac.s165.jpg"
+      },
+      {
+        "name": "ARMONIA-USA",
+        "id": "542605",
+        "genre": "Chill",
+        "logo": "http://i.radionomy.com/documents/radio/811bd7ac-5393-49f8-9217-820ee5d8d2cb.s165.png"
+      },
+      {
+        "name": "Bollywood N Bhangra USA",
+        "id": "633229",
+        "genre": "Worldbeat",
+        "logo": "http://i.radionomy.com/documents/radio/201206300150046931.s125.jpg"
+      },
+      {
+        "name": "Albanian Radio of USA - Popullore",
+        "id": "99266448",
+        "genre": "International",
+        "logo": "http://i.radionomy.com/document/radios/b/b6b8/b6b893d1-3b4b-4b89-975e-30979814b7bb.png"
+      },
+      {
+        "name": "Nueva Jerusalen",
+        "id": "99403153",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/f/fda0/fda07276-54fb-4a3e-9d21-60293d04bdde.jpg"
+      },
+      {
+        "name": "Heart Radio USA Christmas",
+        "id": "614802",
+        "genre": "Christian",
+        "logo": "http://i.radionomy.com/documents/radio/d71e4a25-c76b-4730-84e3-807b0dd0d51c.s165.jpg"
+      },
+      {
+        "name": "Daily Mix USA",
+        "id": "99338387",
+        "genre": "Country",
+        "logo": "http://i.radionomy.com/document/radios/3/3dff/3dffe356-f705-49da-8f59-7960c3817d1c.jpg"
+      },
+      {
+        "name": "Nostalgia USA",
+        "id": "99288980",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/c/c1fc/c1fc0903-84e6-4b6e-aa9b-d8630095f4a4.png"
+      },
+      {
+        "name": "Kenianusavibe",
+        "id": "99307416",
+        "genre": "Reggae",
+        "logo": "http://i.radionomy.com/document/radios/3/3016/30169823-6116-48bf-a442-7c88192c8b53.jpg"
+      },
+      {
+        "name": "HusaRadio.com",
+        "id": "99352730",
+        "genre": "Reggaeton",
+        "logo": "http://i.radionomy.com/document/radios/6/646a/646a42ed-dd78-44c5-82f5-fc050463a97f.jpg"
+      },
+      {
+        "name": "Heart Radio USA Hip Hop",
+        "id": "905627",
+        "genre": "Hip Hop",
+        "logo": "http://i.radionomy.com/documents/radio/75244016-7804-45e7-b792-409307a76dd3.s165.jpg"
+      },
+      {
+        "name": "Radio Sausalito Backup Stream",
+        "id": "349596",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7efa/7efa0bd4-a979-4b84-aa90-e2b4263f9375.jpg"
+      },
+      {
+        "name": "50's Radio USA",
+        "id": "1840541",
+        "genre": "Rock & Roll",
+        "logo": "http://i.radionomy.com/documents/radio/8c98233b-0621-42e1-b3d0-8590c0571c6e.s165.jpg"
+      },
+      {
+        "name": "Lang Buana Citarasa Nusantara",
+        "id": "99376030",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/document/radios/2/26e6/26e63360-e400-4e87-8049-017e6ed4f6a4.jpg"
+      },
+      {
+        "name": "beatkusagi",
+        "id": "99313057",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/3/3b24/3b2428e4-838c-44b4-9ec0-fdb2639bf862.jpg"
+      },
+      {
+        "name": "Money Talk Radio USA",
+        "id": "1140898",
+        "genre": "Other Talk",
+        "logo": "http://i.radionomy.com/document/radios/bda1b272-7662-4d58-943b-1833b666a3bf.png"
+      },
+      {
+        "name": "YosiRadiousa",
+        "id": "99330467",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/d/d6a2/d6a280e0-5e2e-4f9e-ba67-2bcd22657e1c.jpg"
+      },
+      {
+        "name": "Cupido Stereo USA",
+        "id": "99402403",
+        "genre": "Latin",
+        "logo": "http://i.radionomy.com/document/radios/6/602b/602bce52-a7b0-45bc-8570-7eead0979f00.jpg"
+      },
+      {
+        "name": "CMC USA",
+        "id": "99325349",
+        "genre": "Country",
+        "logo": "http://i.radionomy.com/document/radios/9/9bce/9bce7b53-ddf1-4919-b5c1-03540fd61199.jpg"
+      },
+      {
+        "name": "Latino Hits USA",
+        "id": "99226024",
+        "genre": "Latin Pop",
+        "logo": "http://i.radionomy.com/document/radios/a/a185/a1853c4c-16a9-4154-b2f1-5a0badda7b89.jpg"
+      },
+      {
+        "name": "RADIO NUSANTARA PAMEKASAN",
+        "id": "99300264",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/e/e9be/e9be4d96-ee00-408d-a486-5ed4d879c08d.jpg"
+      },
+      {
+        "name": "Emission APR/DSE/USA",
+        "id": "99396268",
+        "genre": "Delta Blues",
+        "logo": "http://i.radionomy.com/document/radios/2/21d6/21d6d89f-5068-45dd-af84-b4e05c3ce3bd.jpg"
+      },
+      {
+        "name": "Mosichii-USA-World Streaming Talk-Music Radio",
+        "id": "99255469",
+        "genre": "Freestyle",
+        "logo": "http://i.radionomy.com/document/radios/9/977d/977d9683-84ba-4faf-8a24-a208025e4254.jpg"
+      },
+      {
+        "name": "BLACK TOWNS USA UTAH",
+        "id": "99370158",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/2/21d8/21d84fcf-d8fb-4512-b338-d9e4ba8e711f.jpg"
+      },
+      {
+        "name": "UlusalFM",
+        "id": "99378862",
+        "genre": "International",
+        "logo": "http://i.radionomy.com/document/radios/4/4696/4696dca3-8b01-4b2a-a47e-4d8943577989.png"
+      },
+      {
+        "name": "Radio Online Fusagasuga",
+        "id": "99261870",
+        "genre": "Urban Contemporary",
+        "logo": "http://i.radionomy.com/document/radios/d/df5f/df5f22af-d50a-4017-91bb-1b65610fd465.png"
+      },
+      {
+        "name": "Radio Desi USA",
+        "id": "99344558",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/a/aa11/aa11d83a-73da-41a8-8658-4d1dbb85c582.png"
+      },
+      {
+        "name": "Cannabis Radio Usa.com",
+        "id": "99382960",
+        "genre": "Talk",
+        "logo": "http://i.radionomy.com/document/radios/5/5a52/5a525d36-8049-485c-9ac3-067f7cf593d5.png"
+      },
+      {
+        "name": "glikogalousa",
+        "id": "99353009",
+        "genre": "Praise and Worship",
+        "logo": "http://i.radionomy.com/document/radios/5/5c81/5c811b96-05e6-4826-b1e0-e3bcb8f7b385.jpg"
+      },
+      {
+        "name": "Radio Nusantara Fm",
+        "id": "99349937",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/0/033f/033fa29a-305d-4ce4-b6ba-827c1d97a544.jpg"
+      },
+      {
+        "name": "deathbyathousandcuts",
+        "id": "99387826",
+        "genre": "Experimental",
+        "logo": "http://i.radionomy.com/document/radios/e/ed72/ed720ddf-4d8b-436b-8c86-bbadfab87337.jpg"
+      },
+      {
+        "name": "Life Talk Radio USA",
+        "id": "99211955",
+        "genre": "Other Talk",
+        "logo": "http://i.radionomy.com/document/radios/d1d199a3-611a-49bd-88fb-89dd561c1274.png"
+      },
+      {
+        "name": "BG-Voice USA",
+        "id": "99368117",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/1/112b/112bbadf-b42f-4715-b031-44d7ede9d6ce.jpg"
+      },
+      {
+        "name": "60sUSA",
+        "id": "1773494",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/e7e942ca-212d-4a28-94da-52b027ce2225.s165.png"
+      },
+      {
+        "name": "Radio Susanne",
+        "id": "99366071",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/4/4603/4603354f-d872-4212-9154-66dcf28c6e9c.jpg"
+      },
+      {
+        "name": "5 Thousand",
+        "id": "1383608",
+        "genre": "Christian",
+        "logo": "http://i.radionomy.com/documents/radio/215e0c8e-f633-4809-9e7c-62655afe4081.s165.jpg"
+      },
+      {
+        "name": "almusalaha.com",
+        "id": "99381176",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/0/078e/078e069d-8b62-4317-bf9f-13d98e95f61f.png"
+      },
+      {
+        "name": "100% USA",
+        "id": "874427",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/a18e4eec-78b1-471c-a89f-44a91a731699.s165.png"
+      },
+      {
+        "name": "BARRIOUSA",
+        "id": "99209915",
+        "genre": "Salsa",
+        "logo": "http://i.radionomy.com/document/radios/2/2da0/2da0ebe5-8276-4c5b-a57b-8807d03f8c1d.gif"
+      },
+      {
+        "name": "PopHits East Coast USA",
+        "id": "99378364",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/c/cbec/cbec309b-5a33-4a33-b8ca-b98f832360fb.png"
+      },
+      {
+        "name": "Political Talk Radio USA",
+        "id": "99212732",
+        "genre": "News",
+        "logo": "http://i.radionomy.com/document/radios/dd05bca3-a674-42ad-8656-cf2685f8e653.png"
+      },
+      {
+        "name": "nouvellejerusalem",
+        "id": "99400894",
+        "genre": "Easy Listening",
+        "logo": "http://i.radionomy.com/document/radios/2/24cc/24cc4c06-97d3-4f90-8348-288b7018688d.jpg"
+      },
+      {
+        "name": "USA.Static",
+        "id": "1704383",
+        "genre": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/6aae4b22-d0a1-48a1-bdda-5c928d54e317.s165.jpg"
+      },
+      {
+        "name": "Mosichii-USA-World Streaming Talk-Music Radio",
+        "id": "99247039",
+        "genre": "Freestyle",
+        "logo": "http://i.radionomy.com/document/radios/9/977d/977d9683-84ba-4faf-8a24-a208025e4254.jpg"
+      },
+      {
+        "name": "Nashville City USA",
+        "id": "1225407",
+        "genre": "Country",
+        "logo": "http://i.radionomy.com/documents/radio/272a13ef-15e5-4bae-baaf-819bcaa4425a.s165.jpg"
+      },
+      {
+        "name": "ArquiUSAT",
+        "id": "99232960",
+        "genre": "Rock",
+        "logo": "http://i.radionomy.com/document/radios/b/b370/b3703650-75d6-4c92-b91c-ac118255c29b.jpg"
+      },
+      {
+        "name": "Test_MTA_USA",
+        "id": "99305667",
+        "genre": "Spiritual",
+        "logo": "http://i.radionomy.com/document/radios/4/41a8/41a8f2a4-199b-4c90-913d-197a85ef43f8.jpg"
+      },
+      {
+        "name": "RadioScusaSeppuku",
+        "id": "481477",
+        "genre": "Soft Rock",
+        "logo": "http://i.radionomy.com/documents/radio/0490466f-02e4-43da-a6c4-709cd425dffd.s165.jpg"
+      },
+      {
+        "name": "WNEE 88.1FM Athens Georgia USA",
+        "id": "763846",
+        "genre": "Christian",
+        "logo": "http://i.radionomy.com/document/radios/3/30ba/30ba84a4-e9d6-4322-965d-17df04d85e50.jpg"
+      },
+      {
+        "name": "STIJLVOL RADIO USA",
+        "id": "1523912",
+        "genre": "Dance",
+        "logo": "http://i.radionomy.com/documents/radio/2b443196-6e6b-479b-867d-ac507c8af5dc.s165.png"
+      },
+      {
+        "name": "Stikes Mitra Husada",
+        "id": "99331784",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/7/7c7e/7c7ead94-557b-47cc-b527-9cfba5df8ed0.jpg"
+      },
+      {
+        "name": "Calentanos usa",
+        "id": "873418",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/documents/radio/0881dd38-2f89-4145-a7e7-7bbe2858a5fd.s165.jpg"
+      },
+      {
+        "name": "Radio Brusa",
+        "id": "99385546",
+        "genre": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/b/b1ec/b1ec21f6-3427-46c6-abae-3feae5335cac.png"
+      },
+      {
+        "name": "Lite Rock USA",
+        "id": "792779",
+        "genre": "Rock",
+        "logo": "http://i.radionomy.com/document/radios/"
+      },
+      {
+        "name": "RadioSusanne11",
+        "id": "99366092",
+        "genre": "Blues",
+        "logo": "http://i.radionomy.com/document/radios/f/fb88/fb887418-b2bc-4aef-95bd-4b768fa4755e.jpg"
+      },
+      {
+        "name": "Radio Unusa Aswaja",
+        "id": "99322316",
+        "genre": "Acoustic Blues",
+        "logo": "http://i.radionomy.com/document/radios/9/9af4/9af46630-a89a-42e9-9b78-af2a48d1b732.jpg"
+      }
+    ]
+  }
+}

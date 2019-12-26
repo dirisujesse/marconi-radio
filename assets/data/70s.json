@@ -1,0 +1,1167 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "ORF Radio Vorarlberg",
+        "id": "1675891",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b475/b4758f7f-5313-4b39-98fd-e83defe9379a.png"
+      },
+      {
+        "name": "San Francisco's 70s Hits",
+        "id": "1821172",
+        "genre": "70s"
+      },
+      {
+        "name": ".113FM Retro!",
+        "id": "1690813",
+        "genre": "70s"
+      },
+      {
+        "name": "1.FM - Absolute 70's Pop (www.1.fm)",
+        "id": "1729607",
+        "genre": "70s",
+        "logo": "https://i3.radionomy.com/radios/200/7/77e2/77e29143-aaad-4e25-8c25-e33896ba925a.jpg"
+      },
+      {
+        "name": "Harmony Radio [Belgium]",
+        "id": "1563451",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/7959/7959f054-11d1-4d45-827c-e1d2c5214b50.jpg"
+      },
+      {
+        "name": "Radio Studio Souto - Discoteca 70s",
+        "id": "1606180",
+        "genre": "70s"
+      },
+      {
+        "name": "Radio Studio Souto - Studio Do Amor",
+        "id": "1586337",
+        "genre": "70s"
+      },
+      {
+        "name": "Radio Studio Souto - Brega Hits",
+        "id": "1374760",
+        "genre": "70s"
+      },
+      {
+        "name": "Retro Hits",
+        "id": "1096629",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/c/c841/c84130f5-2ce6-4863-bebb-29b093a14c3a.png"
+      },
+      {
+        "name": "70s 80s All Time Greatest",
+        "id": "99414691",
+        "genre": "70s"
+      },
+      {
+        "name": "Radio 70s Persian (GLWiZ) Persian Farsi Iranian",
+        "id": "195661",
+        "genre": "70s"
+      },
+      {
+        "name": "1.FM - Disco Ball 70's-80's (www.1.fm)",
+        "id": "1751095",
+        "genre": "70s",
+        "logo": "https://i3.radionomy.com/radios/200/b/be71/be712e98-c5be-4a96-b468-16d4e1dd3cd9.jpg"
+      },
+      {
+        "name": "V V Radio National",
+        "id": "1825783",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/e/e982/e982aa1d-485a-458c-a03d-82074cfd445a.png"
+      },
+      {
+        "name": "Radio 70s Euro (GLWiZ)",
+        "id": "125992",
+        "genre": "70s"
+      },
+      {
+        "name": "Dj Shaggy Vzla",
+        "id": "1869922",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/89ab/89abe8b9-f14a-4cc7-85d3-4cb0881439a6.jpg"
+      },
+      {
+        "name": "Classic Hits 109 - The Amazing 80s",
+        "id": "1723933",
+        "genre": "70s",
+        "logo": "https://i3.radionomy.com/radios/200/3/33ca/33ca35a4-ebff-48e7-99fc-a6f381278cca.png"
+      },
+      {
+        "name": "A-Z 70s",
+        "id": "99415204",
+        "genre": "70s"
+      },
+      {
+        "name": ".113FM Hits 1970",
+        "id": "1687515",
+        "genre": "70s"
+      },
+      {
+        "name": "All Oldies 247",
+        "id": "1704305",
+        "genre": "70s"
+      },
+      {
+        "name": "Classic Hits 109 - The 70s",
+        "id": "1615701",
+        "genre": "70s",
+        "logo": "https://i3.radionomy.com/radios/200/8/88b4/88b41c51-aba7-4035-b28f-e75c13599444.png"
+      },
+      {
+        "name": "CURRAMBERA STEREO",
+        "id": "1803920",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/a/a830/a830ff1f-18a2-430d-a084-83ed6edbbaa3.jpg"
+      },
+      {
+        "name": "RADIO MI PIACI",
+        "id": "1643557",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/e/e971/e971bc40-2c37-4420-8f31-c846a87533ab.png"
+      },
+      {
+        "name": "GrooveTunes - 70s Radio",
+        "id": "1718863",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/6/6746/67461f32-2cd2-405d-85be-09355eb4739e.jpg"
+      },
+      {
+        "name": "Dave FM NZ",
+        "id": "1819323",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/fd93/fd9334d8-9b92-4d31-bd65-2023d26c8760.jpg"
+      },
+      {
+        "name": "Popradio Ostfriesland",
+        "id": "1722629",
+        "genre": "70s"
+      },
+      {
+        "name": "CALM RADIO - BEST OF THE 70'S - Sampler",
+        "id": "1114425",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/fc3e/fc3ecab2-94ce-4cb9-bcaf-41c44b808a5c.jpg"
+      },
+      {
+        "name": "RBI Radio",
+        "id": "1796288",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/f9db/f9dbb860-8994-408d-b09c-791b5e3fda7b.jpg"
+      },
+      {
+        "name": "CALM RADIO - DISCO - Sampler",
+        "id": "1097438",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/7990/799071a7-2cf2-43ec-b42f-90eff4b3976d.jpg"
+      },
+      {
+        "name": "Harmony Radio [Belgium] AAC+",
+        "id": "1546553",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/476f/476fb930-564e-43ed-a3fe-b42aa5339015.jpg"
+      },
+      {
+        "name": "24-7 Best Of The 70's",
+        "id": "1704455",
+        "genre": "70s"
+      },
+      {
+        "name": ".113FM Hits 1973",
+        "id": "1582398",
+        "genre": "70s"
+      },
+      {
+        "name": ".113FM Hits 1971",
+        "id": "1673717",
+        "genre": "70s"
+      },
+      {
+        "name": ".113FM Hits 1972",
+        "id": "1704073",
+        "genre": "70s"
+      },
+      {
+        "name": ".113FM Hits 1974",
+        "id": "1585558",
+        "genre": "70s"
+      },
+      {
+        "name": "Glowstick 70's",
+        "id": "513691",
+        "genre": "70s"
+      },
+      {
+        "name": ".113FM Hits 1979",
+        "id": "1787612",
+        "genre": "70s"
+      },
+      {
+        "name": ".113FM Hits 1978",
+        "id": "1472540",
+        "genre": "70s"
+      },
+      {
+        "name": "Metal Rock 1970 - 2005",
+        "id": "99407053",
+        "genre": "70s"
+      },
+      {
+        "name": "A_A 70s",
+        "id": "1456097",
+        "genre": "70s"
+      },
+      {
+        "name": "Stjepkovica Muzicki Radio",
+        "id": "99466469",
+        "genre": "70s"
+      },
+      {
+        "name": "V V Radio National HD",
+        "id": "1875355",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b695/b695645c-b8fc-4c80-a9c0-e8bc3f526b75.png"
+      },
+      {
+        "name": ".113FM Hits 1977",
+        "id": "1689422",
+        "genre": "70s"
+      },
+      {
+        "name": "All 70s Radio",
+        "id": "99462755",
+        "genre": "70s"
+      },
+      {
+        "name": "webradiowilhelmshaven",
+        "id": "1424314",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/8a39/8a39da52-6f90-43ee-a7a9-f4f563ad139d.png"
+      },
+      {
+        "name": ".113FM Hits 1975",
+        "id": "1640899",
+        "genre": "70s"
+      },
+      {
+        "name": "Flex-Radio",
+        "id": "1757127",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/444b/444b3a09-3d97-40fb-9546-041847dc8281.jpg"
+      },
+      {
+        "name": "70sRadio (MRG.fm)",
+        "id": "1692147",
+        "genre": "70s",
+        "logo": "https://i3.radionomy.com/radios/200/7/76e7/76e77974-d2a0-48bd-8264-e1e2e4df2b5d.jpg"
+      },
+      {
+        "name": ".113FM Hits 1976",
+        "id": "1638134",
+        "genre": "70s"
+      },
+      {
+        "name": "JvR Music of a Lifetime",
+        "id": "1586503",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9c5a/9c5a0ca4-900b-45c6-a01c-eeaca9e9dfeb.jpg"
+      },
+      {
+        "name": "Radio TSOP",
+        "id": "1749857",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/5/5b08/5b083f49-98a1-4c9f-a163-8e6f1ea27831.jpg"
+      },
+      {
+        "name": "Foroactivo Polymarchs",
+        "id": "1718338",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4fdf/4fdfa491-ba7c-44e6-ad5f-7a6cbc4bc8a6.jpg"
+      },
+      {
+        "name": "Radio Yesterday by Radio L'Olgiata",
+        "id": "1664476",
+        "genre": "70s"
+      },
+      {
+        "name": "The LAZER",
+        "id": "1550563",
+        "genre": "70s"
+      },
+      {
+        "name": "70sRadio (MRG.fm)",
+        "id": "1672306",
+        "genre": "70s",
+        "logo": "https://i3.radionomy.com/radios/200/7/76e7/76e77974-d2a0-48bd-8264-e1e2e4df2b5d.jpg"
+      },
+      {
+        "name": "HOTRADIO Classics",
+        "id": "1741371",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/976e/976efb57-e3d6-40fd-9b61-ae82454a2bbc.jpg"
+      },
+      {
+        "name": "THE SUPER STATION",
+        "id": "1764194",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b99f/b99f76a0-14d9-4d7d-85bf-70c5830c4d64.jpg"
+      },
+      {
+        "name": "RadioSIracusaWeb",
+        "id": "1518445",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/5/5122/51226c0f-16cf-4e83-b86c-6b9b91ad207a.png"
+      },
+      {
+        "name": "Radio 70s Arabic (GLWiZ)",
+        "id": "252528",
+        "genre": "70s"
+      },
+      {
+        "name": "Retro VOIP",
+        "id": "1526065",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/5/5cd2/5cd2ea68-6c3e-42c9-a242-a7874011b461.gif"
+      },
+      {
+        "name": "Popradio Ostfriesland",
+        "id": "1553277",
+        "genre": "70s"
+      },
+      {
+        "name": "Flex-Radio AAC",
+        "id": "1766030",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4\\444b\\444b3a09-3d97-40fb-9546-041847dc8281.jpg"
+      },
+      {
+        "name": "Radio Dance Classics - Brasil",
+        "id": "1801409",
+        "genre": "70s"
+      },
+      {
+        "name": "45 Radio UK",
+        "id": "1854424",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/1/132f/132f6c66-a4d8-4d02-aab6-7af11a740a8f.jpg"
+      },
+      {
+        "name": "Sloth Radio NetWork",
+        "id": "1724957",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9866/986642ec-4bbd-47fa-912b-efffc563a749.jpg"
+      },
+      {
+        "name": "Hudson Valley Time Machine Radio Airchecks",
+        "id": "99468317",
+        "genre": "70s"
+      },
+      {
+        "name": "Blue Wolf Radio SC2VS",
+        "id": "1547051",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/860a/860af311-a1aa-4a63-9982-c82e2c2aba5a.jpg"
+      },
+      {
+        "name": "Seaway Sound Radio",
+        "id": "99456314",
+        "genre": "70s"
+      },
+      {
+        "name": "Your Home for the Oldies",
+        "id": "1560386",
+        "genre": "70s"
+      },
+      {
+        "name": "Jenny Fm Oldies",
+        "id": "99469136",
+        "genre": "70s"
+      },
+      {
+        "name": "OnlyHit.us Gold",
+        "id": "99461234",
+        "genre": "70s"
+      },
+      {
+        "name": "Centrale Milano AM",
+        "id": "99467402",
+        "genre": "70s"
+      },
+      {
+        "name": "Radio Goldance by Radio L'Olgiata",
+        "id": "1652623",
+        "genre": "70s"
+      },
+      {
+        "name": "JB105 Radio",
+        "id": "1845210",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/6/69dd/69dd1b20-4431-4853-b6dd-7f0e71393a8a.jpg"
+      },
+      {
+        "name": "WNAU Radio",
+        "id": "1333228",
+        "genre": "70s"
+      },
+      {
+        "name": "A-1MixMobile",
+        "id": "99226624",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/02fb/02fbf163-a3e1-4f10-8c84-a7b811e0f123.png"
+      },
+      {
+        "name": "radio globo station",
+        "id": "99298560",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/1/11a9/11a91b33-b424-42a7-a0f2-d53525b9d45b.jpg"
+      },
+      {
+        "name": "Stippie Radio",
+        "id": "99373568",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4f85/4f85ed0e-4654-4ae8-9328-c9a58cdac8ae.jpg"
+      },
+      {
+        "name": "Waddensound",
+        "id": "99378946",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b56f/b56fc2bd-5d74-4401-99a8-02ebd2d8439c.png"
+      },
+      {
+        "name": "Test Earworm Radio",
+        "id": "99302916",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/d/d267/d267909d-d67c-4e85-ab2b-dbbe92feeda7.jpg"
+      },
+      {
+        "name": "webradioacqui",
+        "id": "99237892",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9b06/9b065292-33ff-47b6-a8e3-320ce4184060.jpg"
+      },
+      {
+        "name": "pueblo rock",
+        "id": "99442694",
+        "genre": "70s"
+      },
+      {
+        "name": "Nova Ipitanga",
+        "id": "99391495",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/a/a1d9/a1d9c4b4-3f69-4ad7-9df9-384766c2230d.jpg"
+      },
+      {
+        "name": "firmagasbij",
+        "id": "99242248",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/c/c2d0/c2d0a589-d6c6-49e8-b4bf-d87a3753c407.jpg"
+      },
+      {
+        "name": "hitradio-niederrhein",
+        "id": "99350024",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/73bb/73bb21a7-dfaf-4061-a30c-ea4b7bea74ce.png"
+      },
+      {
+        "name": "radio in 2",
+        "id": "99287561",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/f7da/f7da8c89-30a7-432f-a756-2e900d1d8894.png"
+      },
+      {
+        "name": "NoticiasCP",
+        "id": "99388681",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9a10/9a108071-c0a8-44a5-9403-c08d6f591e5c.png"
+      },
+      {
+        "name": "saskrydzio radijas",
+        "id": "99390985",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/c/cd29/cd29d42e-d5c0-4b85-aaee-062698f5e72c.jpg"
+      },
+      {
+        "name": "108 RADIO STREET",
+        "id": "99270153",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/2cdb/2cdb44f2-3fcc-48ce-a923-982d4191d8e6.jpg"
+      },
+      {
+        "name": "MKDigitalRadio",
+        "id": "99371274",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/703a/703a5027-cb20-46ce-b54b-c01201942538.jpg"
+      },
+      {
+        "name": "Radio Desde el Corazon",
+        "id": "99306762",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/6/646f/646f0e5b-a757-41fb-8f85-c4cf1170de4b.jpg"
+      },
+      {
+        "name": "delapaznet",
+        "id": "99318026",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/0bdd/0bdd1636-7cf5-4479-808a-7ee9a3597dd8.jpg"
+      },
+      {
+        "name": "RADIO-ENJOY",
+        "id": "99391498",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/0006/000605bf-df48-47e7-8f65-d51a5755d519.jpg"
+      },
+      {
+        "name": "Frekwent",
+        "id": "99341324",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/bbc3/bbc3c7da-83c2-4e4b-9d4f-2728717ad747.jpg"
+      },
+      {
+        "name": "Pallaka FM",
+        "id": "99268365",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/74fe/74feae24-a4c2-48c4-b602-67004add5bbe.jpg"
+      },
+      {
+        "name": "Nieuwerkerk FM",
+        "id": "99370766",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/7bea/7bea441d-c86f-40c1-98ac-a05d78515bd5.png"
+      },
+      {
+        "name": "KivaStudios",
+        "id": "99378702",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/2d86/2d864340-d800-4a06-9aa7-25c5c0ed58d0.png"
+      },
+      {
+        "name": "Radio Flashback Rio",
+        "id": "99213071",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9975/99757eb6-4bfd-491f-bdf9-1c2f3c2e5d99.jpg"
+      },
+      {
+        "name": "WMIX Super Mix Productions",
+        "id": "99215888",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9dff/9dff4a7d-142d-4308-970f-f18351884f40.png"
+      },
+      {
+        "name": "radiobrighton",
+        "id": "99362321",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/3/35e9/35e98b13-3ba3-4af7-98fe-5de8fded2018.jpg"
+      },
+      {
+        "name": "PJFM103",
+        "id": "99385873",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b1b1/b1b1d3ee-5f00-431b-bfc0-1acacc6b247e.jpg"
+      },
+      {
+        "name": "Harmony Radio Belgium",
+        "id": "1655314",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9647427e-3b20-4e96-880d-a68c7932179d.gif"
+      },
+      {
+        "name": "Viveka-FM",
+        "id": "99375890",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/2a2d/2a2d228a-eab7-4bdc-88ab-77e43b3fd671.jpg"
+      },
+      {
+        "name": "Baldwin--FM",
+        "id": "99394066",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9c0c/9c0c7819-952d-4295-85b3-9f95f1a275b7.png"
+      },
+      {
+        "name": "http://stream-radioseren.creativedork.com/play",
+        "id": "99341330",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/8ec1/8ec1e8cb-8fa6-4a62-9d4a-72be1c827e43.png"
+      },
+      {
+        "name": "ViejasPeroBuenas",
+        "id": "99334163",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/2149/214938de-f83e-4155-9223-735710dd758d.jpg"
+      },
+      {
+        "name": "Extasis Digital 88.9 FM Mazatlan",
+        "id": "99223828",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/7161/7161ed08-cc58-4c4a-9f19-0aec10bf2bbe.jpg"
+      },
+      {
+        "name": "CopperPot",
+        "id": "99359252",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/85e0/85e06ae0-95c8-4a1e-89cc-9cc19f88d2c4.jpg"
+      },
+      {
+        "name": "Selecta Radio",
+        "id": "99250966",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/3/36e3/36e36f0e-7e11-411b-a1e2-9df1cbae4713.jpg"
+      },
+      {
+        "name": "Sabinas Oldies",
+        "id": "99357719",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/1/1b59/1b59d006-2584-483d-b450-380a7465fb39.png"
+      },
+      {
+        "name": "TheStudioRadio",
+        "id": "99319319",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/3/3f66/3f66a436-4aff-450a-89fd-e06d98d5b1b9.jpg"
+      },
+      {
+        "name": "Island fm 88",
+        "id": "99402775",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4363/43633dfe-fc60-4101-bb6d-33e862872160.png"
+      },
+      {
+        "name": "KuiperClassics",
+        "id": "99285527",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9c78/9c78a17f-0809-463b-a9e4-ef758c7037f3.jpg"
+      },
+      {
+        "name": "Exas79 CNC",
+        "id": "99318296",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/0b92/0b925255-bdeb-4eb6-a435-6d68f018d201.png"
+      },
+      {
+        "name": "Your Easy Radio",
+        "id": "99416089",
+        "genre": "70s"
+      },
+      {
+        "name": "big variety radio",
+        "id": "99364634",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/472d/472da1e9-e8f5-4203-82c7-2fd2c0d07ba5.jpg"
+      },
+      {
+        "name": "rareradioairchecks",
+        "id": "99391258",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/8c42/8c4270fc-5654-4481-9799-cf7303cadb57.png"
+      },
+      {
+        "name": "italianaradio hit",
+        "id": "99326234",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/f071/f07107fe-616f-4114-9cd0-bdcd7d4da8bc.png"
+      },
+      {
+        "name": "islandfm 88 bayislands qld",
+        "id": "99402778",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/6/607b/607b3d8d-db98-402e-bc78-aefe64e76503.png"
+      },
+      {
+        "name": "evelinn",
+        "id": "99359003",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/0683/0683b17e-7334-4073-9939-0162cb903cd8.jpg"
+      },
+      {
+        "name": "Radio Luna Network",
+        "id": "99227932",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/7868/7868331b-114a-490a-8742-f33e9d0bc68e.png"
+      },
+      {
+        "name": "radionewscordoba-ar",
+        "id": "99370780",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/93e0/93e0a3a7-1455-4a04-a910-b64e97f3eea1.png"
+      },
+      {
+        "name": "solar empires",
+        "id": "99318044",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/2035/203517d7-2c77-49f9-9910-a3b8cb5456a2.jpg"
+      },
+      {
+        "name": "song the old bike",
+        "id": "99254812",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/d/dac0/dac08b72-c7e0-4300-b9fe-bf1bbb1eabd2.jpg"
+      },
+      {
+        "name": "Remember 70s 80s 90s",
+        "id": "99256348",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/2ff3/2ff32413-c440-41d4-ade8-3f9bca793bd5.jpg"
+      },
+      {
+        "name": "Radio Majestic 355 Weesp",
+        "id": "99278876",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4c9e/4c9e88ab-dc49-47f2-a35c-c3e175796706.jpg"
+      },
+      {
+        "name": "KCCT Digital Radio",
+        "id": "99325469",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/2aae/2aae1db1-af04-4a41-af69-163a757b73ec.jpg"
+      },
+      {
+        "name": "G One 54",
+        "id": "99274781",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4790/479076b6-e7c1-4c7f-b334-0c8d920f57c4.png"
+      },
+      {
+        "name": "Radio Majestic 355 Weesp",
+        "id": "99278879",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4c9e/4c9e88ab-dc49-47f2-a35c-c3e175796706.jpg"
+      },
+      {
+        "name": "Onda Musical 1150 am",
+        "id": "99233824",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4b53/4b530537-60a4-4b6b-a6da-1d72e7467372.jpg"
+      },
+      {
+        "name": "solarempire",
+        "id": "99302688",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b320/b320a5a5-9bc7-4031-96fd-ad74cbac7347.jpg"
+      },
+      {
+        "name": "COOLfahrenheit80",
+        "id": "99307296",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/a/ad42/ad428e69-6539-4c29-9fc0-b725f10c6bc9.gif"
+      },
+      {
+        "name": "G One 54",
+        "id": "99274784",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4790/479076b6-e7c1-4c7f-b334-0c8d920f57c4.png"
+      },
+      {
+        "name": "Rádio Nova80",
+        "id": "99358241",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9785/9785de7e-13d7-4833-b1c2-bd83df9dbd8b.jpg"
+      },
+      {
+        "name": "Classic Hits Florida Radio",
+        "id": "99429922",
+        "genre": "70s"
+      },
+      {
+        "name": "Nieuwerkerk FM",
+        "id": "99259426",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/a/ab22/ab220d1e-4dd4-4bcc-a7a4-aedade8108b1.png"
+      },
+      {
+        "name": "PROTON",
+        "id": "99335459",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4bc1/4bc1646d-72d9-45af-a82b-40c7e8e31575.jpg"
+      },
+      {
+        "name": "The Mix 70s",
+        "id": "793126",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/documents/radio/205baa6a-3376-4ed7-a816-431e6961d95f.s165.jpg"
+      },
+      {
+        "name": "Ed's Hits of the 70s-80s-90s",
+        "id": "99323174",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/e/e7bd/e7bd753c-96e0-41a9-badb-110b67c20ad1.jpg"
+      },
+      {
+        "name": "AmericanDanishUSDanmark",
+        "id": "99388966",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/d/dd56/dd561dcd-992a-468b-891b-74f7836fd996.jpg"
+      },
+      {
+        "name": "LA ESTACION 33",
+        "id": "99398950",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/7583/7583ab79-7515-45cc-b85a-a854c04fedee.jpg"
+      },
+      {
+        "name": "RADIO GLOBAL FM 105.7",
+        "id": "99374888",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/6/6399/639935aa-450d-4407-84bc-704392f5f00d.jpg"
+      },
+      {
+        "name": "Radiante Fm",
+        "id": "99383593",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/d/db05/db05fad8-828c-4a68-afc9-c22afb5a7ae0.jpg"
+      },
+      {
+        "name": "Radio Urban Jamz",
+        "id": "99318314",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/27fa/27fa6be2-9991-419c-b70f-84997f9da1f5.jpg"
+      },
+      {
+        "name": "PodPaul Radio",
+        "id": "99401515",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/6/6cd8/6cd8e520-9d31-43d5-becd-be4d1a150218.jpg"
+      },
+      {
+        "name": "Old Slow Brian's RadioHits.us",
+        "id": "99260716",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/83dd/83dd687b-93dc-4dc1-a565-de503baeabf1.jpg"
+      },
+      {
+        "name": "RTVSellingen Non Stop",
+        "id": "99373102",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/6/6c05/6c05f5e5-2236-4372-8ccf-fbfa0355e1cd.jpg"
+      },
+      {
+        "name": "KQCF 88.1 LPFM",
+        "id": "99269166",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/0713/0713424c-8423-4fe0-b0f2-5f855da27fff.jpg"
+      },
+      {
+        "name": "NICEMANRADIO",
+        "id": "99400750",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/1/104b/104b8ebd-d0a0-442a-a580-ef25d838b3e9.jpg"
+      },
+      {
+        "name": "Radio Baruel",
+        "id": "99361328",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/e/ea8e/ea8e5973-e2cf-42bd-b1f2-51f270e68632.jpg"
+      },
+      {
+        "name": "Successors.ca",
+        "id": "99369776",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/96d7/96d767fd-22f2-4f91-9a24-c2b6b9bfd90c.jpg"
+      },
+      {
+        "name": "PasaloLindo",
+        "id": "99296817",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/8f3f/8f3f1ece-ff8a-4935-a776-e3a901fbc75d.jpg"
+      },
+      {
+        "name": "Deadman",
+        "id": "99237937",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/e/e2c4/e2c4939b-1299-4ba7-91ba-95f9ae1fc5c9.jpg"
+      },
+      {
+        "name": "berlin.speed-sound-berlin",
+        "id": "99325490",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/7a54/7a54a931-61b6-48e7-a7b1-bb67a6e90b7b.gif"
+      },
+      {
+        "name": "Sensaciones Libres",
+        "id": "99355187",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/d/df39/df39189a-9aeb-4a22-ad1d-162c0674c5ec.jpg"
+      },
+      {
+        "name": "jammin 92.5",
+        "id": "99296307",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b85c/b85c49d0-8704-4a68-a27c-4f97de14abee.gif"
+      },
+      {
+        "name": "Ktec",
+        "id": "99430963",
+        "genre": "70s"
+      },
+      {
+        "name": "DYST-FM 103.8 One Heart Radio",
+        "id": "99274805",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/f5f3/f5f315fe-5344-4be6-90ed-ab65525d93b5.gif"
+      },
+      {
+        "name": "OLD SCHOO RAP",
+        "id": "99225142",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/2155/21555221-0f6d-45cb-8f45-00176fb49c76.png"
+      },
+      {
+        "name": "Dj Bryan",
+        "id": "99362870",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/0dde/0dde8bba-1579-4319-b688-e7f897f3709a.jpg"
+      },
+      {
+        "name": "posh-club",
+        "id": "99332150",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/a/a5bd/a5bdc37d-55e1-4366-b72c-abd57169e1ed.png"
+      },
+      {
+        "name": "Solarian Radio",
+        "id": "99374904",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/258c/258c6c2a-5a8d-452e-b418-c6261f7bd0b3.png"
+      },
+      {
+        "name": "DYST-FM 103.8 One Heart Radio",
+        "id": "99274808",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/f5f3/f5f315fe-5344-4be6-90ed-ab65525d93b5.gif"
+      },
+      {
+        "name": "ScolariaFM3",
+        "id": "99292473",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/01cd/01cd7e7e-2497-4aeb-8019-65935728286d.png"
+      },
+      {
+        "name": "SWR 4",
+        "id": "99246139",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/3/3172/3172b333-4461-4a4e-9993-54590cfb3f16.jpg"
+      },
+      {
+        "name": "Wyldes Tunes",
+        "id": "99376188",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/f3ae/f3ae0a88-4d8b-490e-a183-42ed4ad1b55a.jpg"
+      },
+      {
+        "name": "GNM--Radio",
+        "id": "99248959",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/9/9219/92191932-0488-41e7-bd78-5d8615b1473d.jpg"
+      },
+      {
+        "name": "Hot 101",
+        "id": "99372608",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/5/51f0/51f059b8-9f6b-4f5e-b35d-775c7f615333.png"
+      },
+      {
+        "name": "All Stars 70's",
+        "id": "99180096",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/documents/radio/677b4ef7bccf4a379737b93b1703d271_635230758780227952.s125.jpg"
+      },
+      {
+        "name": "Disco from hell",
+        "id": "99308865",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/0833/08331dc1-758c-4133-acfe-1ba99748c024.jpg"
+      },
+      {
+        "name": "Vulkaradio",
+        "id": "99246913",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/8a4e/8a4e7962-23ce-48e3-ac0e-0ea5949eca0f.png"
+      },
+      {
+        "name": "WCDR Radio",
+        "id": "99256129",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/1/1d09/1d09dfd5-03e5-49bf-a577-51e431127b1c.png"
+      },
+      {
+        "name": "Radio Retroceso",
+        "id": "99323969",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/1/1d63/1d63a7ba-e7e2-4a8a-b565-f1660f1d80cf.jpg"
+      },
+      {
+        "name": "Seventies Child",
+        "id": "99386434",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/4a55/4a5557f1-6465-4182-90b1-487228647d5a.jpg"
+      },
+      {
+        "name": "Mark radio",
+        "id": "99367235",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/3/3b4f/3b4f55dc-5b1a-4196-959c-a204d796609d.png"
+      },
+      {
+        "name": "vendorfm",
+        "id": "99242563",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/5/5a35/5a35464f-1aa8-4e33-bfd9-20a44afe49d4.jpg"
+      },
+      {
+        "name": "Resurrection Of Rock",
+        "id": "99372868",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/0652/0652a93c-28a5-4ec2-8cbb-b4a4ab43b83b.jpg"
+      },
+      {
+        "name": "Bons Tempos na Net",
+        "id": "99210053",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/28da/28da44fa-9817-4c31-8b86-28cdcee79bc4.gif"
+      },
+      {
+        "name": "DJ Jan The Mans 70s Hits",
+        "id": "620103",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/documents/radio/fca29aab-25cb-4153-9760-c6a3510ee73e.s165.jpg"
+      },
+      {
+        "name": "The Knitting Channel",
+        "id": "99246664",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/4/42f6/42f6c692-374f-4056-ad60-f126d84c18b1.png"
+      },
+      {
+        "name": "Spectrum Light Radio",
+        "id": "99255112",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/f5cc/f5cce582-8c35-4767-8e25-36d8087a7b3c.jpg"
+      },
+      {
+        "name": "113.fm Retro! Radio",
+        "id": "223307",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/f/fce1/fce1d7e9-bdc7-40ba-878f-9f414c8c6def.jpg"
+      },
+      {
+        "name": "stocktonbreeze",
+        "id": "99383371",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/e/e15c/e15c6c40-f101-4aa0-9806-d1676c68318e.jpg"
+      },
+      {
+        "name": "radio la rockola retro",
+        "id": "99376716",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/77fa/77fa30d1-0fb8-4f85-8fc9-41fc1df4d4bc.jpg"
+      },
+      {
+        "name": "FROG RADIO",
+        "id": "99219020",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/2377/23770f70-bcc2-4715-93be-0591fb18f823.jpg"
+      },
+      {
+        "name": "WDR 4",
+        "id": "99246157",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/d/d411/d4115c42-e2d5-437a-bf66-77e10dae2ecf.jpg"
+      },
+      {
+        "name": "radio online HN",
+        "id": "99214925",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/c/cf21/cf217e04-851b-4cfc-9cfa-3ceb2cfc3211.jpg"
+      },
+      {
+        "name": "ilguerzoradio",
+        "id": "99349325",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/5/52a3/52a3e962-2d74-4b94-b959-ba4ed22240a0.jpg"
+      },
+      {
+        "name": "Accion y Reaccion",
+        "id": "99393358",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b85f/b85fc1e8-90ed-4115-bbaa-57a308cc5cad.jpg"
+      },
+      {
+        "name": "Noorderlicht Hits",
+        "id": "99262542",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/2/247b/247b7a17-239a-4ce0-a7ca-0ab48a44ad44.jpg"
+      },
+      {
+        "name": "Scala FM - Sounds Of New York",
+        "id": "99352655",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/c/c475/c475eafc-215c-4108-8d52-2d6d98f206f9.jpg"
+      },
+      {
+        "name": "Radio La Buona Musica",
+        "id": "99290447",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b02c/b02c9349-080f-454b-ac8f-622bd6daa7fc.jpg"
+      },
+      {
+        "name": "MusikSound-Hitradio",
+        "id": "99290961",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/7/71de/71de2441-dea3-4fd4-8525-5546ffe8d5aa.gif"
+      },
+      {
+        "name": "CRB",
+        "id": "99228241",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/8/8f9a/8f9a4790-a506-4431-a6b5-dad1d437e581.jpg"
+      },
+      {
+        "name": "FUNK IN YOUR TRUNK",
+        "id": "99382609",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/0/0c39/0c396b41-c2ff-4c46-b772-472655df7c37.jpg"
+      },
+      {
+        "name": "Konrad Hit List",
+        "id": "99398737",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/1/13e9/13e91366-02e5-42f4-a2da-772310edbe98.jpg"
+      },
+      {
+        "name": "SLR 4U Radio",
+        "id": "99294546",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/5/5a3f/5a3f3fac-c0d0-4519-b376-01eadd583fd8.jpg"
+      },
+      {
+        "name": "Checkpoint Link",
+        "id": "99301458",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/5/546f/546f5e9b-2840-4900-b6f4-353ff5be01cb.jpg"
+      },
+      {
+        "name": "Plus FM The Netherlands",
+        "id": "99279188",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/6/6c7e/6c7ea029-c0bb-4917-ae0f-9084d14525ef.jpg"
+      },
+      {
+        "name": "Spectrum Xtra",
+        "id": "99355478",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/document/radios/3/34b8/34b86df8-ed98-48b2-8542-4740acca6f3e.png"
+      },
+      {
+        "name": "All Time 70s 80s Greatest",
+        "id": "10585",
+        "genre": "70s",
+        "logo": "http://i.radionomy.com/documents/radio/b/bb19/bb195f0d-738a-42aa-b717-88dfda048d92.s125.jpg"
+      }
+    ]
+  }
+}

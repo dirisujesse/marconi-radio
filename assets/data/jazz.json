@@ -1,0 +1,1123 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "SmoothJazz.com Global",
+        "id": "1477271",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7d37/7d37f56b-67ff-40b7-9102-bc15172d7831.jpg"
+      },
+      {
+        "name": "wbgo mp3 128",
+        "id": "1582380",
+        "genre": "Jazz"
+      },
+      {
+        "name": "1.FM - Adore Jazz",
+        "id": "1695718",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/e/ec7f/ec7fc7c7-5d3f-4ccd-8866-2344bf6e2d4c.jpg"
+      },
+      {
+        "name": "JAZZGROOVE.org - LAID-BACK JAZZ - The Jazz Groove. Ad Free. (East)",
+        "id": "1528122",
+        "genre": "Jazz"
+      },
+      {
+        "name": "WBGO",
+        "id": "1340714",
+        "genre": "Jazz"
+      },
+      {
+        "name": "JAZZGROOVE.org - LAID-BACK JAZZ - The Jazz Groove. Ad Free. (West)",
+        "id": "1416985",
+        "genre": "Jazz"
+      },
+      {
+        "name": "SmoothJazz.com Global",
+        "id": "1563396",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7d37/7d37f56b-67ff-40b7-9102-bc15172d7831.jpg"
+      },
+      {
+        "name": "Smooth Jazz Florida",
+        "id": "1723864",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/a/a67a/a67aaf0a-0eba-464d-90fe-1c07ec0a7211.jpg"
+      },
+      {
+        "name": "The world???s #1 for jazz, funk, soul, world, latin, lounge & nu grooves",
+        "id": "1077152",
+        "genre": "Jazz"
+      },
+      {
+        "name": "SmoothJazz.com Global",
+        "id": "1625448",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7d37/7d37f56b-67ff-40b7-9102-bc15172d7831.jpg"
+      },
+      {
+        "name": "1.FM - Bay Smooth Jazz (www.1.fm)",
+        "id": "1852944",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/f/fabb/fabb5b73-12f7-48b0-8fdf-9c9644d157ca.jpg"
+      },
+      {
+        "name": "RelaxingJazz.com - Ad-Free Smooth Jazz",
+        "id": "1819576",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/5/54f2/54f283b6-1979-4ea2-8274-61ab7d213a7f.png"
+      },
+      {
+        "name": "Jazz Lounge",
+        "id": "1292701",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/6/6105/61057c19-1c3f-46dc-af41-4a11ff9cd96c.jpg"
+      },
+      {
+        "name": "Smooth Jazz - Tampa Bay",
+        "id": "1151057",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/a/a755/a755e5e3-a2f6-4ffb-9eed-be2ef6e7c132.jpg"
+      },
+      {
+        "name": "The UK 1940s Radio Station  1920s 1930s 1940s",
+        "id": "959067",
+        "genre": "Big Band"
+      },
+      {
+        "name": "The Great American Songbook",
+        "id": "1469526",
+        "genre": "Vocal Jazz",
+        "logo": "http://i.radionomy.com/document/radios/a/a7cb/a7cb948c-4a6e-4181-9d5d-b0cd6d244922.jpg"
+      },
+      {
+        "name": "1.FM - Sax4Love (www.1.fm)",
+        "id": "1420031",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/0/0f0c/0f0c60df-1ae3-4edc-9429-33da3afa8b88.jpg"
+      },
+      {
+        "name": "Smooth Jazz Florida HD with Waves of Smooth Music",
+        "id": "1091598",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/2/2a2f/2a2f7814-5d17-4894-9b95-d88c768222f5.jpg"
+      },
+      {
+        "name": "1radio.mk - The Wave Smooth Jazz (Smoothjazztampabay.com)",
+        "id": "1468107",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "Smooth Jazz Global HD",
+        "id": "1746670",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/2/2000/2000620d-df15-4990-8c90-a927c043a995.png"
+      },
+      {
+        "name": "SatinJazz 2",
+        "id": "1765759",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/9/99a9/99a9c370-b146-4e75-a707-93577aafa1ef.jpg"
+      },
+      {
+        "name": "Swing Street Radio",
+        "id": "1441882",
+        "genre": "Swing"
+      },
+      {
+        "name": "Smooth Jazz Wave Sarasota",
+        "id": "1489114",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/b/beb4/beb4ad97-ce4b-407c-90fa-67c22ecfd0e0.png"
+      },
+      {
+        "name": "Qfm Cool Jazz HD",
+        "id": "1632980",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/0/0e6a/0e6a5184-38e5-4282-b5be-ea02b0490261.jpg"
+      },
+      {
+        "name": "Crooner Radio - All Crooners, All the Time!",
+        "id": "1732361",
+        "genre": "Vocal Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/c/c4c7/c4c70abe-bbd4-4250-b42d-2b981eddf8ac.png"
+      },
+      {
+        "name": "ALLDAYJAZZ.FM",
+        "id": "1664486",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/1/1d10/1d10fcb0-7191-4f1b-8e1d-4cd9f871be47.png"
+      },
+      {
+        "name": "SmoothChoice.com - Powered by ViaStreaming.com",
+        "id": "1361006",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/d/de22/de22ca41-8fdb-4e73-8c61-77e613351e44.png"
+      },
+      {
+        "name": "1radio.mk - The Wave Smooth Jazz (Smoothjazztampabay.com)",
+        "id": "1753578",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "AlohaJoe",
+        "id": "465121",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7d72/7d72d5ad-3536-4484-9751-4bc95dca9ff9.jpg"
+      },
+      {
+        "name": "Smooth Jazz Florida Plus HD",
+        "id": "1760270",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/4/47d8/47d80a5e-2a5c-4cd8-af54-620d5f44758f.jpg"
+      },
+      {
+        "name": "CALM RADIO - SMOOTH JAZZ - Sampler",
+        "id": "1174062",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/20da/20da7df7-f373-4f53-94b1-ee6f89d587d6.jpg"
+      },
+      {
+        "name": "The Great American Songbook",
+        "id": "1473372",
+        "genre": "Vocal Jazz",
+        "logo": "http://i.radionomy.com/document/radios/a/a7cb/a7cb948c-4a6e-4181-9d5d-b0cd6d244922.jpg"
+      },
+      {
+        "name": "Jazz Sakura - asia DREAM Radio -",
+        "id": "1864012",
+        "genre": "Jazz"
+      },
+      {
+        "name": "CALM RADIO - JAZZ PIANO - Sampler",
+        "id": "1096950",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/e/ea4f/ea4f4a8a-1107-4525-9dba-971b19bf6b5f.jpg"
+      },
+      {
+        "name": "Smooth Jazz CROOZE -  a perfect mix of the smoothest and the best Smooth Jazz music in the world!",
+        "id": "1760372",
+        "genre": "Acid Jazz"
+      },
+      {
+        "name": "96.9 The Oasis - The World's Smooth Jazz Place",
+        "id": "1649462",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/c/c7fa/c7fac691-5b93-4a59-9700-5d17210efe9d.jpg"
+      },
+      {
+        "name": ".113FM The Wave",
+        "id": "1703695",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "A Taste of Jazz",
+        "id": "1581074",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Smooth Jazz Mix NYC",
+        "id": "1556191",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/f/fc51/fc51b555-4f70-4e9c-8a11-341db55c32f2.png"
+      },
+      {
+        "name": "Smooth Jazz CD101.9 New York 64K",
+        "id": "1541073",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "WBGO HD2 - The Jazz Bee",
+        "id": "1752248",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Smooth Jazz Florida 64K",
+        "id": "1431116",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/4/409a/409a5088-9a30-4ba7-ae20-87ae7153799e.png"
+      },
+      {
+        "name": "CALM RADIO - JAZZ GUITAR - Sampler",
+        "id": "1141719",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/6/6b07/6b07b86e-6c12-4a7a-9820-dcc2a6ba96ae.jpg"
+      },
+      {
+        "name": "Radio Radio Network - Marbella v2",
+        "id": "1374462",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/1/1c17/1c17f83d-d91e-4641-acae-0d988acb349b.png"
+      },
+      {
+        "name": "SmoothChoice.com - Powered by ViaStreaming.com",
+        "id": "1281391",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/d/de22/de22ca41-8fdb-4e73-8c61-77e613351e44.png"
+      },
+      {
+        "name": "Smooth Jazz - Tampa Bay WJTB-DB",
+        "id": "1393136",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/5/52d7/52d77e1b-76f7-41dc-8849-ecda169c15bb.jpg"
+      },
+      {
+        "name": "Deep Pockets Jazz",
+        "id": "1423641",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/6/6508/6508c6f2-fe90-4852-b7aa-34aab470440a.jpg"
+      },
+      {
+        "name": "CALM RADIO - JUST JAZZ - Sampler",
+        "id": "934458",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/5/5711/57119c79-2a93-4261-811b-472ade0568d8.jpg"
+      },
+      {
+        "name": "Classical Jazz Radio",
+        "id": "1834074",
+        "genre": "Jazz"
+      },
+      {
+        "name": "ITU Radio Jazz/Blues",
+        "id": "1480639",
+        "genre": "Jazz"
+      },
+      {
+        "name": "WUCF_QL",
+        "id": "1736957",
+        "genre": "Jazz"
+      },
+      {
+        "name": "RangiloGujarat.com - 24/7 Gujarati Radio Station, Worldwide, Enjoy!",
+        "id": "1832830",
+        "genre": "Fusion"
+      },
+      {
+        "name": "95.5 Smooth Jazz Radio",
+        "id": "1736230",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/d/ddb4/ddb45ed8-7bae-495d-bf4e-807d1403836e.jpg"
+      },
+      {
+        "name": "Public Domain Jazz - Swiss Internet Radio",
+        "id": "1709845",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/d/d758/d758affe-474a-4939-baff-eef705db6e3a.png"
+      },
+      {
+        "name": "Breezy Radio",
+        "id": "1780087",
+        "genre": "Classic Jazz"
+      },
+      {
+        "name": "DI Radio Digital Impulse - Jazz",
+        "id": "666500",
+        "genre": "Jazz"
+      },
+      {
+        "name": "JAZZ.FM91(CJRT-FM) - High Standard",
+        "id": "1666179",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/1/1a1b/1a1b50c0-de47-4b68-be20-85761aaf8378.jpg"
+      },
+      {
+        "name": "Radio Studio Souto - Smooth Jazz",
+        "id": "1611622",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "CALM RADIO - BIG BAND - Sampler",
+        "id": "1231558",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/d/d671/d6716d6a-2bff-4f1f-bae3-e2a86799bc92.jpg"
+      },
+      {
+        "name": "Smooth Jazz - Tampa Bay HD",
+        "id": "1135339",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/9/934f/934feeca-3b03-4e6b-8730-06f3141377d9.jpg"
+      },
+      {
+        "name": "Blu Blu Lounge Cafe Mykonos, Cyclades | LIVE Camera View - Visit us at BluBlu.Gr",
+        "id": "1646411",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "Jazz Lovers Radio",
+        "id": "1857162",
+        "genre": "Jazz"
+      },
+      {
+        "name": "A_A Jazz",
+        "id": "1180122",
+        "genre": "Jazz"
+      },
+      {
+        "name": "1.FM - Adore Jazz",
+        "id": "1762415",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/e/ec7f/ec7fc7c7-5d3f-4ccd-8866-2344bf6e2d4c.jpg"
+      },
+      {
+        "name": "Radio Radio Network APP",
+        "id": "1865693",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7e15/7e15bbd5-1a99-48ab-ac98-46971fdf2ffd.jpg"
+      },
+      {
+        "name": "SmoothJazz.com Global",
+        "id": "1614864",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7d37/7d37f56b-67ff-40b7-9102-bc15172d7831.jpg"
+      },
+      {
+        "name": "CALM RADIO - COCKTAIL JAZZ - Sampler",
+        "id": "1598301",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/1/19d1/19d1f499-9272-46d3-8e0d-bafe233ea9a0.jpg"
+      },
+      {
+        "name": "McQsJazz.com",
+        "id": "1507789",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "CALM RADIO - JAZZ VOCALISTS - Sampler",
+        "id": "996152",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/6/6d6b/6d6bbc74-50cc-44f8-a4d0-48261efd906c.jpg"
+      },
+      {
+        "name": "111 ATHENS RADIO",
+        "id": "99430753",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "Nonstop Casiopea",
+        "id": "1108330",
+        "genre": "Fusion"
+      },
+      {
+        "name": "JazzRadio (MRG.fm)",
+        "id": "600461",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/3/368d/368d59f8-cad7-422a-8b5b-ae41b4cf1c52.jpg"
+      },
+      {
+        "name": "Smooth Jazz and More",
+        "id": "1793595",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/2/24f4/24f4c137-7e5a-4ec3-bbd7-fb61b0e61860.png"
+      },
+      {
+        "name": ".113FM Watercolors",
+        "id": "1786314",
+        "genre": "Classic Jazz"
+      },
+      {
+        "name": "ALR Jazz Radio",
+        "id": "1666570",
+        "genre": "Jazz"
+      },
+      {
+        "name": "24-7 Smooth Jazz",
+        "id": "1720726",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "SmoothJazz.com Global",
+        "id": "1725351",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7d37/7d37f56b-67ff-40b7-9102-bc15172d7831.jpg"
+      },
+      {
+        "name": "91.5 Jazz & More | KUNV Las Vegas",
+        "id": "1767094",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Vid 90",
+        "id": "1437544",
+        "genre": "Jazz"
+      },
+      {
+        "name": "KISS Jazz (Canada)",
+        "id": "1866922",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Loungemain Jazz-Chill-Funk",
+        "id": "210975",
+        "genre": "Cool Jazz"
+      },
+      {
+        "name": "Jazz Moods Radio",
+        "id": "20114",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "FURFM1",
+        "id": "479543",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Jazz Vespers Radio",
+        "id": "1795430",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Technikum Smooth Jazz",
+        "id": "1569923",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/2333/23336a3f-a792-42fa-be6f-184998dbc7dc.jpg"
+      },
+      {
+        "name": "Love Radio 93.9",
+        "id": "1758364",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/0/0170/0170a8ef-7259-477d-935a-d87cbde0cb14.png"
+      },
+      {
+        "name": "Fusion 101",
+        "id": "1840599",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Cool Jazz New York",
+        "id": "1782029",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/b/bcdf/bcdf47b0-24e7-4536-a27e-6627acc0bb55.png"
+      },
+      {
+        "name": "Cool Jazz Global",
+        "id": "1605192",
+        "genre": "Cool Jazz",
+        "logo": "http://i.radionomy.com/document/radios/a/ac6b/ac6b123e-5d76-467d-aab3-a1fa18dade6a.png"
+      },
+      {
+        "name": "Mala Góra 2",
+        "id": "99458396",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Radio1 JAZZ",
+        "id": "1367389",
+        "genre": "Classic Jazz"
+      },
+      {
+        "name": "JAZZ ONE RADIO",
+        "id": "860356",
+        "genre": "Classic Jazz"
+      },
+      {
+        "name": "Cool Jazz FLA",
+        "id": "1794791",
+        "genre": "Cool Jazz",
+        "logo": "http://i.radionomy.com/document/radios/f/fbbe/fbbe1652-64ab-4284-a76a-d8e4638c845a.png"
+      },
+      {
+        "name": "Gospel Jazz Radio",
+        "id": "1845009",
+        "genre": "Jazz"
+      },
+      {
+        "name": "The Source: Smooth Jazz Radio - KJAC.DB",
+        "id": "1584919",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/3/3a55/3a55ed12-eb8f-4138-b89a-90c4723146eb.jpg"
+      },
+      {
+        "name": "91.5 Jazz & More | KUNV Las Vegas",
+        "id": "1813308",
+        "genre": "Jazz"
+      },
+      {
+        "name": "PARTY VIBE RADIO :  JAZZ",
+        "id": "933096",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Star People",
+        "id": "1325144",
+        "genre": "Acid Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/2e85/2e85e8fb-64ab-44a0-a7b0-b88e51f75a5d.jpg"
+      },
+      {
+        "name": "GrooveWave Jazz",
+        "id": "1754880",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/33a20a1a-daf9-4bf6-a996-45b4a923a0c0.png"
+      },
+      {
+        "name": "JAZZ ONE RADIO",
+        "id": "1173638",
+        "genre": "Classic Jazz"
+      },
+      {
+        "name": "Qfm Cool Jazz HD",
+        "id": "1778320",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/0/0e6a/0e6a5184-38e5-4282-b5be-ea02b0490261.jpg"
+      },
+      {
+        "name": "Smooth Jazz - Tampa Bay HD",
+        "id": "1524464",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/9/934f/934feeca-3b03-4e6b-8730-06f3141377d9.jpg"
+      },
+      {
+        "name": "Smooth Jazz Tampa Plus",
+        "id": "1643302",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/0/0595/059583be-5bd1-4837-9d1b-41d9595e76d7.jpg"
+      },
+      {
+        "name": "Radio UCASAL",
+        "id": "1778246",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/0/061a/061a2780-928c-46c7-929d-248dc2a083b3.png"
+      },
+      {
+        "name": "1.FM - Eurovision Radio (www.1.fm)",
+        "id": "1815386",
+        "genre": "World Fusion",
+        "logo": "https://i3.radionomy.com/radios/200/7/7bc0/7bc0b416-babb-41ce-b0b2-199944952eb5.jpg"
+      },
+      {
+        "name": "PVPJazz - Before The Music Dies",
+        "id": "127076",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Art & Fashion Radio",
+        "id": "1475226",
+        "genre": "Acid Jazz",
+        "logo": "http://i.radionomy.com/document/radios/8/87bc/87bcb847-07e1-4dd3-a69f-2b4dd3906ad8.jpg"
+      },
+      {
+        "name": "JazzRadio (MRG.fm)",
+        "id": "1684303",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/3/368d/368d59f8-cad7-422a-8b5b-ae41b4cf1c52.jpg"
+      },
+      {
+        "name": "Polushon Radio",
+        "id": "1802096",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/e/efe2/efe23603-4a97-472e-8622-7a1e97a5b073.png"
+      },
+      {
+        "name": "Qfm Cool Jazz HD",
+        "id": "1675255",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/0/0e6a/0e6a5184-38e5-4282-b5be-ea02b0490261.jpg"
+      },
+      {
+        "name": "Jazz Central",
+        "id": "1447513",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/5/5e2c/5e2c0a63-443a-4bb5-97b0-afbbcb7b0293.jpg"
+      },
+      {
+        "name": "KHIH-DB Colorado Smooth Jazz HD",
+        "id": "1564783",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/9/9c8b/9c8b8b10-c641-414f-b4a5-b9bf25029779.png"
+      },
+      {
+        "name": "RadioExpatSA",
+        "id": "1795716",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7d42/7d4254ef-3aef-459f-a915-3ef32708eecb.png"
+      },
+      {
+        "name": "NEJX  smooth jazz and more!",
+        "id": "99409867",
+        "genre": "Jazz"
+      },
+      {
+        "name": "JAZZ TUNE RADIO",
+        "id": "1717726",
+        "genre": "Jazz"
+      },
+      {
+        "name": "FURFM3",
+        "id": "384777",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Smooth Jazz Global",
+        "id": "1691424",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/5/58d8/58d820a8-c14f-406e-a61d-101f2c633995.png"
+      },
+      {
+        "name": "Zappa Stream Radio",
+        "id": "2369878",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/201206071710054016.gif"
+      },
+      {
+        "name": "Likwid",
+        "id": "1000096",
+        "genre": "Acid Jazz"
+      },
+      {
+        "name": "Cruisenjazz/WPMJ/Therapy For Todays World",
+        "id": "1461666",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "CALM RADIO - LATIN JAZZ - Sampler",
+        "id": "1246893",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/3/3743/3743ba63-a12f-4593-86a9-44fca4c9f134.jpg"
+      },
+      {
+        "name": "SMOOTH URBAN JAZZ CAF?????",
+        "id": "1855739",
+        "genre": "Jazz"
+      },
+      {
+        "name": "http://myradiostream.com/radiowishfm",
+        "id": "99456764",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "Smooth Jazz California",
+        "id": "1793277",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/"
+      },
+      {
+        "name": "1.FM - Adore Jazz",
+        "id": "1735270",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/e/ec7f/ec7fc7c7-5d3f-4ccd-8866-2344bf6e2d4c.jpg"
+      },
+      {
+        "name": ":: Allegro Radio - Musica con Altura | Valdivia, Chile --- Powered by [Denialhost.com] ::",
+        "id": "1162018",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "ADR 205 Jazz Lab",
+        "id": "518708",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/0/02a7/02a7b0c0-2c29-4e16-9835-5a18a67444d4.png"
+      },
+      {
+        "name": "Snug Harbor Radio",
+        "id": "1840469",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Melodies Web Radio Athens",
+        "id": "99446621",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "sopocki | the seasight radio",
+        "id": "1325798",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/0/0131/013162b7-64c1-45fe-a17d-020d7f09aeb3.png"
+      },
+      {
+        "name": "Jazz Juice Radio",
+        "id": "95739",
+        "genre": "Jazz"
+      },
+      {
+        "name": "RadioNOS Jazz Channel - RadioNOS",
+        "id": "1284663",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/d/de15/de15905b-0b4b-46f1-a006-8abae75dd049.png"
+      },
+      {
+        "name": "1940s Radio GB aacPlus",
+        "id": "1611653",
+        "genre": "Swing",
+        "logo": "http://i.radionomy.com/document/radios/c/c208/c208d2a1-0787-48ce-ac85-92e429df049d.jpg"
+      },
+      {
+        "name": ":: Allegro Radio - Musica con Altura | Valdivia, Chile --- Powered by [Denialhost.com] ::",
+        "id": "1431175",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "Smooth Jazz Tampa",
+        "id": "1233667",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/e/e776/e7763bf1-7b30-42df-a142-3ca8bf80b8e0.jpg"
+      },
+      {
+        "name": "Radio Guitar Two",
+        "id": "1772816",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/5/5a5e/5a5e28dd-e9f1-4147-a22f-6495b310810c.jpg"
+      },
+      {
+        "name": "Stl Smooth Jazz",
+        "id": "1801500",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/6/6197/6197ae63-8421-4e27-8f34-ab0d7ada747e.jpg"
+      },
+      {
+        "name": "KHIH-DB  Colorado Smooth Jazz",
+        "id": "1594155",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/2d36/2d36d94b-fb00-4311-aba9-264202a97cf6.png"
+      },
+      {
+        "name": "American Online Radio",
+        "id": "1156909",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Smooth Jazz Oasis",
+        "id": "1741120",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/8/83ec/83ec426c-0cf8-4ceb-a494-64133a551a9a.png"
+      },
+      {
+        "name": "Szpila Radio - Jazz&Chillout",
+        "id": "1011791",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Tripping Tree Radio",
+        "id": "1690472",
+        "genre": "World Fusion"
+      },
+      {
+        "name": "Loungemain Jazz-Chill-Funk",
+        "id": "324982",
+        "genre": "Acid Jazz"
+      },
+      {
+        "name": "Chroma Smooth Jazz",
+        "id": "1802922",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/8/89be/89be1a49-9ced-4bca-93d5-0af27707f31d.png"
+      },
+      {
+        "name": "JazzKeyn",
+        "id": "233693",
+        "genre": "Swing"
+      },
+      {
+        "name": "KMJX 89.5 FM",
+        "id": "1798132",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "Just Jazz",
+        "id": "1496089",
+        "genre": "Jazz"
+      },
+      {
+        "name": "917XFM Indie Weihnachten",
+        "id": "1813658",
+        "genre": "Jazz"
+      },
+      {
+        "name": "FURFM2",
+        "id": "178114",
+        "genre": "Jazz"
+      },
+      {
+        "name": "917XFM Indie Weihnachten",
+        "id": "1775090",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Jazzy B's Smooth Jazz",
+        "id": "576895",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "Smooth Jazz Tampa Mobile 64K",
+        "id": "1274501",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/3/38dd/38dd0801-1b30-46ea-8427-2f7f865b3b3e.jpg"
+      },
+      {
+        "name": "ITU Radio Jazz/Blues",
+        "id": "1403317",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Smooth Jazz CROOZE -  a perfect mix of the smoothest and the best Smooth Jazz music in the world!",
+        "id": "1545665",
+        "genre": "Acid Jazz"
+      },
+      {
+        "name": "WHJZDB.NET",
+        "id": "1565158",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "The Source: Smooth Jazz Radio - KJAC.DB",
+        "id": "1392381",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/3/3a55/3a55ed12-eb8f-4138-b89a-90c4723146eb.jpg"
+      },
+      {
+        "name": "Jazz &amp; Blues Music",
+        "id": "1682712",
+        "genre": "Classic Jazz"
+      },
+      {
+        "name": "A1 Smooth Jazz",
+        "id": "1764138",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/d/d5a0/d5a0c0d1-7020-407d-818b-e10ab4bb82c7.png"
+      },
+      {
+        "name": "Fred Hall&#039;s Swing Thing",
+        "id": "1682226",
+        "genre": "Swing"
+      },
+      {
+        "name": "Freies Radio Kassel e.V.",
+        "id": "1808469",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/2d35/2d353f7d-538f-4712-90c5-0b8566f70203.jpg"
+      },
+      {
+        "name": "WFPR-FM",
+        "id": "1646711",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/9/98de/98de85e0-48ab-48de-b274-aa3293f5ae91.jpg"
+      },
+      {
+        "name": "Radio Eclipse Net 1 Bossa Nova and Jazz  Chile",
+        "id": "1506449",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Chroma Laiko",
+        "id": "1758870",
+        "genre": "Ethnic Fusion",
+        "logo": "http://i.radionomy.com/document/radios/0/0ba3/0ba347a4-bb8f-477f-8cf6-68fbf0f41551.png"
+      },
+      {
+        "name": "Star People",
+        "id": "1577638",
+        "genre": "Acid Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/2e85/2e85e8fb-64ab-44a0-a7b0-b88e51f75a5d.jpg"
+      },
+      {
+        "name": "Smooth Jazz The Oasis",
+        "id": "1715692",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/c/c16f/c16fef5f-b9ae-4364-b572-13d6eb16e4e0.png"
+      },
+      {
+        "name": "Cool Jazz 100",
+        "id": "1628666",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Article Radio",
+        "id": "1742105",
+        "genre": "Jazz"
+      },
+      {
+        "name": "WUCF",
+        "id": "1741254",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Radio A&A Italia - Italian and International Jazz Music",
+        "id": "1697359",
+        "genre": "Jazz"
+      },
+      {
+        "name": "JMA / Jazz",
+        "id": "1644184",
+        "genre": "Jazz"
+      },
+      {
+        "name": "A1A Jazz Cafe",
+        "id": "1835783",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/1/1e4c/1e4c3e93-eba8-4b9d-95ea-44578f488196.png"
+      },
+      {
+        "name": "sopocki | the seasight radio",
+        "id": "1457231",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/0/0131/013162b7-64c1-45fe-a17d-020d7f09aeb3.png"
+      },
+      {
+        "name": "Smooth Jazz - Tampa Bay (64K)",
+        "id": "916324",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/4/498e/498eeeca-f939-4d18-9b65-e4b67534a220.jpg"
+      },
+      {
+        "name": "Star People",
+        "id": "1519975",
+        "genre": "Acid Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/2e85/2e85e8fb-64ab-44a0-a7b0-b88e51f75a5d.jpg"
+      },
+      {
+        "name": "sopocki | the seasight radio",
+        "id": "1394028",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/0/0131/013162b7-64c1-45fe-a17d-020d7f09aeb3.png"
+      },
+      {
+        "name": "The Coast",
+        "id": "1518004",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/4/41ec/41ec420c-9038-48d0-9788-f3d47c287a35.png"
+      },
+      {
+        "name": "PVPJazz - Before The Music Dies",
+        "id": "1650658",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Star People",
+        "id": "1427443",
+        "genre": "Acid Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/2e85/2e85e8fb-64ab-44a0-a7b0-b88e51f75a5d.jpg"
+      },
+      {
+        "name": "E.FM Radio Jazz",
+        "id": "1307400",
+        "genre": "Smooth Jazz"
+      },
+      {
+        "name": "Smooth Jazz IO",
+        "id": "1255178",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/1/1b0d/1b0db0c7-5d10-4634-9c1f-dae51f473ab2.png"
+      },
+      {
+        "name": "Smooth Jazz Oasis HD",
+        "id": "1289257",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/4/4f09/4f0974e3-940a-46fa-af2b-98f78f19ac18.png"
+      },
+      {
+        "name": "Smooth Wave Worldwide",
+        "id": "1594713",
+        "genre": "Smooth Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/9/9a9e/9a9e2ad5-2b14-4a24-ae93-481c36d33937.png"
+      },
+      {
+        "name": "RadioLaVozDeOccidente",
+        "id": "1802073",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/5/56e8/56e8bca7-1e4d-47d5-b8f4-61c5e36e7219.png"
+      },
+      {
+        "name": "Champagne Smooth Jazz",
+        "id": "1674844",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/7/7621/76217338-7c88-4529-9622-49c94a7cfd12.png"
+      },
+      {
+        "name": "90.7 KFSR",
+        "id": "99466595",
+        "genre": "Jazz"
+      },
+      {
+        "name": "la Télécoute",
+        "id": "99461993",
+        "genre": "Avant Garde"
+      },
+      {
+        "name": "JazzRadio (MRG.fm)",
+        "id": "363143",
+        "genre": "Jazz",
+        "logo": "https://i3.radionomy.com/radios/200/3/368d/368d59f8-cad7-422a-8b5b-ae41b4cf1c52.jpg"
+      },
+      {
+        "name": "Love Jazz Florida HD",
+        "id": "1750663",
+        "genre": "Smooth Jazz",
+        "logo": "http://i.radionomy.com/document/radios/3/3533/35331d4e-3fec-4fd3-aff4-50ff49aca542.png"
+      },
+      {
+        "name": "Cool Jazz FLA",
+        "id": "1593505",
+        "genre": "Acid Jazz",
+        "logo": "http://i.radionomy.com/document/radios/1/1348/13483504-8775-4c1e-9371-bd512ede058b.png"
+      },
+      {
+        "name": "Event Horizon Internet Radio",
+        "id": "293026",
+        "genre": "Avant Garde"
+      },
+      {
+        "name": "Jazba Radio",
+        "id": "1564585",
+        "genre": "Jazz"
+      },
+      {
+        "name": "SONGCAST RADIO - Jazz",
+        "id": "1619389",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/9/9fb8/9fb8f754-2fd3-43d0-a74f-e59d0cd0cc7a.png"
+      },
+      {
+        "name": "Star People",
+        "id": "1492716",
+        "genre": "Acid Jazz",
+        "logo": "http://i.radionomy.com/document/radios/2/2e85/2e85e8fb-64ab-44a0-a7b0-b88e51f75a5d.jpg"
+      },
+      {
+        "name": "Radio Free Amsterdam 24/7",
+        "id": "1775101",
+        "genre": "Jazz"
+      },
+      {
+        "name": "Deleted 20019943",
+        "id": "480002",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/documents/radio/e30d917c691441fabb81a8aae9cf3267_635284360359132230.s125.png"
+      },
+      {
+        "name": "Pernille Music",
+        "id": "99322370",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/3/3705/37056165-6e7e-4b0b-b67c-45f01865ae95.jpg"
+      },
+      {
+        "name": "WMJR",
+        "id": "99264258",
+        "genre": "Classic Jazz",
+        "logo": "http://i.radionomy.com/document/radios/0/055c/055c1a5c-90a8-4ed2-b336-57a4ce23a562.jpg"
+      },
+      {
+        "name": "whateveryup",
+        "id": "99277826",
+        "genre": "Jazz",
+        "logo": "http://i.radionomy.com/document/radios/b/b2a0/b2a03c78-696e-4b47-81be-2bb1858d1c76.png"
+      },
+      {
+        "name": "ironicl3's radio",
+        "id": "99291651",
+        "genre": "Fusion",
+        "logo": "http://i.radionomy.com/document/radios/2/2b60/2b60643a-241a-4c51-af17-fa1d90a24d0d.png"
+      },
+      {
+        "name": "billionaires surabaya",
+        "id": "99230467",
+        "genre": "Swing",
+        "logo": "http://i.radionomy.com/document/radios/f/f847/f8476bbe-e428-4d70-bea9-15ace85b2709.png"
+      }
+    ]
+  }
+}

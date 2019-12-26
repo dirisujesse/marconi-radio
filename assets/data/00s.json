@@ -1,0 +1,171 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "Hitradio OE3",
+        "id": "1826116",
+        "genre": "00s",
+        "logo": "https://i3.radionomy.com/radios/200/6/6f2c/6f2ca76b-4d1d-464d-a336-db0913fb5229.jpg"
+      },
+      {
+        "name": "PulsRadio 2000",
+        "id": "1233627",
+        "genre": "00s",
+        "logo": "http://i.radionomy.com/document/radios/7/7577/75771a9f-5bf5-467a-94ca-823d9dc11ae4.png"
+      },
+      {
+        "name": "artificial intelligence 2",
+        "id": "99414301",
+        "genre": "00s"
+      },
+      {
+        "name": ".113FM Pop2K USA",
+        "id": "1650777",
+        "genre": "00s"
+      },
+      {
+        "name": "artificial intelligence 3",
+        "id": "99414307",
+        "genre": "00s"
+      },
+      {
+        "name": "PulsRadio 2000",
+        "id": "1360907",
+        "genre": "00s",
+        "logo": "http://i.radionomy.com/document/radios/7/7577/75771a9f-5bf5-467a-94ca-823d9dc11ae4.png"
+      },
+      {
+        "name": "The Mix Radio Extra",
+        "id": "99445682",
+        "genre": "00s"
+      },
+      {
+        "name": "A_A 2000s",
+        "id": "1805012",
+        "genre": "00s"
+      },
+      {
+        "name": "A_A New Hits",
+        "id": "1040172",
+        "genre": "00s"
+      },
+      {
+        "name": "radio test 25",
+        "id": "99430663",
+        "genre": "00s"
+      },
+      {
+        "name": "Static.Original Flavor",
+        "id": "99411727",
+        "genre": "00s"
+      },
+      {
+        "name": "Passport Radio",
+        "id": "99429397",
+        "genre": "00s"
+      },
+      {
+        "name": "ALTR Radio",
+        "id": "99411484",
+        "genre": "00s"
+      },
+      {
+        "name": "its a me man",
+        "id": "99440417",
+        "genre": "00s"
+      },
+      {
+        "name": "Playlist Test Apps",
+        "id": "99446852",
+        "genre": "00s"
+      },
+      {
+        "name": "kkinzona3",
+        "id": "99409741",
+        "genre": "00s"
+      },
+      {
+        "name": "Digital Beats Media",
+        "id": "1738852",
+        "genre": "00s"
+      },
+      {
+        "name": "Owl Radio at KSU",
+        "id": "1793896",
+        "genre": "00s"
+      },
+      {
+        "name": "Digital Beats LIVE",
+        "id": "99425899",
+        "genre": "00s"
+      },
+      {
+        "name": "VoVTIS",
+        "id": "1850486",
+        "genre": "00s"
+      },
+      {
+        "name": "Akbar",
+        "id": "99429760",
+        "genre": "00s"
+      },
+      {
+        "name": "EKSPOHKU",
+        "id": "99425668",
+        "genre": "00s"
+      },
+      {
+        "name": "asd123321",
+        "id": "99426457",
+        "genre": "00s"
+      },
+      {
+        "name": "Hodstars Nigeria  Live",
+        "id": "99409315",
+        "genre": "00s"
+      },
+      {
+        "name": "VoVTest",
+        "id": "99430057",
+        "genre": "00s"
+      },
+      {
+        "name": "A .RADIO 00s JUICE",
+        "id": "303283",
+        "genre": "00s",
+        "logo": "http://i.radionomy.com/documents/radio/201205021526473586.s125.jpg"
+      },
+      {
+        "name": "RTFM-SC4B2019",
+        "id": "1747138",
+        "genre": "00s"
+      },
+      {
+        "name": "EOR Digital",
+        "id": "99421642",
+        "genre": "00s"
+      },
+      {
+        "name": "The Mix 00s",
+        "id": "805850",
+        "genre": "00s",
+        "logo": "http://i.radionomy.com/documents/radio/c8a881a0-cb01-4838-b775-3d4c61e14ed5.s165.jpg"
+      },
+      {
+        "name": "WALLYradio                          HITS",
+        "id": "99412783",
+        "genre": "00s"
+      },
+      {
+        "name": "Hot Radio Station",
+        "id": "99441617",
+        "genre": "00s"
+      }
+    ]
+  }
+}
