@@ -10,9 +10,9 @@ import 'package:marconi_radio/styles/theme.dart';
 import 'package:marconi_radio/pages/home.dart';
 
 void main() {
-  SystemChrome.setPreferredOrientations(
-      [DeviceOrientation.portraitDown, DeviceOrientation.portraitUp]);
-      runApp(MyApp());
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+  runApp(new MyApp());
 }
 
 class MyApp extends StatelessWidget {

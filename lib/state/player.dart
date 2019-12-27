@@ -51,7 +51,7 @@ class PlayerState extends ChangeNotifier {
     if (data is String && data.length > 0) {
       player.play(data);
       isPlaying = true;
-      await MediaNotification.showNotification(title: val.name, author: val.genre);
+      MediaNotification.showNotification(title: val.name, author: val.genre);
       notifyListeners();
     } else {
       return;
@@ -66,33 +66,45 @@ class PlayerState extends ChangeNotifier {
 
   playPrev({Station val}) {
     final List<dynamic> stationList = stations ?? [];
-    final idx = stationList.indexOf(
-      stationList.firstWhere(
+    if (stationList.length > 0) {
+      final idx = stationList.indexWhere(
         (it) => it["id"] == val.id,
-      ),
-    );
-    if (stationList.length > 0 && idx != -1) {
-      play(
-        val: Station.fromJson(
-          stationList[idx == 0 ? stationList[stationList.length - 1] : idx - 1],
-        ),
       );
+      if (idx != -1) {
+        play(
+          val: Station.fromJson(
+            stationList[idx == 0 ? stationList.length - 1 : idx - 1],
+          ),
+        );
+      } else {
+        play(
+          val: Station.fromJson(
+            stationList[0],
+          ),
+        );
+      }
     }
   }
 
   playNext({Station val}) {
     final List<dynamic> stationList = stations ?? [];
-    final idx = stationList.indexOf(
-      stationList.firstWhere(
+    if (stationList.length > 0) {
+      final idx = stationList.indexWhere(
         (it) => it["id"] == val.id,
-      ),
-    );
-    if (stationList.length > 0 && idx != -1) {
-      play(
-        val: Station.fromJson(
-          stationList[idx == stationList.length - 1 ? 0 : idx + 1],
-        ),
       );
+      if (idx != -1) {
+        play(
+          val: Station.fromJson(
+            stationList[idx == stationList.length - 1 ? 0 : idx + 1],
+          ),
+        );
+      } else {
+        play(
+          val: Station.fromJson(
+            stationList[0],
+          ),
+        );
+      }
     }
   }
 }

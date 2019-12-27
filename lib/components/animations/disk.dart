@@ -15,19 +15,19 @@ class AppDisk extends StatefulWidget {
 }
 
 class _AppDiskState extends State<AppDisk> with SingleTickerProviderStateMixin {
-  @override
-  void dispose() {
-    super.dispose();
-    widget.ctrl.dispose();
-  }
+  // @override
+  // void dispose() {
+  //   super.dispose();
+  //   widget.ctrl.dispose();
+  // }
 
   @override
   Widget build(BuildContext context) {
     return RotationTransition(
       turns: widget.ctrl,
       child: Container(
-        width: 300,
-        height: 300,
+        width: 200,
+        height: 200,
         decoration: BoxDecoration(
           shape: BoxShape.circle,
           gradient: LinearGradient(
