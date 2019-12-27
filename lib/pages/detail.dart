@@ -2,6 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:marconi_radio/components/animations/disk.dart';
+import 'package:marconi_radio/components/typography/app_header.dart';
 import 'package:marconi_radio/components/typography/app_txt.dart';
 import 'package:marconi_radio/state/player.dart';
 import 'package:marconi_radio/styles/colors.dart';
@@ -33,8 +34,8 @@ class _DetailPageState extends State<DetailPage>
 
   @override
   void dispose() {
-    super.dispose();
     _ctrl.dispose();
+    super.dispose();
   }
 
   @override
@@ -59,6 +60,7 @@ class _DetailPageState extends State<DetailPage>
                 filter: ImageFilter.blur(sigmaX: 10.0, sigmaY: 10.0),
                 child: SafeArea(
                   child: Container(
+                    padding: EdgeInsets.all(20),
                     decoration:
                         new BoxDecoration(color: appBlack.withOpacity(0.5)),
                     child: Column(
@@ -71,25 +73,26 @@ class _DetailPageState extends State<DetailPage>
                             mainAxisAlignment: MainAxisAlignment.start,
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: <Widget>[
-                              BodyText(
+                              HeaderText(
                                 val.selectedStation.name,
                                 maxLines: 2,
                                 color: appWhite,
                                 fontWeight: FontWeight.bold,
-                                fontSize: 15,
                                 alignment: TextAlign.center,
                               ),
                               BodyText(
                                 val.selectedStation.genre,
                                 maxLines: 2,
                                 color: appWhite,
-                                fontSize: 10,
+                                fontSize: 15,
                                 alignment: TextAlign.center,
                               ),
                             ],
                           ),
                         ),
+                        // Expanded(
                         AppDisk(val.selectedStation, _ctrl),
+                        // ),
                         Container(
                           alignment: Alignment.center,
                           constraints: BoxConstraints(

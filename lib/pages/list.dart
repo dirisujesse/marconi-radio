@@ -101,7 +101,6 @@ class _ListPageState extends State<ListPage> {
                 title: HeaderText(
                   widget.category.name,
                   color: appWhite,
-                  fontSize: 20,
                 ),
                 // centerTitle: true,
                 background: Hero(

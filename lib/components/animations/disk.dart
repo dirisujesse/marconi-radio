@@ -23,11 +23,15 @@ class _AppDiskState extends State<AppDisk> with SingleTickerProviderStateMixin {
 
   @override
   Widget build(BuildContext context) {
+    final x = MediaQuery.of(context).size.width;
+    final w = x <= 100 ? 50 : x <= 200 ? 100 : x <= 300 ? 150 : x <= 400 ? 200.0 : x <= 600 ? 300.0 : 400.0; 
     return RotationTransition(
       turns: widget.ctrl,
       child: Container(
-        width: 200,
-        height: 200,
+        alignment: Alignment.center,
+        width: w,
+        height: w,
+        constraints: BoxConstraints(minHeight: w, maxWidth: w, maxHeight: w, minWidth: w),
         decoration: BoxDecoration(
           shape: BoxShape.circle,
           gradient: LinearGradient(

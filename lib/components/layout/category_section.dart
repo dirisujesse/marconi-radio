@@ -64,7 +64,6 @@ class AppSection extends StatelessWidget {
                               child: HeaderText(
                                 data[idx].name,
                                 fontWeight: FontWeight.bold,
-                                fontSize: 25,
                                 color: appWhite,
                                 alignment: TextAlign.center,
                               ),
