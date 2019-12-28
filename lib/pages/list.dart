@@ -55,7 +55,7 @@ class _ListPageState extends State<ListPage> {
                 onTap: () => Navigator.of(context).pushNamed('/detail'),
                 leading: Image.network(
                   data?.selectedStation?.logo ??
-                      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_jOaO2EBV-jBMOEdkGp8NtQIY8UakejJhbGnZH7_MHy49XFgXhQ&s',
+                      'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',
                   width: 50,
                   height: 100,
                   alignment: Alignment.center,
@@ -149,7 +149,7 @@ class _ListPageState extends State<ListPage> {
                       backgroundColor: Colors.black,
                       backgroundImage: NetworkImage(
                         station?.logo ??
-                            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_jOaO2EBV-jBMOEdkGp8NtQIY8UakejJhbGnZH7_MHy49XFgXhQ&s',
+                            'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',
                       ),
                     ),
                     title: BodyText(

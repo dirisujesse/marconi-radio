@@ -9,12 +9,14 @@ class HeaderText extends StatelessWidget {
   final double fontSize;
   final int maxLines;
 
-  HeaderText(this.text,
-      {this.color = appBlack,
-      this.alignment = TextAlign.start,
-      this.fontWeight = FontWeight.bold,
-      this.fontSize = 25.0,
-      this.maxLines});
+  HeaderText(
+    this.text, {
+    this.color = appBlack,
+    this.alignment = TextAlign.start,
+    this.fontWeight = FontWeight.bold,
+    this.fontSize = 25.0,
+    this.maxLines,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -22,10 +24,11 @@ class HeaderText extends StatelessWidget {
       text,
       overflow: TextOverflow.ellipsis,
       textAlign: alignment,
-      style: Theme.of(context)
-          .textTheme
-          .headline
-          .copyWith(color: color, fontWeight: fontWeight, fontSize: fontSize, fontFamily: 'Italiana'),
+      style: Theme.of(context).textTheme.headline.copyWith(
+          color: color,
+          fontWeight: fontWeight,
+          fontSize: fontSize,
+          fontFamily: 'Italiana'),
     );
   }
 }

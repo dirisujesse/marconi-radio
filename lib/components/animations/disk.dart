@@ -42,7 +42,7 @@ class _AppDiskState extends State<AppDisk> with SingleTickerProviderStateMixin {
           ),
           image: DecorationImage(
             image: NetworkImage(widget.track.logo ??
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_jOaO2EBV-jBMOEdkGp8NtQIY8UakejJhbGnZH7_MHy49XFgXhQ&s'),
+                'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',),
             alignment: AlignmentDirectional.center,
             fit: BoxFit.cover,
           ),
@@ -63,7 +63,7 @@ class _AppDiskState extends State<AppDisk> with SingleTickerProviderStateMixin {
                   shape: BoxShape.circle,
                   image: DecorationImage(
                     image: NetworkImage(widget.track.logo ??
-                        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_jOaO2EBV-jBMOEdkGp8NtQIY8UakejJhbGnZH7_MHy49XFgXhQ&s'),
+                        'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',),
                     alignment: AlignmentDirectional.center,
                     fit: BoxFit.fill,
                   ),
