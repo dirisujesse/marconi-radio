@@ -1,0 +1,53 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "Mega1050 40s",
+        "mt": "audio/mpeg",
+        "id": "99463193",
+        "br": "128",
+        "genre": "40s",
+        "ct": "The Fontane Sisters/Perry Como feat. v - N'yot N'yow (The Pussycat Song)",
+        "lc": "2"
+      },
+      {
+        "name": "Radio Selva",
+        "mt": "audio/mpeg",
+        "id": "1748013",
+        "br": "32",
+        "genre": "40s",
+        "lc": "0"
+      },
+      {
+        "name": "Jacksontelaviv",
+        "mt": "audio/mpeg",
+        "id": "99430033",
+        "br": "128",
+        "genre": "40s",
+        "lc": "0"
+      },
+      {
+        "name": "RADIO LABERINTO 92.1",
+        "mt": "audio/mpeg",
+        "id": "1800695",
+        "br": "48",
+        "genre": "40s",
+        "lc": "0"
+      },
+      {
+        "name": "Radio Kamek - Pilihan Muzik Terhebat",
+        "mt": "audio/mpeg",
+        "id": "1884749",
+        "br": "32",
+        "genre": "40s",
+        "ct": "BAND POCKET - KU TERIMA KAU APA ADANYA",
+        "lc": "0"
+      }
+    ]
+  }
+}

@@ -2,6 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:marconi_radio/components/animations/disk.dart';
+import 'package:marconi_radio/components/state/app_spinner.dart';
 import 'package:marconi_radio/components/typography/app_header.dart';
 import 'package:marconi_radio/components/typography/app_txt.dart';
 import 'package:marconi_radio/state/player.dart';
@@ -30,6 +31,9 @@ class _DetailPageState extends State<DetailPage>
       duration: Duration(seconds: 30),
       vsync: this,
     )..repeat();
+    if (!PlayerState.instance.isPlaying) {
+      _ctrl.stop();
+    }
   }
 
   @override
@@ -120,13 +124,15 @@ class _DetailPageState extends State<DetailPage>
                               },
                             ),
                             GestureDetector(
-                              child: Icon(
-                                !val.isPlaying
-                                    ? Icons.play_circle_filled
-                                    : Icons.pause_circle_filled,
-                                color: appBlack,
-                                size: 50,
-                              ),
+                              child: val.isLoading
+                                  ? const AppSpinner()
+                                  : Icon(
+                                      !val.isPlaying
+                                          ? Icons.play_circle_filled
+                                          : Icons.pause_circle_filled,
+                                      color: appBlack,
+                                      size: 50,
+                                    ),
                               onTap: () {
                                 if (val.isPlaying) {
                                   _ctrl.stop();

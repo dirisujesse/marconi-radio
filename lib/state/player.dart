@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:marconi_radio/services/http.dart';
 import 'package:marconi_radio/services/channels.dart';
@@ -9,7 +11,9 @@ class PlayerState extends ChangeNotifier {
   NativeCaller player = NativeCaller.getInstance();
   Station selectedStation;
   bool isPlaying = false;
+  bool isLoading = false;
   List<dynamic> stations = [];
+  Timer _dormant;
   static PlayerState instance;
 
   PlayerState() {
@@ -45,6 +49,11 @@ class PlayerState extends ChangeNotifier {
       isPlaying = false;
       notifyListeners();
     }
+    if (_dormant != null) {
+      _dormant.cancel();
+      _dormant = null;
+    }
+    isLoading = true;
     selectedStation = val;
     notifyListeners();
     final dynamic data = await HttpService.getStream(val.id ?? '2345');
@@ -52,8 +61,11 @@ class PlayerState extends ChangeNotifier {
       player.play(data);
       isPlaying = true;
       MediaNotification.showNotification(title: val.name, author: val.genre);
+      isLoading = false;
       notifyListeners();
     } else {
+      isLoading = false;
+      notifyListeners();
       return;
     }
   }
@@ -62,6 +74,11 @@ class PlayerState extends ChangeNotifier {
     player.pause();
     isPlaying = false;
     notifyListeners();
+    _dormant = Timer(Duration(seconds: 10), () {
+      selectedStation = null;
+      MediaNotification.hideNotification();
+      notifyListeners();
+    });
   }
 
   playPrev({Station val}) {

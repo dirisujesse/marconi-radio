@@ -1,0 +1,1953 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "Radio Taraf ROMANIA - www.RadioTaraf.ro",
+        "mt": "audio/mpeg",
+        "id": "1751705",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "logo": "http://i.radionomy.com/document/radios/b/b07a/b07a5380-6b37-42fa-8419-47da08fcbafd.png",
+        "lc": "491"
+      },
+      {
+        "name": "Italian Graffiati - Musica anni 60 e 70 - Italy Italia",
+        "mt": "audio/mpeg",
+        "id": "672747",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/a/ae91/ae91890e-a33d-4373-9d4c-cce04540ea8b.gif",
+        "ct": "Pupo - Gelato Al Cioccolato",
+        "lc": "204"
+      },
+      {
+        "name": "Radio1 GOLDEN 60s",
+        "mt": "audio/mpeg",
+        "id": "1452464",
+        "br": "128",
+        "genre": "60s",
+        "ct": "The Beatles - Ticket To Ride",
+        "lc": "58"
+      },
+      {
+        "name": "Yesterday-Radio",
+        "mt": "audio/mpeg",
+        "id": "1843045",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "logo": "http://i.radionomy.com/document/radios/0/0d8a/0d8a3b50-3e9a-45fc-8880-21875e3ac8e7.jpg",
+        "ct": "WALTER MURPHY & THE BIG APPLE BAND - A Fifth Of Beethoven",
+        "lc": "51"
+      },
+      {
+        "name": "Gaveromroep Deerlijk",
+        "mt": "audio/mpeg",
+        "id": "965607",
+        "br": "192",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/c/c54e/c54ec7e7-7e19-4249-9cc6-9da79df081fb.jpg",
+        "lc": "48"
+      },
+      {
+        "name": "Zoe FM",
+        "mt": "audio/aacp",
+        "id": "1871656",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/3/31e6/31e6b553-fce6-496d-8e49-a6dd9c46d4ad.png",
+        "lc": "46"
+      },
+      {
+        "name": "Tropical Fm de Birigui 90,7",
+        "mt": "audio/mpeg",
+        "id": "1776730",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Samba",
+        "genre4": "80s",
+        "genre5": "90s",
+        "logo": "http://i.radionomy.com/document/radios/7/7f82/7f8202f7-e953-44bd-80af-163e2755463f.png",
+        "lc": "46"
+      },
+      {
+        "name": "DeutschRadio - DER Schlagersender",
+        "mt": "audio/mpeg",
+        "id": "1679129",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "logo": "http://i.radionomy.com/document/radios/3/3fcd/3fcd88a7-50c2-4da9-97bd-7e0dedbf8d5d.gif",
+        "lc": "40"
+      },
+      {
+        "name": ".113FM Revolution",
+        "mt": "audio/mpeg",
+        "id": "1775093",
+        "br": "128",
+        "genre": "60s",
+        "lc": "32"
+      },
+      {
+        "name": "RADIO POPIZZ  (Pop-Hits)",
+        "mt": "audio/mpeg",
+        "id": "1780021",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Pop",
+        "genre5": "Comedy",
+        "logo": "http://i.radionomy.com/document/radios/7/792b/792b4375-5280-4e05-88c2-278237e2c4b4.jpg",
+        "lc": "25"
+      },
+      {
+        "name": "Beyond The Beat Generation",
+        "mt": "audio/mpeg",
+        "id": "546853",
+        "br": "128",
+        "genre": "60s",
+        "lc": "22"
+      },
+      {
+        "name": "Zoe Vintage",
+        "mt": "audio/mpeg",
+        "id": "1597405",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/0/0480/04809eba-71e8-49df-9c60-38ac2d56b0d7.png",
+        "lc": "21"
+      },
+      {
+        "name": "Radio Pallieter Lier",
+        "mt": "audio/mpeg",
+        "id": "1816902",
+        "br": "192",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "logo": "http://i.radionomy.com/document/radios/1/16d2/16d24794-e257-4ff8-8b6e-6e7b71997cb9.jpg",
+        "ct": "KC and The Sunshine Band - Come To My Island",
+        "lc": "17"
+      },
+      {
+        "name": "Radio0511",
+        "mt": "audio/mpeg",
+        "id": "1762897",
+        "br": "192",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Motown",
+        "genre4": "Oldies",
+        "genre5": "Soul",
+        "logo": "http://i.radionomy.com/document/radios/0/052a/052a20dd-faea-40be-8c4e-19dc74e17010.png",
+        "ct": "Dynamics - Ain't No Sun(Since You've Been Gone)",
+        "lc": "15"
+      },
+      {
+        "name": "Zoe Vintage",
+        "mt": "audio/mpeg",
+        "id": "1705498",
+        "br": "320",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/0/0480/04809eba-71e8-49df-9c60-38ac2d56b0d7.png",
+        "lc": "14"
+      },
+      {
+        "name": "A-Z 60s",
+        "mt": "audio/mpeg",
+        "id": "99415201",
+        "br": "128",
+        "genre": "60s",
+        "ct": "Jr. Walker & The All Stars - What Does It Take (To Win Your Love)",
+        "lc": "13"
+      },
+      {
+        "name": "Radio Studio Souto - Jovem Guarda",
+        "mt": "audio/aacp",
+        "id": "1659646",
+        "br": "64",
+        "genre": "60s",
+        "ct": "Rossine Pinto & Renato e Seus Blue Caps - Forde De Bigode",
+        "lc": "12"
+      },
+      {
+        "name": "CALM RADIO - ROCK EXPLOSION 1965 - 69 - Sampler",
+        "mt": "audio/mpeg",
+        "id": "1243757",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "Classic Rock",
+        "logo": "http://i.radionomy.com/document/radios/b/ba46/ba46a452-e707-4bca-bfa5-b8b2cf67e591.jpg",
+        "ct": "The Young Rascals - Groovin' - Groovin'",
+        "lc": "12"
+      },
+      {
+        "name": "107.3 HFM",
+        "mt": "audio/mpeg",
+        "id": "99436984",
+        "br": "128",
+        "genre": "60s",
+        "ct": "Skyhooks - Ego Is Not a Dirty Word",
+        "lc": "11"
+      },
+      {
+        "name": "Magic 60s Florida",
+        "mt": "audio/mpeg",
+        "id": "1327153",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/7/75d0/75d0d1e0-a877-4412-be7b-1471d0022ac7.png",
+        "ct": "Paul Revere and The Raiders - Hungry",
+        "lc": "10"
+      },
+      {
+        "name": "The Beatles",
+        "mt": "audio/mpeg",
+        "id": "1849882",
+        "br": "128",
+        "genre": "60s",
+        "logo": "https://i3.radionomy.com/radios/200/8/8f44/8f44370f-a4a1-4a7d-a627-538119443ca1.jpg",
+        "ct": "The Beatles - Teddy Boy (Savile Row)",
+        "lc": "9"
+      },
+      {
+        "name": "All 60s Radio",
+        "mt": "audio/mpeg",
+        "id": "99462860",
+        "br": "128",
+        "genre": "60s",
+        "ct": "The Everly Brothers - It's My Time",
+        "lc": "9"
+      },
+      {
+        "name": "Oldies Paradise 48k AAC Stereo Stream",
+        "mt": "audio/aacp",
+        "id": "1888550",
+        "br": "48",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Oldies",
+        "genre4": "80s",
+        "genre5": "Glam",
+        "logo": "http://i.radionomy.com/document/radios/6/6ef7/6ef74be2-299e-4dc2-87a8-71f8b68ade63.jpg",
+        "lc": "8"
+      },
+      {
+        "name": "WHYL Carlisle, PA",
+        "mt": "audio/mpeg",
+        "id": "1472177",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/d/d86a/d86a3e73-9168-4c9e-b270-603e9f066fd8.gif",
+        "lc": "8"
+      },
+      {
+        "name": "RTI - Radio Total International",
+        "mt": "audio/mpeg",
+        "id": "99463358",
+        "br": "128",
+        "genre": "60s",
+        "ct": "The Beatles - Carry That Weight (2019 Mix)",
+        "lc": "8"
+      },
+      {
+        "name": "Radyo Gencebay",
+        "mt": "audio/mpeg",
+        "id": "1777222",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "90s",
+        "genre5": "Pop",
+        "logo": "http://i.radionomy.com/document/radios/c/ce83/ce838e04-57e1-4210-ab58-04ec3977c205.jpg",
+        "lc": "7"
+      },
+      {
+        "name": "Radio Charivari 2 - Rosenheims Oldiesender",
+        "mt": "audio/mpeg",
+        "id": "1729980",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "logo": "http://i.radionomy.com/document/radios/9/9255/9255eb4e-ec5f-4281-97f0-b8df1de8aa84.jpg",
+        "lc": "7"
+      },
+      {
+        "name": "The Time Machine - Classic Hits",
+        "mt": "audio/mpeg",
+        "id": "1574354",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Oldies",
+        "genre5": "Pop",
+        "logo": "http://i.radionomy.com/document/radios/0/09ed/09edeec2-9b1b-4977-81cf-537f19d94a69.jpg",
+        "lc": "7"
+      },
+      {
+        "name": "4 Decades Radio",
+        "mt": "audio/mpeg",
+        "id": "1765879",
+        "br": "192",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/8/8c5d/8c5da990-f411-469a-b530-584ffb2a95c0.png",
+        "ct": "The Babys - Isn't It Time",
+        "lc": "7"
+      },
+      {
+        "name": "All Request Show",
+        "mt": "audio/mpeg",
+        "id": "918030",
+        "br": "128",
+        "genre": "60s",
+        "lc": "6"
+      },
+      {
+        "name": "WHWR",
+        "mt": "audio/mpeg",
+        "id": "1801284",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Oldies",
+        "genre5": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/4/4b02/4b0255a6-3259-484c-851d-2fe05d27cc43.png",
+        "ct": "Whispers - Rock Steady",
+        "lc": "6"
+      },
+      {
+        "name": "DeutschRadio - DER Schlagersender",
+        "mt": "audio/mpeg",
+        "id": "1680251",
+        "br": "64",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "logo": "http://i.radionomy.com/document/radios/3/3fcd/3fcd88a7-50c2-4da9-97bd-7e0dedbf8d5d.gif",
+        "lc": "6"
+      },
+      {
+        "name": "A_A 60s",
+        "mt": "audio/mpeg",
+        "id": "1727018",
+        "br": "128",
+        "genre": "60s",
+        "ct": "Elvis Presley - Lonesome Cowboy - 02:47",
+        "lc": "5"
+      },
+      {
+        "name": "Vinyl Voyage Radio",
+        "mt": "audio/mpeg",
+        "id": "1499044",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Oldies",
+        "genre5": "Pop",
+        "logo": "http://i.radionomy.com/document/radios/6/6803/68030f60-9d39-4bd8-8e8e-1e0e560adeb9.jpg",
+        "lc": "5"
+      },
+      {
+        "name": "Zoe FM",
+        "mt": "audio/aacp",
+        "id": "1782808",
+        "br": "32",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/3/31e6/31e6b553-fce6-496d-8e49-a6dd9c46d4ad.png",
+        "lc": "4"
+      },
+      {
+        "name": "60sRadio (MRG.fm)",
+        "mt": "audio/mpeg",
+        "id": "1310450",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "Oldies",
+        "genre3": "Americana",
+        "logo": "https://i3.radionomy.com/radios/200/9/9555/95551e6a-fcb8-4859-8188-5496d2972e3a.jpg",
+        "ct": "Johnny Tillotson - Poetry In Motion",
+        "lc": "4"
+      },
+      {
+        "name": "WDON 60s Classics Oldies @ wdon.org 128kbit",
+        "mt": "audio/mpeg",
+        "id": "784146",
+        "br": "128",
+        "genre": "60s",
+        "lc": "3"
+      },
+      {
+        "name": "60sRadio (MRG.fm)",
+        "mt": "audio/aacp",
+        "id": "1694896",
+        "br": "64",
+        "genre": "60s",
+        "genre2": "Oldies",
+        "genre3": "Americana",
+        "logo": "https://i3.radionomy.com/radios/200/9/9555/95551e6a-fcb8-4859-8188-5496d2972e3a.jpg",
+        "ct": "Bonzo Dog Doo - Dah Band-I'm The Urban Spaceman",
+        "lc": "3"
+      },
+      {
+        "name": "Disturbed Gamers Radio",
+        "mt": "audio/mpeg",
+        "id": "1371956",
+        "br": "192",
+        "genre": "60s",
+        "ct": "Metallica - Until It Sleeps",
+        "lc": "3"
+      },
+      {
+        "name": "Radio Fiesta FM",
+        "mt": "audio/mpeg",
+        "id": "1785970",
+        "br": "320",
+        "genre": "60s",
+        "genre2": "80s",
+        "genre3": "70s",
+        "genre4": "90s",
+        "genre5": "Top 40",
+        "logo": "http://i.radionomy.com/document/radios/2/2b1f/2b1f997b-887f-4ebb-bf07-8212f74e531f.png",
+        "ct": "The Rapsodie's - Jouw Eerste Schooldag",
+        "lc": "3"
+      },
+      {
+        "name": "VR2Show",
+        "mt": "audio/aacp",
+        "id": "1399348",
+        "br": "64",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "logo": "http://i.radionomy.com/document/radios/3/3655/3655daf4-4c3e-4cbd-a5bf-d8640f00d067.png",
+        "ct": "Eye of the Tiger - Survivor",
+        "lc": "2"
+      },
+      {
+        "name": "Zoe FM",
+        "mt": "audio/aacp",
+        "id": "1046152",
+        "br": "64",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/3/31e6/31e6b553-fce6-496d-8e49-a6dd9c46d4ad.png",
+        "lc": "2"
+      },
+      {
+        "name": "Vinyl Voyage Radio",
+        "mt": "audio/aacp",
+        "id": "1818096",
+        "br": "64",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "Oldies",
+        "genre5": "Pop",
+        "logo": "http://i.radionomy.com/document/radios/6/6803/68030f60-9d39-4bd8-8e8e-1e0e560adeb9.jpg",
+        "lc": "2"
+      },
+      {
+        "name": "Radio Northsea International Germany AAC",
+        "mt": "audio/aacp",
+        "id": "1666043",
+        "br": "32",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "logo": "http://i.radionomy.com/document/radios/0/00a8/00a886a9-6050-41c8-bf8f-1a38600e8e54.png",
+        "ct": "Wim van Egmond - Eenmaster",
+        "lc": "2"
+      },
+      {
+        "name": "CyberFM Icons",
+        "mt": "audio/mpeg",
+        "id": "99468812",
+        "br": "128",
+        "genre": "60s",
+        "ct": "Queen - Bohemian Rhapsody",
+        "lc": "2"
+      },
+      {
+        "name": "Magic Oldies South Florida",
+        "mt": "audio/mpeg",
+        "id": "1768579",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Oldies",
+        "genre4": "Motown",
+        "genre5": "Disco",
+        "logo": "http://i.radionomy.com/document/radios/7/7c33/7c331d80-b139-4c42-94c9-bab1f5d9f586.png",
+        "ct": "70_93 Pacific Gas and Electric - Are You Ready",
+        "lc": "2"
+      },
+      {
+        "name": "WKXY 930",
+        "mt": "audio/mpeg",
+        "id": "1478831",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "logo": "https://i3.radionomy.com/radios/200/6/6fd1/6fd156c7-2567-4d30-b685-2332033d36c7.png",
+        "ct": "The Turtles - Elenore",
+        "lc": "2"
+      },
+      {
+        "name": "Sudacas Radio",
+        "mt": "audio/mpeg",
+        "id": "1788126",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "90s",
+        "logo": "http://i.radionomy.com/document/radios/4/4376/4376184d-de65-48b0-b3e6-e4b59c74e10d.jpg",
+        "ct": "Natalie Cole - Pink Cadillac (Club Vocal)",
+        "lc": "2"
+      },
+      {
+        "name": "WDBF-lpFM",
+        "mt": "audio/mpeg",
+        "id": "1816805",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "Top 40",
+        "genre3": "Classic Rock",
+        "genre4": "Indie Rock",
+        "genre5": "Rock & Roll",
+        "logo": "http://i.radionomy.com/document/radios/d/de64/de64dda2-75fa-431e-968a-06dc5e9f1a46.jpg",
+        "ct": "X Ambassadors - Renegades - Single",
+        "lc": "2"
+      },
+      {
+        "name": "WDON 60s Classics Oldies @ wdon.org 64kbit",
+        "mt": "audio/aacp",
+        "id": "866788",
+        "br": "64",
+        "genre": "60s",
+        "lc": "1"
+      },
+      {
+        "name": "Zoe Vintage",
+        "mt": "audio/aacp",
+        "id": "1709455",
+        "br": "64",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/0/0480/04809eba-71e8-49df-9c60-38ac2d56b0d7.png",
+        "lc": "1"
+      },
+      {
+        "name": "Zoe Vintage",
+        "mt": "audio/aacp",
+        "id": "1692858",
+        "br": "16",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/0/0480/04809eba-71e8-49df-9c60-38ac2d56b0d7.png",
+        "lc": "1"
+      },
+      {
+        "name": "Classic Rock Audio",
+        "mt": "audio/mpeg",
+        "id": "1863512",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "70s",
+        "genre3": "80s",
+        "genre4": "90s",
+        "genre5": "Classic Rock",
+        "logo": "https://i3.radionomy.com/radios/200/3/39e3/39e3b45f-291e-4db1-9344-320dab7e8022.jpg",
+        "ct": "Eric Clapton - After midnight",
+        "lc": "1"
+      },
+      {
+        "name": "The VIP Lounge Oldies FunHouse",
+        "mt": "audio/mpeg",
+        "id": "1805149",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "Rock & Roll",
+        "genre3": "Swing",
+        "genre4": "Easy Listening",
+        "genre5": "Country",
+        "logo": "http://i.radionomy.com/document/radios/5/5862/58627aee-ff77-4837-ac91-0974a2c28a1f.gif",
+        "ct": "Jerry Vale - Eternally",
+        "lc": "1"
+      },
+      {
+        "name": "JamesDean.fm",
+        "mt": "audio/mpeg",
+        "id": "1500771",
+        "br": "256",
+        "genre": "60s",
+        "genre2": "Top 40",
+        "genre3": "Oldies",
+        "logo": "http://i.radionomy.com/document/radios/a/a533/a5337134-61d3-4ca9-8f90-7008442c817b.jpg",
+        "lc": "1"
+      },
+      {
+        "name": "Melodia Terceira Idade_2",
+        "mt": "audio/mpeg",
+        "id": "1683830",
+        "br": "48",
+        "genre": "60s",
+        "genre2": "70s",
+        "ct": "Aspecto_completo",
+        "lc": "1"
+      },
+      {
+        "name": "Retro Oldies Radio",
+        "mt": "audio/mpeg",
+        "id": "99458198",
+        "br": "128",
+        "genre": "60s",
+        "ct": "Eddy Arnold - Cool Water - (1962)",
+        "lc": "1"
+      },
+      {
+        "name": "60s Rewind",
+        "mt": "audio/mpeg",
+        "id": "99467708",
+        "br": "128",
+        "genre": "60s",
+        "ct": "Various - Downtown - Petula Clark",
+        "lc": "1"
+      },
+      {
+        "name": "FEEL THE NEED IN ME MUSIC",
+        "mt": "audio/mpeg",
+        "id": "99291138",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/7/78b3/78b39aec-6e0e-4b93-bf87-f97981ec0dc5.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "All Beatles Radio",
+        "mt": "audio/mpeg",
+        "id": "99300867",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/3/388b/388be9f4-1b95-49ca-8d33-bafcd2547d71.jpg",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "Radio Moontje",
+        "mt": "audio/mpeg",
+        "id": "99375364",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/0/0212/0212e227-f9be-4862-894e-f4213912c7d4.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Mix Chat zone MCZ",
+        "mt": "audio/mpeg",
+        "id": "99224581",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/5/57fd/57fd6737-94f8-4888-b74b-5961f91316a6.png",
+        "lc": "0"
+      },
+      {
+        "name": "KIMOA Radio Network",
+        "mt": "audio/mpeg",
+        "id": "99385861",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/5/5d4d/5d4d8957-c476-48a0-933a-a19ef952846c.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "LDF Radio",
+        "mt": "audio/mpeg",
+        "id": "99240454",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/1/19e9/19e9c0b7-5154-4f03-b162-881e9d35a64c.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Dee-Jay VASILIONAK",
+        "mt": "audio/mpeg",
+        "id": "99372808",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/0/0640/0640e1ea-f0d4-42ae-ab67-e11811423ce6.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "WHDG Santos Radio",
+        "mt": "audio/mpeg",
+        "id": "99253000",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/fe4f/fe4fa925-6ec2-41a9-b11c-4b3b8d599ab0.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Ballfox Radio NL",
+        "mt": "audio/mpeg",
+        "id": "99258376",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/a232/a232550b-1bad-4bee-a335-4be775d94223.png",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "Salamanca Radio Chile",
+        "mt": "audio/mpeg",
+        "id": "99327752",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/c85a/c85aeb79-ccd8-4a8f-a1f2-7b3edd44acfe.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Josh's Stereo Revolution",
+        "mt": "audio/mpeg",
+        "id": "99351560",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/b3f7/b3f79631-f1ff-4df6-97c1-8eb0995f243e.png",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "Bubs & Dudd",
+        "mt": "audio/mpeg",
+        "id": "99339017",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/bdd1/bdd1128a-4bc3-437d-8f61-4e3408c47c64.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "RadionomyAnda",
+        "mt": "audio/mpeg",
+        "id": "99369994",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/4/4f43/4f432be0-3880-4c2b-8017-a5578db4a5fd.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "hellenicradioperthaustralia",
+        "mt": "audio/mpeg",
+        "id": "99269130",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/f5a2/f5a25bca-1342-4fd0-bff0-05f48108c553.png",
+        "lc": "0"
+      },
+      {
+        "name": "Loxley Radio",
+        "mt": "audio/mpeg",
+        "id": "99233548",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/7/7b9e/7b9e87b9-9329-4d67-acd1-9b32559b0b26.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Radio Caroline 558",
+        "mt": "audio/mpeg",
+        "id": "99356429",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/813d/813d45c9-4909-4429-b99a-66548cef739b.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "SriLank Fm",
+        "mt": "audio/mpeg",
+        "id": "99326477",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/60ae/60ae8431-aae6-4dbe-9f7a-0272da47910a.png",
+        "lc": "0"
+      },
+      {
+        "name": "alphaponi",
+        "mt": "audio/mpeg",
+        "id": "99209741",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/a386/a386f874-4c91-4615-b269-5726c6b07998.png",
+        "lc": "0"
+      },
+      {
+        "name": "MvX.DJ.OvW",
+        "mt": "audio/mpeg",
+        "id": "99295248",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/f56d/f56d30bd-1491-4b86-822d-2b3d4e8b3256.png",
+        "lc": "0"
+      },
+      {
+        "name": "MUCHISIMA RADIO",
+        "mt": "audio/mpeg",
+        "id": "99361553",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/3/3b66/3b66240e-c9e4-4e8b-8140-47858fad3f0c.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "PlanetAon",
+        "mt": "audio/mpeg",
+        "id": "99378450",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/868b/868b7220-416d-434a-9e3a-d5e49215c0f2.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "unlimited",
+        "mt": "audio/mpeg",
+        "id": "99332882",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/882f/882f0e65-99d3-4756-be0d-0afc89c62946.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "TFM Radio",
+        "mt": "audio/mpeg",
+        "id": "99352082",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/7/775e/775e8275-360f-430e-a19f-9f57afc352b3.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Auf dem Lande",
+        "mt": "audio/mpeg",
+        "id": "99269907",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/cace/cace1114-3807-46d2-b698-0b7175cc0574.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Pobeda Lugansk 103.6 FM 64",
+        "mt": "audio/mpeg",
+        "id": "99278867",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/4/4c56/4c5656de-ad8b-4cbf-8da1-6b59996992dc.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Magnumfortyfour Oldies",
+        "mt": "audio/mpeg",
+        "id": "99285779",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/b4fe/b4feae63-1519-4b30-89cf-c5194282be54.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Uri Tamil FM",
+        "mt": "audio/mpeg",
+        "id": "99293973",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/0/09ea/09ea5dbf-4c4c-4eb3-8c5f-9c30a405a1c6.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "TUNESDJ Radio",
+        "mt": "audio/mpeg",
+        "id": "99300117",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/0/0dd5/0dd519c3-0690-4f87-bc5d-3348d5515832.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Pobeda Lugansk 103.6 FM 64",
+        "mt": "audio/mpeg",
+        "id": "99278870",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/4/4c56/4c5656de-ad8b-4cbf-8da1-6b59996992dc.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "momai company",
+        "mt": "audio/mpeg",
+        "id": "99370264",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/ab43/ab43aadd-789c-4ecc-975f-a47b2ce6bc3b.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Cocktail Music by DJ Kluayhom",
+        "mt": "audio/mpeg",
+        "id": "99382552",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/e/e7a4/e7a47614-47d9-4ffc-aeaf-8401f0302dc6.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "omroep moonlight",
+        "mt": "audio/mpeg",
+        "id": "99349784",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/c4c1/c4c1483c-a9ce-4432-8a24-00b91f2822a6.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "High School Days",
+        "mt": "audio/mpeg",
+        "id": "99225625",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/1/1f72/1f723c2e-59ea-4727-b730-908c2da357c7.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "AndaSuri",
+        "mt": "audio/mpeg",
+        "id": "99353882",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/7/7d87/7d871311-e370-40a1-a733-80e3c1608927.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "radio_monako",
+        "mt": "audio/mpeg",
+        "id": "99239194",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/4/4d4a/4d4af373-c58d-480c-b0fb-e0240860dc5d.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Agyaanom radio",
+        "mt": "audio/mpeg",
+        "id": "99317531",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/a094/a0940872-6898-4ef9-8560-39573c4151b5.png",
+        "lc": "0"
+      },
+      {
+        "name": "Care Radio",
+        "mt": "audio/mpeg",
+        "id": "99219483",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/f754/f754bf05-2172-4214-a566-94d26fb0e539.png",
+        "lc": "0"
+      },
+      {
+        "name": "THE WHISTELING SCOUT 102",
+        "mt": "audio/mpeg",
+        "id": "99298332",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/1/17bf/17bfec9a-4657-4082-a356-5d9440628430.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "alltrack radio",
+        "mt": "audio/mpeg",
+        "id": "99300636",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/cf86/cf866647-9467-4955-9f5b-64c6084e94df.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Radioo Luciano",
+        "mt": "audio/mpeg",
+        "id": "99370012",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/0/017c/017c7594-1d5d-4f25-b782-d78aa34aa87a.png",
+        "lc": "0"
+      },
+      {
+        "name": "MusicDrop",
+        "mt": "audio/mpeg",
+        "id": "99372828",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/8cd0/8cd0cd8d-37c1-4eb1-afb4-f1e970be6685.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "TGR",
+        "mt": "audio/mpeg",
+        "id": "99344156",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/60d5/60d55429-fc48-418c-899b-c13bb44ac627.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "WAXY",
+        "mt": "audio/mpeg",
+        "id": "99428638",
+        "br": "128",
+        "genre": "60s",
+        "lc": "0"
+      },
+      {
+        "name": "exitos del pasado",
+        "mt": "audio/mpeg",
+        "id": "99348254",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/9/9ebb/9ebb1884-6fe6-413c-a234-056905bc15cb.png",
+        "lc": "0"
+      },
+      {
+        "name": "Radio Fiesta RO",
+        "mt": "audio/mpeg",
+        "id": "99374880",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/bda5/bda51330-814b-43b0-9045-913125e2b325.png",
+        "lc": "0"
+      },
+      {
+        "name": "https://amstellandradio-nl.jimdo.com",
+        "mt": "audio/mpeg",
+        "id": "99325472",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/67ae/67ae5c19-0ab4-4d49-b98f-62d5a4167971.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "RADIO RC BRASIL",
+        "mt": "audio/mpeg",
+        "id": "99334688",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/e/e615/e6150a62-d358-4154-ade0-764d47c1e2b1.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "No tan distintos (usina musical)",
+        "mt": "audio/mpeg",
+        "id": "99220000",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/5/5c03/5c033b77-f72f-464a-8d62-d9e82d603308.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "radio ~dj-tommy~ fm",
+        "mt": "audio/mpeg",
+        "id": "99370786",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/7/78ce/78ce0af4-4ccf-4bed-ab47-55c670f5d1e6.gif",
+        "lc": "0"
+      },
+      {
+        "name": "radiosouvenirs-88",
+        "mt": "audio/mpeg",
+        "id": "99263010",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/d/db74/db744f1c-e65a-4c38-91fb-03a2975fdf41.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Retro Radio UK",
+        "mt": "audio/mpeg",
+        "id": "99335714",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/f491/f491264f-b90f-4fbe-b27f-a7aa360e4df9.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Four Season's Today",
+        "mt": "audio/mpeg",
+        "id": "99312163",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/ae2d/ae2db952-7e99-41f4-bb80-0cbb7ccdf6b1.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "onair59.6",
+        "mt": "audio/mpeg",
+        "id": "99278627",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6ba4/6ba43536-9520-46ca-988a-c0df712a7a25.png",
+        "lc": "0"
+      },
+      {
+        "name": "exellent1",
+        "mt": "audio/mpeg",
+        "id": "99345443",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/7/781d/781dc602-74e2-45f0-9134-fe0681598f18.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Dichterbijbeeldkracht",
+        "mt": "audio/mpeg",
+        "id": "99349283",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6ea3/6ea380d6-993e-44c1-82d1-f4ac23b3bc9e.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Music.101",
+        "mt": "audio/mpeg",
+        "id": "99345956",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/d/de1d/de1dc6e7-e1a3-4067-8cd7-e0ff531e3a05.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Ruza Station",
+        "mt": "audio/mpeg",
+        "id": "99230758",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/1/1453/14538b00-a760-443c-963f-7c8011fc5891.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "taws1838",
+        "mt": "audio/mpeg",
+        "id": "99365414",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/1/1951/1951d299-92eb-480c-8b85-e53a03616437.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Four Season's ESTT",
+        "mt": "audio/mpeg",
+        "id": "99312166",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a\\ae2d\\ae2db952-7e99-41f4-bb80-0cbb7ccdf6b1.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "onair59.6",
+        "mt": "audio/mpeg",
+        "id": "99278630",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6ba4/6ba43536-9520-46ca-988a-c0df712a7a25.png",
+        "lc": "0"
+      },
+      {
+        "name": "Robin's Jukebox.",
+        "mt": "audio/mpeg",
+        "id": "99350822",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/9/93f4/93f48c1a-08f6-4cc0-a7bd-2387f45bbacc.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "amiteinternetradio",
+        "mt": "audio/mpeg",
+        "id": "99357992",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/5/568e/568eaf8c-91b7-4f99-ac71-758203ef2181.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "HollywallRadio",
+        "mt": "audio/mpeg",
+        "id": "99274793",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/8fdf/8fdf51cc-166d-49cd-b277-caf0effc7b11.png",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "CruzinRadio",
+        "mt": "audio/mpeg",
+        "id": "99366698",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/e/e898/e8980a3d-062c-4b28-ae65-9c0ab7b8d2a7.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Rins Radio Broadcast",
+        "mt": "audio/mpeg",
+        "id": "99317546",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6d41/6d419029-846a-4230-9c2e-6886a88911f6.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Big R",
+        "mt": "audio/mpeg",
+        "id": "99264555",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/4/44c5/44c58feb-c0ee-48bb-ac4d-b6104feb8a96.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Coaster107",
+        "mt": "audio/mpeg",
+        "id": "99366956",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/2/2ef4/2ef4b778-c398-497b-9816-2507b0317412.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "HollywallRadio",
+        "mt": "audio/mpeg",
+        "id": "99274796",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/8fdf/8fdf51cc-166d-49cd-b277-caf0effc7b11.png",
+        "lc": "0"
+      },
+      {
+        "name": "Sound of the Suburbs",
+        "mt": "audio/mpeg",
+        "id": "99329837",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/bfd0/bfd09d41-b65d-49d3-8fa0-f9ecdc1d72ce.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Radio-SRS",
+        "mt": "audio/mpeg",
+        "id": "99303726",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/d/d7de/d7de7c74-a3c6-461b-9c3e-b4cd258740f7.png",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "E-R-I GOLD RADIO",
+        "mt": "audio/mpeg",
+        "id": "99378222",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/8005/8005daba-afe3-4866-ae8f-3279a661c213.png",
+        "lc": "0"
+      },
+      {
+        "name": "Exellent2",
+        "mt": "audio/mpeg",
+        "id": "99345710",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/82b4/82b45d81-b3b9-4a2b-a9a5-4d42b6d88dee.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "am_ag.fm",
+        "mt": "audio/mpeg",
+        "id": "99297840",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/bd82/bd8287f4-7690-413e-994d-487c0b9dd103.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "retro mixXXX",
+        "mt": "audio/mpeg",
+        "id": "99368240",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/c06a/c06a9e35-61e2-44f0-8a32-d7caff98ac2e.png",
+        "lc": "0"
+      },
+      {
+        "name": "MARDigitall",
+        "mt": "audio/mpeg",
+        "id": "99351089",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/f71d/f71de152-2a02-4ea5-98bb-05c035e0e504.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "WXBJ-fm",
+        "mt": "audio/mpeg",
+        "id": "99216948",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/fa86/fa86a3b7-aa16-4021-ac6e-59bf6afcf810.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "kckrak",
+        "mt": "audio/mpeg",
+        "id": "1793589",
+        "br": "128",
+        "genre": "60s",
+        "lc": "0"
+      },
+      {
+        "name": "RadioKomercial",
+        "mt": "audio/mpeg",
+        "id": "99382837",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/2/2f9c/2f9c4ca0-d3e7-4d67-9125-157c4a387c63.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "NOSTALGIA60-70-80-90",
+        "mt": "audio/mpeg",
+        "id": "99285557",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/d/d553/d5532f78-623b-44bf-afb1-c9055d78c6b4.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Radio rétro CJAL",
+        "mt": "audio/mpeg",
+        "id": "99260470",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/cdd2/cdd2a5d8-65b5-491b-acb2-77aefdd0ef66.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "sethfmnegombo",
+        "mt": "audio/mpeg",
+        "id": "99423799",
+        "br": "128",
+        "genre": "60s",
+        "lc": "0"
+      },
+      {
+        "name": "http://Heart-Radio.eu",
+        "mt": "audio/mpeg",
+        "id": "99273527",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/cfa2/cfa2bc64-320c-499a-9dc8-fb100a783b19.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Hit Radio The WURX",
+        "mt": "audio/mpeg",
+        "id": "99274295",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/c4f2/c4f2c83e-0525-46cd-8294-8a6430efaa43.png",
+        "lc": "0"
+      },
+      {
+        "name": "CoolproFM",
+        "mt": "audio/mpeg",
+        "id": "99248185",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/a6e9/a6e9e4a8-e7bd-4da7-85b6-19cb9ba79bce.jpg",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "Madly Bengali",
+        "mt": "audio/mpeg",
+        "id": "99269433",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/2/2dfe/2dfe0e53-25ba-409c-8f73-038bcb3da9c4.png",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "The Breeze Online",
+        "mt": "audio/mpeg",
+        "id": "99263034",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/caae/caae35f1-03a2-425e-8e9d-a85f2d2ad421.png",
+        "lc": "0"
+      },
+      {
+        "name": "Leander International",
+        "mt": "audio/mpeg",
+        "id": "99399226",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/a76b/a76b27af-1dbe-44cb-8159-713a8bec3912.png",
+        "lc": "0"
+      },
+      {
+        "name": "Rádio Rio de Janeiro Light Hits",
+        "mt": "audio/mpeg",
+        "id": "99310653",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/b6bd/b6bd811b-8bc3-4ea9-b06c-683265e59bca.jpg",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "radio voil jaenet",
+        "mt": "audio/mpeg",
+        "id": "99250237",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/4/4663/46632df3-4226-4ed3-83d6-46a8f9b6314a.jpg",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "streamer Team",
+        "mt": "audio/mpeg",
+        "id": "99314494",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/2/2c80/2c80bd76-0d3e-4724-85df-102afa52ce7b.jpg",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "ElevenTaxiStation",
+        "mt": "audio/mpeg",
+        "id": "99305535",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6fd0/6fd08314-d4e2-4238-b555-25548d8eff61.png",
+        "lc": "0"
+      },
+      {
+        "name": "Fairway Radio",
+        "mt": "audio/mpeg",
+        "id": "99402559",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/ca16/ca16ebff-f9fe-47df-b103-5c09b582d545.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "RadioTjaar34",
+        "mt": "audio/mpeg",
+        "id": "99323456",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/af55/af55280c-988c-4f8b-b733-f9f69a4f69c1.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Canaria Life Radio",
+        "mt": "audio/mpeg",
+        "id": "99394624",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/809e/809eec8e-b1f1-48a7-bde6-078805b86b3d.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Friday Night Nige",
+        "mt": "audio/mpeg",
+        "id": "99359297",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/bd1a/bd1ae707-5d75-4845-853f-a0bbb7560968.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "laredosgreatesthits",
+        "mt": "audio/mpeg",
+        "id": "99261249",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/62d1/62d165d5-9ca5-4dae-a554-aafeff966b95.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "America's Greatest Hits",
+        "mt": "audio/mpeg",
+        "id": "99288899",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/9/9457/9457dd2b-351e-428f-8614-e57f717bdde4.jpg",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "Radio Evergreen OTTANTATRE",
+        "mt": "audio/mpeg",
+        "id": "99384643",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6aa2/6aa2a160-e0e3-4d68-b6a3-c6e95f749738.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Tunetown",
+        "mt": "audio/mpeg",
+        "id": "99343940",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/7/7217/72177eca-2b64-401f-8361-797c66a52da6.gif",
+        "lc": "0"
+      },
+      {
+        "name": "Pirateofsask All request",
+        "mt": "audio/mpeg",
+        "id": "99357509",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/c60b/c60b9b48-1340-4eb9-b5ea-dd304a97fa99.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "liz oldies",
+        "mt": "audio/mpeg",
+        "id": "99347525",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/d/d20c/d20cfaf3-30f3-4a63-a100-22008f97d5e3.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Lamina Radio",
+        "mt": "audio/mpeg",
+        "id": "99332678",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/4/495c/495c5e95-4e0c-471e-8fa9-b9689e24f875.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Oldies Radio UK",
+        "mt": "audio/mpeg",
+        "id": "99326279",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/1/1620/1620186b-1171-4d91-86e6-118dcd5a79f8.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Totally Hot FM",
+        "mt": "audio/mpeg",
+        "id": "99387976",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/c7d6/c7d6309b-11f0-43e8-b648-7207693d83b7.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Radio Respect CIC",
+        "mt": "audio/mpeg",
+        "id": "99392584",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/d/de4d/de4d8e33-0024-4481-a563-16408f7844b8.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "rádióshowhungary",
+        "mt": "audio/mpeg",
+        "id": "99267144",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/f69e/f69ecb22-f51c-4c09-854e-bef7f843d4e2.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "musiccityone",
+        "mt": "audio/mpeg",
+        "id": "99347528",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/0/0b8a/0b8abff6-6ef6-4d0d-92dd-2d523bb581e2.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Addictive-60s",
+        "mt": "audio/mpeg",
+        "id": "31050",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "Oldies",
+        "logo": "http://i.radionomy.com/documents/radio/9/9214/9214dcba-2f3e-447b-a0a0-c0ce69cfd02e.s125.png",
+        "lc": "0"
+      },
+      {
+        "name": "Douce France",
+        "mt": "audio/mpeg",
+        "id": "99395914",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/e/e272/e272e7cd-78e2-4fdd-9e49-6ca88641adb2.png",
+        "lc": "0"
+      },
+      {
+        "name": "rádióshowlivestream",
+        "mt": "audio/mpeg",
+        "id": "99267147",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f\\f69e\\f69ecb22-f51c-4c09-854e-bef7f843d4e2.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Exellent",
+        "mt": "audio/mpeg",
+        "id": "99369804",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/2/2fb3/2fb37dc2-c9da-4574-9726-052c0604c889.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "RADIO ALICE",
+        "mt": "audio/mpeg",
+        "id": "99370828",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/4/48b1/48b122c7-304c-49c6-87e8-b905b15e21de.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "GreatMusic",
+        "mt": "audio/mpeg",
+        "id": "99386188",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/0/028c/028caf89-8a1f-40ed-a2d5-c8c94c6fad2f.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Essence-FM",
+        "mt": "audio/mpeg",
+        "id": "99219788",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/1/1366/136625f0-d4a7-4c81-b641-1c7d9651c196.png",
+        "lc": "0"
+      },
+      {
+        "name": "AllStarRadio1",
+        "mt": "audio/mpeg",
+        "id": "99271757",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/c/c617/c617ed58-5be4-42b5-b817-9c2ef09e2b2a.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Wonderful Radio London",
+        "mt": "audio/mpeg",
+        "id": "662606",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "Oldies",
+        "genre3": "Decades",
+        "genre4": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/4a2ffc4c-b48a-4ef2-a63a-37a7283c2c02.s165.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "georges",
+        "mt": "audio/mpeg",
+        "id": "99371086",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/9/9243/9243c276-b5ed-4455-83b2-bfa230752b88.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "sucessos.digital",
+        "mt": "audio/mpeg",
+        "id": "99314254",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/f169/f16980d4-f30e-4a3a-8b98-dd10e87a9c96.png",
+        "lc": "0"
+      },
+      {
+        "name": "star-holland",
+        "mt": "audio/mpeg",
+        "id": "99250255",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/f/f334/f3346a63-3e54-49d7-b00c-a2ccbabe5f96.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "AGYAANOM RADIO",
+        "mt": "audio/mpeg",
+        "id": "99338063",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/3/34cd/34cd936e-e5c7-4381-acf8-e5d398177b24.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "RockClassicHits1960s1970sand1980s",
+        "mt": "audio/mpeg",
+        "id": "99317072",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/0/0b46/0b46cc6d-0c03-4fe5-8c90-96b9cedd6331.png",
+        "lc": "0"
+      },
+      {
+        "name": "Rolling DIce Casino",
+        "mt": "audio/mpeg",
+        "id": "99259216",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/7/7669/76693b3e-e64c-4898-b76b-52f5584a9f23.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "studio alfa",
+        "mt": "audio/mpeg",
+        "id": "99266388",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/3/3057/3057b27c-0901-4e1e-b14a-90a958905843.png",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "hellenic radio perth w.a.",
+        "mt": "audio/mpeg",
+        "id": "99216212",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/1/1553/15539e21-b1d5-47aa-9038-46da99bb7e79.png",
+        "lc": "0"
+      },
+      {
+        "name": "Radio Monique",
+        "mt": "audio/mpeg",
+        "id": "99310677",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6ea1/6ea1f221-69ea-4dcb-a64f-b2465e26dca7.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "http://radio mi amigo 259 international",
+        "mt": "audio/mpeg",
+        "id": "99308886",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/2/2877/2877482e-1ad8-4f44-a7ea-6385285b78d4.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "100%VINYL",
+        "mt": "audio/mpeg",
+        "id": "99342422",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/be17/be17c724-0040-44a5-aa31-7b592de4c83e.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "RadioVivaForever2",
+        "mt": "audio/mpeg",
+        "id": "99278423",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/e/eeba/eeba7a03-9f2a-41c4-8173-f286e7454d15.gif",
+        "lc": "0"
+      },
+      {
+        "name": "musiccity1",
+        "mt": "audio/mpeg",
+        "id": "99347543",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/8/880b/880b12df-b04e-4bad-822d-52dca967a6d9.jpg",
+        "lc": "0"
+      },
+      {
+        "name": ".113FM The Beatles",
+        "mt": "audio/mpeg",
+        "id": "99219287",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/2/2505/25058247-8631-481d-8832-d3f244ceb4bf.jpg",
+        "ct": "James - Born Of Frustration",
+        "lc": "0"
+      },
+      {
+        "name": "Blauwe Reiger",
+        "mt": "audio/mpeg",
+        "id": "99287384",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6111/6111a238-7a34-4bff-abf3-a25bc2905a03.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "1000 Oldies",
+        "mt": "audio/mpeg",
+        "id": "579673",
+        "br": "128",
+        "genre": "60s",
+        "genre2": "Pop",
+        "genre3": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/29b9457bba684f2189b00ee470d42677_635382097184836511.s125.png",
+        "lc": "0"
+      },
+      {
+        "name": "Excelents Radio",
+        "mt": "audio/mpeg",
+        "id": "99383386",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6d81/6d81353f-3a0e-48ef-b694-afe0d9f804bd.png",
+        "lc": "0"
+      },
+      {
+        "name": "RadioVivaForever2",
+        "mt": "audio/mpeg",
+        "id": "99278426",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/e/eeba/eeba7a03-9f2a-41c4-8173-f286e7454d15.gif",
+        "lc": "0"
+      },
+      {
+        "name": "webradio hengelo",
+        "mt": "audio/mpeg",
+        "id": "99284570",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6438/643816a8-a60b-4231-83c3-93c1f20ef0d6.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "RocaFM Clas Sevilla",
+        "mt": "audio/mpeg",
+        "id": "99367259",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/d/d807/d8071544-7655-48ab-adc2-fd7fdfa69e29.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Erik Online",
+        "mt": "audio/mpeg",
+        "id": "99221596",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/a/a124/a124af11-ba06-4bf8-915a-1ffeb22276f6.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "My Classic Radio",
+        "mt": "audio/mpeg",
+        "id": "99400540",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/9/94bf/94bf59e4-5e7e-4d35-a0fe-a66a7f37c6a7.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "chic radio",
+        "mt": "audio/mpeg",
+        "id": "99339101",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/b24a/b24ab91d-7915-4a87-8876-dfb9b9cdac14.png",
+        "lc": "0"
+      },
+      {
+        "name": "webradio hengelo",
+        "mt": "audio/mpeg",
+        "id": "99284573",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/6/6438/643816a8-a60b-4231-83c3-93c1f20ef0d6.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Qtheoldies",
+        "mt": "audio/mpeg",
+        "id": "99428446",
+        "br": "128",
+        "genre": "60s",
+        "lc": "0"
+      },
+      {
+        "name": "Pampa Brava",
+        "mt": "audio/mpeg",
+        "id": "99370334",
+        "br": "128",
+        "genre": "60s",
+        "logo": "http://i.radionomy.com/document/radios/b/b61e/b61ec4c8-112d-4b03-8aaa-6f12e21bc508.jpg",
+        "lc": "0"
+      }
+    ]
+  }
+}

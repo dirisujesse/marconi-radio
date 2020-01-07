@@ -1,0 +1,120 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "Arabesk Radyo Biz",
+        "mt": "audio/mpeg",
+        "id": "99462830",
+        "br": "128",
+        "genre": "30s",
+        "ct": "WhatsApp :  0542 693 25 07 -: Muslum Gurses - Bana Gore Degil Ask",
+        "lc": "177"
+      },
+      {
+        "name": "Radyo Hayal FM",
+        "mt": "audio/mpeg",
+        "id": "99462824",
+        "br": "128",
+        "genre": "30s",
+        "ct": "hakan tasiyan eskici",
+        "lc": "25"
+      },
+      {
+        "name": "Soft Radyo",
+        "mt": "audio/mpeg",
+        "id": "99462938",
+        "br": "128",
+        "genre": "30s",
+        "ct": "WhatsApp: 0850-4414474",
+        "lc": "24"
+      },
+      {
+        "name": "Radio Québec International | RQI2 1900-1950",
+        "mt": "audio/mpeg",
+        "id": "1228698",
+        "br": "128",
+        "genre": "30s",
+        "ct": "J. B. Roy - Medley of jigs",
+        "lc": "4"
+      },
+      {
+        "name": "testshoutcastcreateflux11292018-2",
+        "mt": "audio/mpeg",
+        "id": "99410188",
+        "br": "128",
+        "genre": "30s",
+        "lc": "0"
+      },
+      {
+        "name": "Creation date test 2",
+        "mt": "audio/mpeg",
+        "id": "99407896",
+        "br": "128",
+        "genre": "30s",
+        "lc": "0"
+      },
+      {
+        "name": "rtctest",
+        "mt": "audio/mpeg",
+        "id": "99442724",
+        "br": "64",
+        "genre": "30s",
+        "lc": "0"
+      },
+      {
+        "name": "Paspartu",
+        "mt": "audio/mpeg",
+        "id": "99432796",
+        "br": "128",
+        "genre": "30s",
+        "lc": "0"
+      },
+      {
+        "name": "hgfjfghjfghjfghj",
+        "mt": "audio/mpeg",
+        "id": "99405169",
+        "br": "128",
+        "genre": "30s",
+        "lc": "0"
+      },
+      {
+        "name": "thedogs",
+        "mt": "audio/mpeg",
+        "id": "99422329",
+        "br": "128",
+        "genre": "30s",
+        "lc": "0"
+      },
+      {
+        "name": "Akbar-1",
+        "mt": "audio/mpeg",
+        "id": "99430015",
+        "br": "128",
+        "genre": "30s",
+        "lc": "0"
+      },
+      {
+        "name": "Latina 108",
+        "mt": "audio/mpeg",
+        "id": "99415021",
+        "br": "320",
+        "genre": "30s",
+        "lc": "0"
+      },
+      {
+        "name": "toofani radio",
+        "mt": "audio/mpeg",
+        "id": "99469772",
+        "br": "96",
+        "genre": "30s",
+        "ct": "LEGAL ACTION (Full Video) Elly Mangat Latest Songs 2019",
+        "lc": "0"
+      }
+    ]
+  }
+}

@@ -14,7 +14,7 @@ import AvFoundation
     .setMethodCallHandler({
       (call: FlutterMethodCall, result: @escaping FlutterResult) -> Void in
       if call.method == "play" {
-        let url_: String = call.arguments["someInfo1"]
+        let url_: String = call.arguments["url"]
         self?.play(url: url_)
         result(nil)
       } else if call.method == "pause" {
@@ -31,21 +31,21 @@ import AvFoundation
 
 
     private func play(url: String) throws -> String {
-      // do {
+      do {
         var audioUrl: URL = URL(string: url)
         player = try AVAudioPlayer(contentsOf: audioUrl)
         player?.play()
-      // } catch e {
-      //   throw e
-      // }
+      } catch e {
+        throw e
+      }
     }
 
     private func stop(url: String) throws -> String {
-      // do {
+      do {
         player?.stop()
-      // } catch e {
-      //   throw e
-      // }
+      } catch e {
+        throw e
+      }
     }
 
 

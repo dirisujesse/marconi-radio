@@ -1,5 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:marconi_radio/components/layout/player.dart';
 import 'package:marconi_radio/components/state/app_error.dart';
 import 'package:marconi_radio/components/state/app_spinner.dart';
 import 'package:marconi_radio/components/typography/app_header.dart';
@@ -32,64 +33,8 @@ class _ListPageState extends State<ListPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      bottomNavigationBar: Consumer<PlayerState>(
-        builder: (context, PlayerState data, _) {
-          if (data.selectedStation != null) {
-            return Container(
-              width: MediaQuery.of(context).size.width,
-              decoration: BoxDecoration(
-                color: appWhite,
-                borderRadius: BorderRadius.only(
-                  topLeft: Radius.circular(10),
-                  topRight: Radius.circular(10),
-                ),
-                boxShadow: [
-                  BoxShadow(
-                    color: appGrey,
-                    blurRadius: 1.5,
-                    spreadRadius: 1,
-                  ),
-                ],
-              ),
-              child: ListTile(
-                onTap: () => Navigator.of(context).pushNamed('/detail'),
-                leading: Image.network(
-                  data?.selectedStation?.logo ??
-                      'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',
-                  width: 50,
-                  height: 100,
-                  alignment: Alignment.center,
-                ),
-                title: BodyText(
-                  data.selectedStation.name.toUpperCase(),
-                  maxLines: 1,
-                ),
-                subtitle: Text(data.selectedStation.genre),
-                trailing: IconButton(
-                  icon: Icon(
-                    data.isPlaying
-                        ? Icons.pause_circle_filled
-                        : Icons.play_circle_filled,
-                    size: 40,
-                    color: appBlack,
-                  ),
-                  onPressed: () => data.isPlaying
-                      ? data.pause()
-                      : data.play(val: data.selectedStation),
-                ),
-              ),
-            );
-          }
-          return SizedBox();
-        },
-      ),
-      floatingActionButton: FloatingActionButton(
-        backgroundColor: appBlack,
-        child: Icon(Icons.playlist_play),
-        onPressed: () => PlayerState.getInstance()
-            .play(val: Station.fromJson(PlayerState.getInstance().stations[0])),
-      ),
-      backgroundColor: appWhite,
+      bottomNavigationBar: MarconiPlayer(),
+      backgroundColor: appLightGrey,
       body: NestedScrollView(
         headerSliverBuilder: (context, _) {
           return [

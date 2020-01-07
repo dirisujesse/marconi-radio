@@ -1,0 +1,207 @@
+﻿{
+  "stationlist": {
+    "tunein": {
+      "base": "/sbin/tunein-station.pls",
+      "base-m3u": "/sbin/tunein-station.m3u",
+      "base-xspf": "/sbin/tunein-station.xspf"
+    },
+    "station": [
+      {
+        "name": "ABC 50s",
+        "mt": "audio/mpeg",
+        "id": "1076485",
+        "br": "128",
+        "genre": "50s",
+        "genre2": "Doo Wop",
+        "genre3": "Rock & Roll",
+        "genre4": "Oldies",
+        "logo": "https://i3.radionomy.com/radios/200/6/670a/670a7344-c89d-428f-9f99-c5b7e9a86bce.png",
+        "lc": "205"
+      },
+      {
+        "name": "24-7 Dreamboat And Petticoats",
+        "mt": "audio/mpeg",
+        "id": "1474708",
+        "br": "128",
+        "genre": "50s",
+        "ct": "The Ronettes - Be My Baby",
+        "lc": "199"
+      },
+      {
+        "name": "The UK 1950s Radio Station -  Rock and Roll, Blues, Jive",
+        "mt": "audio/mpeg",
+        "id": "1879898",
+        "br": "128",
+        "genre": "50s",
+        "ct": "Jay Lawrence - M&M 503 (UK Server)",
+        "lc": "72"
+      },
+      {
+        "name": "KTL-Oldieradio",
+        "mt": "audio/mpeg",
+        "id": "1473871",
+        "br": "128",
+        "genre": "50s",
+        "genre2": "60s",
+        "genre3": "70s",
+        "genre4": "80s",
+        "genre5": "90s",
+        "logo": "https://i3.radionomy.com/radios/200/1/1936/193604e0-f805-460c-a63c-b686347bf16d.jpg",
+        "ct": "O. C. Smith - Little Green Apples",
+        "lc": "35"
+      },
+      {
+        "name": "1.FM - Back To The 50's & 60's (www.1.fm)",
+        "mt": "audio/mpeg",
+        "id": "1511256",
+        "br": "192",
+        "genre": "50s",
+        "genre2": "60s",
+        "genre3": "Decades",
+        "genre4": "Oldies",
+        "logo": "https://i3.radionomy.com/radios/200/e/e249/e2494f1f-2556-49d8-8784-14e872cc3b52.jpg",
+        "lc": "35"
+      },
+      {
+        "name": "KBRD AM 680 The World's Music Museum",
+        "mt": "audio/mpeg",
+        "id": "1249070",
+        "br": "56",
+        "genre": "50s",
+        "lc": "22"
+      },
+      {
+        "name": "De vrolijke Piraat",
+        "mt": "audio/mpeg",
+        "id": "99458573",
+        "br": "128",
+        "genre": "50s",
+        "ct": "Peter Loree - Schenk Nog Eens In",
+        "lc": "17"
+      },
+      {
+        "name": "Idolos del Pueblo",
+        "mt": "audio/mpeg",
+        "id": "1244570",
+        "br": "128",
+        "genre": "50s",
+        "ct": "Musica Colombiana - Bambucos 2 - La Ruana Maria Antonia Sol de Junio",
+        "lc": "4"
+      },
+      {
+        "name": ".113FM Jitterbug",
+        "mt": "audio/mpeg",
+        "id": "1616320",
+        "br": "128",
+        "genre": "50s",
+        "lc": "4"
+      },
+      {
+        "name": "Utah's Goat",
+        "mt": "audio/mpeg",
+        "id": "99420031",
+        "br": "112",
+        "genre": "50s",
+        "ct": "Yo-Yo by Osmonds",
+        "lc": "2"
+      },
+      {
+        "name": "50s Rewind",
+        "mt": "audio/mpeg",
+        "id": "99467702",
+        "br": "128",
+        "genre": "50s",
+        "ct": "Tony Bennett - Because of You",
+        "lc": "2"
+      },
+      {
+        "name": "SortedWEB Oldies",
+        "mt": "audio/mpeg",
+        "id": "99434734",
+        "br": "128",
+        "genre": "50s",
+        "ct": "Lou Christie - Lightnin' Strikes",
+        "lc": "1"
+      },
+      {
+        "name": "t3sssTTTT",
+        "mt": "audio/mpeg",
+        "id": "99404098",
+        "br": "128",
+        "genre": "50s",
+        "lc": "0"
+      },
+      {
+        "name": "test1234567",
+        "mt": "audio/mpeg",
+        "id": "99434140",
+        "br": "128",
+        "genre": "50s",
+        "lc": "0"
+      },
+      {
+        "name": "Noloserick",
+        "mt": "audio/mpeg",
+        "id": "99420844",
+        "br": "128",
+        "genre": "50s",
+        "lc": "0"
+      },
+      {
+        "name": "Addictive-50s",
+        "mt": "audio/mpeg",
+        "id": "697525",
+        "br": "128",
+        "genre": "50s",
+        "genre2": "Pop",
+        "genre3": "Pop",
+        "logo": "http://i.radionomy.com/documents/radio/13c267d50a25461a85184faf204a7c9b_635040690209305794.s125.png",
+        "lc": "0"
+      },
+      {
+        "name": "Bass Fishing",
+        "mt": "audio/mpeg",
+        "id": "1680569",
+        "br": "128",
+        "genre": "50s",
+        "lc": "0"
+      },
+      {
+        "name": "Rosses Radio Fm",
+        "mt": "audio/mpeg",
+        "id": "1812704",
+        "br": "128",
+        "genre": "50s",
+        "lc": "0"
+      },
+      {
+        "name": "Deleted 346",
+        "mt": "audio/mpeg",
+        "id": "65504",
+        "br": "128",
+        "genre": "50s",
+        "genre2": "Oldies",
+        "logo": "http://i.radionomy.com/documents/radio/c4db8176020443bdafd32b26dba6b81c_635197808138586293.s125.jpg",
+        "lc": "0"
+      },
+      {
+        "name": "Sound Of Yesterday",
+        "mt": "audio/mpeg",
+        "id": "99469268",
+        "br": "320",
+        "genre": "50s",
+        "ct": "The Beatles - Blackbird",
+        "lc": "0"
+      },
+      {
+        "name": "3rdlife Grid Radio",
+        "mt": "audio/mpeg",
+        "id": "99458543",
+        "br": "64",
+        "genre": "50s",
+        "ct": "Creep - Radiohead",
+        "lc": "0"
+      }
+    ]
+  }
+}
