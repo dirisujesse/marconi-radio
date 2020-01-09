@@ -15,12 +15,6 @@ class AppDisk extends StatefulWidget {
 }
 
 class _AppDiskState extends State<AppDisk> with SingleTickerProviderStateMixin {
-  // @override
-  // void dispose() {
-  //   super.dispose();
-  //   widget.ctrl.dispose();
-  // }
-
   @override
   Widget build(BuildContext context) {
     final x = MediaQuery.of(context).size.width;
@@ -41,7 +35,7 @@ class _AppDiskState extends State<AppDisk> with SingleTickerProviderStateMixin {
             ],
           ),
           image: DecorationImage(
-            image: NetworkImage(widget.track.logo ??
+            image: NetworkImage(widget?.track?.logo ??
                 'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',),
             alignment: AlignmentDirectional.center,
             fit: BoxFit.cover,
@@ -62,7 +56,7 @@ class _AppDiskState extends State<AppDisk> with SingleTickerProviderStateMixin {
                 decoration: BoxDecoration(
                   shape: BoxShape.circle,
                   image: DecorationImage(
-                    image: NetworkImage(widget.track.logo ??
+                    image: NetworkImage(widget?.track?.logo ??
                         'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',),
                     alignment: AlignmentDirectional.center,
                     fit: BoxFit.fill,

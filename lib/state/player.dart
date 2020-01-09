@@ -75,7 +75,6 @@ class PlayerState extends ChangeNotifier {
     MediaNotification.showNotification(title: selectedStation.name, author: selectedStation.genre, isPlaying: false);
     notifyListeners();
     _dormant = Timer(Duration(seconds: clearNotif ? 0 : 10), () {
-      selectedStation = null;
       MediaNotification.hideNotification();
       notifyListeners();
     });

@@ -1,5 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:marconi_radio/components/layout/app_scaffold.dart';
 import 'package:marconi_radio/components/layout/player.dart';
 import 'package:marconi_radio/components/state/app_error.dart';
 import 'package:marconi_radio/components/state/app_spinner.dart';
@@ -10,7 +11,6 @@ import 'package:marconi_radio/state/player.dart';
 import 'package:marconi_radio/styles/colors.dart';
 import 'package:marconi_radio/models/categories.dart';
 import 'package:marconi_radio/services/http.dart';
-import 'package:provider/provider.dart';
 
 class ListPage extends StatefulWidget {
   final String title;
@@ -32,9 +32,8 @@ class _ListPageState extends State<ListPage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      bottomNavigationBar: MarconiPlayer(),
-      backgroundColor: appLightGrey,
+    return AppScaffold(
+      bottomNavigationBar: MarconiPlayer(context),
       body: NestedScrollView(
         headerSliverBuilder: (context, _) {
           return [
@@ -102,23 +101,10 @@ class _ListPageState extends State<ListPage> {
                       maxLines: 1,
                     ),
                     subtitle: Text(station.genre),
-                    trailing: Consumer<PlayerState>(
-                      builder: (context, PlayerState val, _) {
-                        return IconButton(
-                          icon: Icon(
-                            (val.isPlaying &&
-                                    station.id == val.selectedStation.id)
-                                ? Icons.pause_circle_filled
-                                : Icons.play_circle_filled,
-                            size: 40,
-                            color: appBlack,
-                          ),
-                          onPressed: () => (val.isPlaying &&
-                                  station.id == val.selectedStation.id)
-                              ? val.pause()
-                              : val.play(val: station),
-                        );
-                      },
+                    trailing: MarconiPlayer(
+                      context,
+                      playerType: PlayerType.PlayButton,
+                      station: station,
                     ),
                   );
                 },

@@ -58,7 +58,7 @@ class HomePage extends StatelessWidget {
     return WillPopScope(
       onWillPop: () => _popHandler(context),
       child: AppScaffold(
-        bottomNavigationBar: MarconiPlayer(),
+        bottomNavigationBar: MarconiPlayer(context),
         appBar: AppBar(
           backgroundColor: appBlack,
           centerTitle: true,

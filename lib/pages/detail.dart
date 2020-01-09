@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:marconi_radio/components/animations/disk.dart';
 import 'package:marconi_radio/components/layout/app_scaffold.dart';
-import 'package:marconi_radio/components/state/app_spinner.dart';
+import 'package:marconi_radio/components/layout/player.dart';
 import 'package:marconi_radio/components/typography/app_header.dart';
 import 'package:marconi_radio/components/typography/app_txt.dart';
 import 'package:marconi_radio/state/player.dart';
@@ -57,7 +57,7 @@ class _DetailPageState extends State<DetailPage>
             decoration: BoxDecoration(
               image: DecorationImage(
                 image: NetworkImage(
-                  val.selectedStation.logo ??
+                  val?.selectedStation?.logo ??
                       'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',
                 ),
                 fit: BoxFit.cover,
@@ -81,14 +81,14 @@ class _DetailPageState extends State<DetailPage>
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: <Widget>[
                             HeaderText(
-                              val.selectedStation.name,
+                              val?.selectedStation?.name ?? "",
                               maxLines: 2,
                               color: appWhite,
                               fontWeight: FontWeight.bold,
                               alignment: TextAlign.center,
                             ),
                             BodyText(
-                              val.selectedStation.genre,
+                              val?.selectedStation?.genre ?? "",
                               maxLines: 2,
                               color: appWhite,
                               fontSize: 15,
@@ -97,9 +97,7 @@ class _DetailPageState extends State<DetailPage>
                           ],
                         ),
                       ),
-                      // Expanded(
                       AppDisk(val.selectedStation, _ctrl),
-                      // ),
                       Container(
                         alignment: Alignment.center,
                         constraints: BoxConstraints(
@@ -109,54 +107,10 @@ class _DetailPageState extends State<DetailPage>
                           color: appWhite.withOpacity(0.5),
                           borderRadius: BorderRadius.circular(10),
                         ),
-                        child: Row(
-                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                          children: <Widget>[
-                            GestureDetector(
-                              child: Icon(
-                                Icons.skip_previous,
-                                color: appBlack,
-                                size: 50,
-                              ),
-                              onTap: () {
-                                _ctrl.stop();
-                                val.playPrev(val: val.selectedStation);
-                                _ctrl.repeat();
-                              },
-                            ),
-                            GestureDetector(
-                              child: val.isLoading
-                                  ? const AppSpinner()
-                                  : Icon(
-                                      !val.isPlaying
-                                          ? Icons.play_circle_filled
-                                          : Icons.pause_circle_filled,
-                                      color: appBlack,
-                                      size: 50,
-                                    ),
-                              onTap: () {
-                                if (val.isPlaying) {
-                                  _ctrl.stop();
-                                  val.pause();
-                                } else {
-                                  val.play(val: val.selectedStation);
-                                  _ctrl.repeat();
-                                }
-                              },
-                            ),
-                            GestureDetector(
-                              child: Icon(
-                                Icons.skip_next,
-                                color: appBlack,
-                                size: 50,
-                              ),
-                              onTap: () {
-                                _ctrl.stop();
-                                val.playNext(val: val.selectedStation);
-                                _ctrl.repeat();
-                              },
-                            ),
-                          ],
+                        child: MarconiPlayer(
+                          context,
+                          playerType: PlayerType.FloatingPlayer,
+                          ctrl: _ctrl,
                         ),
                       ),
                     ],
