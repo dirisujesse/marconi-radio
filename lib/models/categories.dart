@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart' show required, Color, LinearGradient, Colors, Alignment;
+import 'package:flutter/material.dart' show required;
 
 class AppCategory {
   String name;

@@ -63,7 +63,7 @@ class MarconiStreamService(val ctx: Context) {
     fun stop() {
         if (player != null) {
             playbackPosition = player!!.currentPosition
-            playWhenReady = player!!.playWhenReady
+            player!!.playWhenReady = false
             player?.release()
             player = null
         }

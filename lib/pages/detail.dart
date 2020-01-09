@@ -2,6 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:marconi_radio/components/animations/disk.dart';
+import 'package:marconi_radio/components/layout/app_scaffold.dart';
 import 'package:marconi_radio/components/state/app_spinner.dart';
 import 'package:marconi_radio/components/typography/app_header.dart';
 import 'package:marconi_radio/components/typography/app_txt.dart';
@@ -46,7 +47,7 @@ class _DetailPageState extends State<DetailPage>
   Widget build(BuildContext context) {
     _y = MediaQuery.of(context).size.height;
     _x = MediaQuery.of(context).size.width;
-    return Scaffold(
+    return AppScaffold(
       body: Consumer<PlayerState>(
         builder: (context, PlayerState val, _) {
           return Container(
@@ -136,7 +137,7 @@ class _DetailPageState extends State<DetailPage>
                               onTap: () {
                                 if (val.isPlaying) {
                                   _ctrl.stop();
-                                  val.pause(val: val.selectedStation);
+                                  val.pause();
                                 } else {
                                   val.play(val: val.selectedStation);
                                   _ctrl.repeat();

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:marconi_radio/components/state/app_spinner.dart';
-import 'package:marconi_radio/components/typography/app_txt.dart';
 import 'package:marconi_radio/state/player.dart';
 import 'package:marconi_radio/styles/colors.dart';
 import 'package:provider/provider.dart';
@@ -29,14 +28,13 @@ class MarconiPlayer extends StatelessWidget {
             ),
             child: ListTile(
               onTap: () => Navigator.of(context).pushNamed('/detail'),
-              leading: Image.network(
-                data?.selectedStation?.logo ??
-                    'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',
-                width: 50,
-                height: 100,
-                alignment: Alignment.center,
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage(
+                  data?.selectedStation?.logo ??
+                      'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',
+                ),
               ),
-              title: BodyText(
+              title: Text(
                 data.selectedStation.name.toUpperCase(),
                 maxLines: 1,
               ),

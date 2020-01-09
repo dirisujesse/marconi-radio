@@ -21,6 +21,14 @@ class NativeCaller {
     }
   }
 
+  void rate() async {
+    try {
+      await channel.invokeMethod('rate');
+    } on PlatformException catch (e) {
+      throw "Failed to rate: '${e.message}'.";
+    }
+  }
+
   void pause() async {
     try {
       await channel.invokeMethod('pause');

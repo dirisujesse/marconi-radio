@@ -32,7 +32,6 @@ class PlayerState extends ChangeNotifier {
     MediaNotification.setListener('prev', () {
       playPrev(val: selectedStation);
     });
-
     // MediaNotification.setListener('select', () {});
   }
 
@@ -60,7 +59,7 @@ class PlayerState extends ChangeNotifier {
     if (data is String && data.length > 0) {
       player.play(data);
       isPlaying = true;
-      MediaNotification.showNotification(title: val.name, author: val.genre);
+      MediaNotification.showNotification(title: val.name, author: val.genre, isPlaying: true);
       isLoading = false;
       notifyListeners();
     } else {
@@ -70,15 +69,24 @@ class PlayerState extends ChangeNotifier {
     }
   }
 
-  void pause({Station val}) async {
+  void pause([bool clearNotif = false]) async {
     player.pause();
     isPlaying = false;
+    MediaNotification.showNotification(title: selectedStation.name, author: selectedStation.genre, isPlaying: false);
     notifyListeners();
-    _dormant = Timer(Duration(seconds: 10), () {
+    _dormant = Timer(Duration(seconds: clearNotif ? 0 : 10), () {
       selectedStation = null;
       MediaNotification.hideNotification();
       notifyListeners();
     });
+  }
+
+  void stop() {
+    player.stop();
+    isPlaying = false;
+    selectedStation = null;
+    MediaNotification.hideNotification();
+    notifyListeners();
   }
 
   playPrev({Station val}) {
@@ -123,5 +131,11 @@ class PlayerState extends ChangeNotifier {
         );
       }
     }
+  }
+
+  @override
+  void dispose() {
+    player.stop();
+    super.dispose();
   }
 }
