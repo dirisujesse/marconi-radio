@@ -72,37 +72,33 @@ class _MarconiRadioAppState extends State<MarconiRadioApp>
         ChangeNotifierProvider(create: (_) => PlayerState.getInstance()),
         ChangeNotifierProvider(create: (_) => NetworkState.getInstance()),
       ],
-      child: Consumer<NetworkState>(
-        builder: (context, state, _) {
-          return MaterialApp(
-            title: 'Upright_NG',
-            theme: appThemeData(),
-            home: const HomePage(),
-            onGenerateRoute: (RouteSettings settings) {
-              final path = settings.name;
-              if (path.startsWith('/list')) {
-                AppCategory cat = settings.arguments;
-                return MaterialPageRoute(builder: (BuildContext context) {
-                  return ListPage(
-                    title: cat.assetName,
-                    category: cat,
-                  );
-                });
-              } else if (path.startsWith('/detail')) {
-                return MaterialPageRoute(builder: (BuildContext context) {
-                  return const DetailPage();
-                });
-              } else {
-                return MaterialPageRoute(
-                  builder: (BuildContext context) => HomePage(),
-                );
-              }
-            },
-            onUnknownRoute: (RouteSettings settings) {
-              return MaterialPageRoute(
-                builder: (BuildContext context) => HomePage(),
+      child: MaterialApp(
+        title: 'Marconi Radio',
+        theme: appThemeData(),
+        home: const HomePage(),
+        onGenerateRoute: (RouteSettings settings) {
+          final path = settings.name;
+          if (path.startsWith('/list')) {
+            AppCategory cat = settings.arguments;
+            return MaterialPageRoute(builder: (BuildContext context) {
+              return ListPage(
+                title: cat.assetName,
+                category: cat,
               );
-            },
+            });
+          } else if (path.startsWith('/detail')) {
+            return MaterialPageRoute(builder: (BuildContext context) {
+              return const DetailPage();
+            });
+          } else {
+            return MaterialPageRoute(
+              builder: (BuildContext context) => HomePage(),
+            );
+          }
+        },
+        onUnknownRoute: (RouteSettings settings) {
+          return MaterialPageRoute(
+            builder: (BuildContext context) => HomePage(),
           );
         },
       ),
