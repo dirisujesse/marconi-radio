@@ -15,6 +15,13 @@ ThemeData appThemeData() {
     //   size: 30,
     //   color: appGreen,
     // ),
+    // tabBarTheme: base.tabBarTheme.copyWith(
+    //   indicator: ShapeDecoration(
+    //     shape: RoundedRectangleBorder(
+    //       borderRadius: BorderRadius.circular(5.0)
+    //     )
+    //   )
+    // ),
     cursorColor: appGrey,
     indicatorColor: appGrey,
     iconTheme: base.iconTheme.copyWith(

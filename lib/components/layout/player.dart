@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:marconi_radio/components/animations/disk.dart';
 import 'package:marconi_radio/components/fragments/play_button.dart';
-import 'package:marconi_radio/components/state/app_spinner.dart';
 import 'package:marconi_radio/models/station.dart';
 import 'package:marconi_radio/state/network.dart';
 import 'package:marconi_radio/state/player.dart';

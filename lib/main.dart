@@ -2,19 +2,19 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:marconi_radio/state/network.dart';
-import 'package:marconi_radio/state/preferences.dart';
+
+import 'package:hive/hive.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
 
+import 'package:marconi_radio/state/network.dart';
+import 'package:marconi_radio/state/preferences.dart';
 import 'package:marconi_radio/models/categories.dart';
 import 'package:marconi_radio/pages/detail.dart';
 import 'package:marconi_radio/pages/list.dart';
 import 'package:marconi_radio/state/player.dart';
 import 'package:marconi_radio/styles/theme.dart';
 import 'package:marconi_radio/pages/home.dart';
-
-import 'package:hive/hive.dart';
-import 'package:hive_flutter/hive_flutter.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
