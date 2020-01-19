@@ -1,65 +1,55 @@
 import 'package:flutter/material.dart';
+
 import 'package:marconi_radio/components/layout/app_scaffold.dart';
-import 'package:marconi_radio/components/layout/category_section.dart';
+import 'package:marconi_radio/components/layout/app_sections.dart';
 import 'package:marconi_radio/components/layout/player.dart';
+import 'package:marconi_radio/components/layout/preferences.dart';
 import 'package:marconi_radio/components/typography/app_header.dart';
-import 'package:marconi_radio/models/categories.dart';
-import 'package:marconi_radio/services/channels.dart';
-import 'package:marconi_radio/services/storage.dart';
+import 'package:marconi_radio/delegates/search.dart';
+import 'package:marconi_radio/services/hive.dart';
+
 import 'package:marconi_radio/styles/colors.dart';
 
-Future<bool> _popHandler(context) async {
-  bool hasRatedApp = await StorageService.getItem(key: "hasRated");
-  int nextRateDay = await StorageService.getItem(key: "rateDay");
-  int curMillis = DateTime.now().millisecondsSinceEpoch;
-  int tenDaysMillis =
-      DateTime.now().add(Duration(days: 10)).millisecondsSinceEpoch;
-  if ((hasRatedApp == null || hasRatedApp == false) &&
-      (nextRateDay == null || curMillis > nextRateDay ?? 0)) {
-    await showDialog(
-      context: context,
-      barrierDismissible: false,
-      child: AlertDialog(
-        title: Text("Rate Marconi Radio"),
-        content: Text(
-            "If you have enjoyed using Marconi Radio please consider rating it"),
-        actions: <Widget>[
-          FlatButton(
-            textColor: appBlack,
-            child: Text("Remind me later"),
-            onPressed: () async {
-              await StorageService.setItem(key: "hasRated", val: false);
-              await StorageService.setItem(key: "rateDay", val: tenDaysMillis);
-              Navigator.of(context).pop();
-            },
-          ),
-          RaisedButton(
-            child: Text("Rate Now"),
-            color: appBlack,
-            onPressed: () async {
-              NativeCaller.instance.rate();
-              await StorageService.setItem(key: "hasRated", val: true);
-              Navigator.of(context).pop();
-            },
-          ),
-        ],
-      ),
-    );
-    return Future.value(false);
-  } else {
-    return Future.value(true);
+class HomePage extends StatefulWidget {
+  const HomePage();
+  @override
+  State<StatefulWidget> createState() {
+    return _HomePageState();
   }
 }
 
-class HomePage extends StatelessWidget {
-  const HomePage();
+class _HomePageState extends State<HomePage>
+    with SingleTickerProviderStateMixin {
+  TabController _ctrl;
+  String lastTerm;
+  @override
+  void initState() {
+    lastTerm = "";
+    super.initState();
+    _ctrl = TabController(length: 3, vsync: this);
+  }
+
   @override
   Widget build(BuildContext context) {
     return WillPopScope(
-      onWillPop: () => _popHandler(context),
+      onWillPop: () => popHandler(context),
       child: AppScaffold(
         bottomNavigationBar: MarconiPlayer(context),
         appBar: AppBar(
+          bottom: TabBar(
+            controller: _ctrl,
+            tabs: <Widget>[
+              Tab(
+                text: "HOME",
+              ),
+              Tab(
+                text: "FAVOURITES",
+              ),
+              Tab(
+                text: "RECENT",
+              ),
+            ],
+          ),
           backgroundColor: appBlack,
           centerTitle: true,
           title: HeaderText(
@@ -68,41 +58,30 @@ class HomePage extends StatelessWidget {
             alignment: TextAlign.center,
           ),
           elevation: 1,
+          actions: <Widget>[
+            IconButton(
+              icon: Icon(Icons.search),
+              onPressed: () async {
+                final result = await showSearch(
+                  context: context,
+                  query: lastTerm,
+                  delegate: MarconiSearchDelegate(),
+                );
+                lastTerm = result;
+              },
+            )
+          ],
         ),
-        body: Container(
-          constraints: BoxConstraints(
-            maxHeight: MediaQuery.of(context).size.height,
-            maxWidth: MediaQuery.of(context).size.width,
-          ),
-          child: SingleChildScrollView(
-            padding: EdgeInsets.only(bottom: 20, top: 20),
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.start,
-              crossAxisAlignment: CrossAxisAlignment.stretch,
-              children: <Widget>[
-                AppSection(
-                  name: "Genres",
-                  data: genres,
-                ),
-                SizedBox(
-                  height: 30,
-                ),
-                AppSection(
-                  name: "Decades",
-                  data: decades,
-                ),
-                SizedBox(
-                  height: 30,
-                ),
-                AppSection(
-                  name: "Countries",
-                  data: countries,
-                ),
-              ],
-            ),
-          ),
+        body: TabBarView(
+          controller: _ctrl,
+          children: <Widget>[
+            AppSections(),
+            Preferences(true),
+            Preferences(false)
+          ],
         ),
       ),
     );
   }
 }
+

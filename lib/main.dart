@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:marconi_radio/state/network.dart';
+import 'package:marconi_radio/state/preferences.dart';
 import 'package:provider/provider.dart';
 
 import 'package:marconi_radio/models/categories.dart';
@@ -12,9 +13,16 @@ import 'package:marconi_radio/state/player.dart';
 import 'package:marconi_radio/styles/theme.dart';
 import 'package:marconi_radio/pages/home.dart';
 
-void main() {
+import 'package:hive/hive.dart';
+import 'package:hive_flutter/hive_flutter.dart';
+
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+  await Hive.initFlutter();
+  await Hive.openLazyBox("favourites");
+  await Hive.openLazyBox("recent");
+  await Hive.openBox("usrData");
   runApp(MarconiRadioApp());
 }
 
@@ -38,7 +46,7 @@ class _MarconiRadioAppState extends State<MarconiRadioApp>
   @override
   void dispose() {
     PlayerState.instance.pause();
-    // WidgetsBinding.instance.removeObserver(this);
+    WidgetsBinding.instance.removeObserver(this);
     super.dispose();
   }
 
@@ -52,7 +60,7 @@ class _MarconiRadioAppState extends State<MarconiRadioApp>
         }
         break;
       case AppLifecycleState.inactive:
-        inactiveTimer = Timer(Duration(milliseconds: 400), () {
+        inactiveTimer = Timer(Duration(milliseconds: 2000), () {
           if (PlayerState.instance != null) {
             if (PlayerState.instance.isPlaying) {
               PlayerState.instance.pause(true);
@@ -61,7 +69,7 @@ class _MarconiRadioAppState extends State<MarconiRadioApp>
         });
         break;
       default:
-        print("Null State");
+        return;
     }
   }
 
@@ -71,6 +79,7 @@ class _MarconiRadioAppState extends State<MarconiRadioApp>
       providers: [
         ChangeNotifierProvider(create: (_) => PlayerState.getInstance()),
         ChangeNotifierProvider(create: (_) => NetworkState.getInstance()),
+        ChangeNotifierProvider(create: (_) => PrefsState.getInstance()),
       ],
       child: MaterialApp(
         title: 'Marconi Radio',

@@ -15,7 +15,8 @@ ThemeData appThemeData() {
     //   size: 30,
     //   color: appGreen,
     // ),
-    indicatorColor: Colors.black,
+    cursorColor: appGrey,
+    indicatorColor: appGrey,
     iconTheme: base.iconTheme.copyWith(
       color: appGrey,
       size: 30,

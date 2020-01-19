@@ -18,7 +18,7 @@ class AppError extends StatelessWidget {
           SizedBox(
             height: 20,
           ),
-          Text("We could not fetch the data due to an error")
+          Text("An unexpected error occured and data could not be fetched")
         ],
       ),
     );

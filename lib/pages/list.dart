@@ -2,12 +2,12 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:marconi_radio/components/layout/app_scaffold.dart';
 import 'package:marconi_radio/components/layout/player.dart';
+import 'package:marconi_radio/components/layout/station_list.dart';
 import 'package:marconi_radio/components/state/app_error.dart';
 import 'package:marconi_radio/components/state/app_spinner.dart';
 import 'package:marconi_radio/components/typography/app_header.dart';
-import 'package:marconi_radio/components/typography/app_txt.dart';
-import 'package:marconi_radio/models/station.dart';
 import 'package:marconi_radio/state/player.dart';
+import 'package:marconi_radio/state/preferences.dart';
 import 'package:marconi_radio/styles/colors.dart';
 import 'package:marconi_radio/models/categories.dart';
 import 'package:marconi_radio/services/http.dart';
@@ -32,6 +32,7 @@ class _ListPageState extends State<ListPage> {
 
   @override
   Widget build(BuildContext context) {
+    final _playState = PlayerState.getInstance();
     return AppScaffold(
       bottomNavigationBar: MarconiPlayer(context),
       body: NestedScrollView(
@@ -46,7 +47,6 @@ class _ListPageState extends State<ListPage> {
                   widget.category.name,
                   color: appWhite,
                 ),
-                // centerTitle: true,
                 background: Hero(
                   tag: widget.title,
                   child: Image.network(
@@ -61,53 +61,25 @@ class _ListPageState extends State<ListPage> {
           ];
         },
         body: FutureBuilder(
-          future: HttpService.searchStations(widget.title, context),
+          future: Future.wait([
+            HttpService.searchStations(widget.title, context),
+            PrefsState.getInstance().favourites
+          ]),
           builder: (context, AsyncSnapshot<dynamic> res) {
             if (res.hasData) {
               List<dynamic> data;
-              if (res.data["station"] is Map) {
-                PlayerState.getInstance().stations = [res.data["station"]];
-                data = [res.data["station"]];
+              List<dynamic> favs = res.data[1];
+              if (res.data[0]["station"] is Map) {
+                data = [res.data[0]["station"]];
+                _playState.stations = data;
               } else {
-                PlayerState.getInstance().stations = res.data["station"];
-                data = res.data["station"];
+                data = res.data[0]["station"];
+                _playState.stations = data;
               }
-              return ListView.separated(
-                padding: EdgeInsets.only(bottom: 100),
-                separatorBuilder: (context, idx) {
-                  if (idx != data.length - 1) {
-                    return Container(
-                      height: 0.8,
-                      margin: EdgeInsets.symmetric(horizontal: 10),
-                      color: appGrey,
-                    );
-                  } else {
-                    return SizedBox();
-                  }
-                },
-                itemCount: data.length,
-                itemBuilder: (context, idx) {
-                  Station station = Station.fromJson(data[idx]);
-                  return ListTile(
-                    leading: CircleAvatar(
-                      backgroundColor: Colors.black,
-                      backgroundImage: NetworkImage(
-                        station?.logo ??
-                            'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',
-                      ),
-                    ),
-                    title: BodyText(
-                      station.name.toUpperCase(),
-                      maxLines: 1,
-                    ),
-                    subtitle: Text(station.genre),
-                    trailing: MarconiPlayer(
-                      context,
-                      playerType: PlayerType.PlayButton,
-                      station: station,
-                    ),
-                  );
-                },
+              return StationList(
+                data: data,
+                favs: favs,
+                ctx: context,
               );
             } else if (res.hasError) {
               return const AppError();

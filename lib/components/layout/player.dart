@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:marconi_radio/components/animations/disk.dart';
 import 'package:marconi_radio/components/fragments/play_button.dart';
 import 'package:marconi_radio/components/state/app_spinner.dart';
 import 'package:marconi_radio/models/station.dart';
@@ -13,12 +14,10 @@ class MarconiPlayer extends StatelessWidget {
   final BuildContext ctx;
   final PlayerType playerType;
   final Station station;
-  final AnimationController ctrl;
   MarconiPlayer(
     this.ctx, {
     this.playerType = PlayerType.BottomNavPlayer,
     this.station,
-    this.ctrl,
   });
 
   _showSnack() {
@@ -26,7 +25,7 @@ class MarconiPlayer extends StatelessWidget {
       SnackBar(
         behavior: SnackBarBehavior.floating,
         content:
-            Text("Please connect to the internet to use this functinality"),
+            Text("Please connect to the internet to use this functionality"),
         backgroundColor: appBlack,
       ),
     );
@@ -63,60 +62,6 @@ class MarconiPlayer extends StatelessWidget {
     return Consumer2<PlayerState, NetworkState>(
       builder: (context, PlayerState data, NetworkState conn, _) {
         switch (playerType) {
-          case PlayerType.FloatingPlayer:
-            return Row(
-              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: <Widget>[
-                GestureDetector(
-                  child: Icon(
-                    Icons.skip_previous,
-                    color: appBlack,
-                    size: 50,
-                  ),
-                  onTap: () {
-                    ctrl.stop();
-                    _playPrev(conn, data);
-                    ctrl.repeat();
-                  },
-                ),
-                GestureDetector(
-                  child: data.isLoading
-                      ? const AppSpinner()
-                      : Icon(
-                          !data.isPlaying
-                              ? Icons.play_circle_filled
-                              : Icons.pause_circle_filled,
-                          color: appBlack,
-                          size: 50,
-                        ),
-                  onTap: () {
-                    if (conn.isOffline) {
-                      return _showSnack();
-                    }
-                    if (data.isPlaying) {
-                      ctrl.stop();
-                      data.pause();
-                    } else {
-                      data.play(val: data.selectedStation);
-                      ctrl.repeat();
-                    }
-                  },
-                ),
-                GestureDetector(
-                  child: Icon(
-                    Icons.skip_next,
-                    color: appBlack,
-                    size: 50,
-                  ),
-                  onTap: () {
-                    ctrl.stop();
-                    _playNext(conn, data);
-                    ctrl.repeat();
-                  },
-                ),
-              ],
-            );
-            break;
           case PlayerType.PlayButton:
             return IconButton(
               icon: Icon(
@@ -155,12 +100,15 @@ class MarconiPlayer extends StatelessWidget {
                   ],
                 ),
                 child: ListTile(
-                  onTap: () => Navigator.of(context).pushNamed('/detail'),
-                  leading: CircleAvatar(
-                    backgroundImage: NetworkImage(
-                      data?.selectedStation?.logo ??
-                          'https://res.cloudinary.com/jesse-dirisu/image/upload/v1577453507/marconixl.png',
-                    ),
+                  onTap: () {
+                    if (playerType == PlayerType.FloatingPlayer) {
+                      return;
+                    }
+                    Navigator.of(context).pushNamed('/detail');
+                  },
+                  leading: AppDisk(
+                    data.selectedStation,
+                    maxWidth: 50,
                   ),
                   title: Text(
                     data.selectedStation.name.toUpperCase(),

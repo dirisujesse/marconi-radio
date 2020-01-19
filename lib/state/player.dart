@@ -6,6 +6,7 @@ import 'package:marconi_radio/services/channels.dart';
 import 'package:flutter/foundation.dart';
 import 'package:marconi_radio/models/station.dart';
 import 'package:flutter_media_notification/flutter_media_notification.dart';
+import 'package:marconi_radio/state/preferences.dart';
 
 class PlayerState extends ChangeNotifier {
   NativeCaller player = NativeCaller.getInstance();
@@ -14,6 +15,7 @@ class PlayerState extends ChangeNotifier {
   bool isLoading = false;
   List<dynamic> stations = [];
   Timer _dormant;
+  final PrefsState prefs = PrefsState.getInstance();
   static PlayerState instance;
 
   PlayerState() {
@@ -32,7 +34,6 @@ class PlayerState extends ChangeNotifier {
     MediaNotification.setListener('prev', () {
       playPrev(val: selectedStation);
     });
-    // MediaNotification.setListener('select', () {});
   }
 
   static PlayerState getInstance() {
@@ -55,24 +56,33 @@ class PlayerState extends ChangeNotifier {
     isLoading = true;
     selectedStation = val;
     notifyListeners();
-    final dynamic data = await HttpService.getStream(val.id ?? '2345');
-    if (data is String && data.length > 0) {
-      player.play(data);
-      isPlaying = true;
-      MediaNotification.showNotification(title: val.name, author: val.genre, isPlaying: true);
+    try {
+      final dynamic data = await HttpService.getStream(val.id ?? '2345');
+      if (data is String && data.length > 0) {
+        player.play(data);
+        isPlaying = true;
+        MediaNotification.showNotification(
+            title: val.name, author: val.genre, isPlaying: true);
+        isLoading = false;
+        prefs.add(val, isFav: false);
+        notifyListeners();
+      } else {
+        isLoading = false;
+        notifyListeners();
+      }
+    } catch (e) {
       isLoading = false;
       notifyListeners();
-    } else {
-      isLoading = false;
-      notifyListeners();
-      return;
     }
   }
 
   void pause([bool clearNotif = false]) async {
     player.pause();
     isPlaying = false;
-    MediaNotification.showNotification(title: selectedStation.name, author: selectedStation.genre, isPlaying: false);
+    MediaNotification.showNotification(
+        title: selectedStation.name,
+        author: selectedStation.genre,
+        isPlaying: false);
     notifyListeners();
     _dormant = Timer(Duration(seconds: clearNotif ? 0 : 10), () {
       MediaNotification.hideNotification();
@@ -97,13 +107,13 @@ class PlayerState extends ChangeNotifier {
       if (idx != -1) {
         play(
           val: Station.fromJson(
-            stationList[idx == 0 ? stationList.length - 1 : idx - 1],
+            Map<String, dynamic>.from(stationList[idx == 0 ? stationList.length - 1 : idx - 1]),
           ),
         );
       } else {
         play(
           val: Station.fromJson(
-            stationList[0],
+            Map<String, dynamic>.from(stationList[0]),
           ),
         );
       }
@@ -119,13 +129,13 @@ class PlayerState extends ChangeNotifier {
       if (idx != -1) {
         play(
           val: Station.fromJson(
-            stationList[idx == stationList.length - 1 ? 0 : idx + 1],
+            Map<String, dynamic>.from(stationList[idx == stationList.length - 1 ? 0 : idx + 1]),
           ),
         );
       } else {
         play(
           val: Station.fromJson(
-            stationList[0],
+            Map<String, dynamic>.from(stationList[0]),
           ),
         );
       }
@@ -134,7 +144,7 @@ class PlayerState extends ChangeNotifier {
 
   @override
   void dispose() {
-    player.stop();
+    // player.stop();
     super.dispose();
   }
 }
