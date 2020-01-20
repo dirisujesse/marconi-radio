@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:marconi_radio/services/channels.dart';
+import 'package:marconi_radio/state/player.dart';
 import 'package:marconi_radio/styles/colors.dart';
 
 Future<bool> popHandler(context) async {
@@ -15,36 +16,64 @@ Future<bool> popHandler(context) async {
     await showDialog(
       context: context,
       barrierDismissible: false,
-      child: AlertDialog(
-        title: Text("Rate Marconi Radio"),
-        content: Text(
-          "If you have enjoyed using Marconi Radio please consider rating it",
-        ),
-        actions: <Widget>[
-          FlatButton(
-            textColor: appBlack,
-            child: Text("Remind me later"),
-            onPressed: () {
-              db.put("hasRated", false);
-              db.put("rateDay", tenDaysMillis);
-              Navigator.of(context).pop();
-            },
+      builder: (context) {
+        return AlertDialog(
+          title: Text("Rate Marconi Radio"),
+          content: Text(
+            "If you have enjoyed using Marconi Radio please consider rating it",
           ),
-          RaisedButton(
-            child: Text("Rate Now"),
-            color: appBlack,
-            onPressed: () async {
-              NativeCaller.instance.rate();
-              db.put("hasRated", true);
-              Navigator.of(context).pop();
-            },
-          ),
-        ],
-      ),
+          actions: <Widget>[
+            FlatButton(
+              textColor: appBlack,
+              child: Text("Remind me later"),
+              onPressed: () {
+                db.put("hasRated", false);
+                db.put("rateDay", tenDaysMillis);
+                Navigator.of(context).pop();
+              },
+            ),
+            RaisedButton(
+              child: Text("Rate Now"),
+              color: appBlack,
+              onPressed: () async {
+                NativeCaller.instance.rate();
+                db.put("hasRated", true);
+                Navigator.of(context).pop();
+              },
+            ),
+          ],
+        );
+      },
     );
     return false;
   } else {
-    return true;
+    final bool shouldPop = await showDialog<bool>(
+      context: context,
+      barrierDismissible: false,
+      builder: (context) {
+        return AlertDialog(
+          title: Text("Do you want exit marconi radio?"),
+          actions: <Widget>[
+            FlatButton(
+              textColor: appBlack,
+              child: Text("Yes"),
+              onPressed: () {
+                PlayerState.getInstance().stop();
+                Navigator.of(context).pop(true);
+              },
+            ),
+            RaisedButton(
+              child: Text("No"),
+              color: appBlack,
+              onPressed: () async {
+                Navigator.of(context).pop(false);
+              },
+            ),
+          ],
+        );
+      },
+    );
+    return shouldPop;
   }
 }
 

@@ -32,7 +32,14 @@ class _HomePageState extends State<HomePage>
   @override
   Widget build(BuildContext context) {
     return WillPopScope(
-      onWillPop: () => popHandler(context),
+      onWillPop: () async {
+        if (_ctrl.index != 0) {
+          _ctrl.animateTo(_ctrl.index - 1, duration: Duration(milliseconds: 300), curve: Curves.linear);
+          return false;
+        } else {
+          return popHandler(context);
+        }
+      },
       child: AppScaffold(
         bottomNavigationBar: MarconiPlayer(context),
         appBar: AppBar(
